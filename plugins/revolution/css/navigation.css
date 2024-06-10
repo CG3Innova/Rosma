@@ -1942,6 +1942,7 @@ website:    http://www.themepunch.com
   width:60px;
   height:60px;
   box-sizing:border-box;
+  display: none;
  }
  
  .metis.tparrows:hover {

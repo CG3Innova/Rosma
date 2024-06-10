@@ -616,7 +616,7 @@ img{
 	top:0px;
 	width:100%;
 	z-index:5;
-	background-color:rgba(255,255,255,.90);
+	background-color:rgba(255,255,255,1);
 }
 
 .main-header .logo-box{
@@ -6733,7 +6733,7 @@ img{
 	position: relative;
 	font-size:20px;
 	line-height: 1.2em;
-	color:#222222;
+	color: #fff;
 	font-weight:600;
 	margin-bottom:30px;
 	padding-bottom: 15px;
@@ -6765,7 +6765,7 @@ img{
 	position: relative;
 	font-size: 14px;
 	line-height: 30px;
-	color: #999999;
+	color: #fff;
 	font-weight: 400;
 	margin-bottom: 35px;
 }
@@ -6778,7 +6778,7 @@ img{
 	display: inline-block;
 	font-size: 16px;
 	line-height: 30px;
-	color: #222222;
+	color: #fff;
 	font-weight: 600;
 }
 
@@ -6840,7 +6840,7 @@ img{
 	display: inline-block;
 	font-size: 14px;
 	line-height:20px;
-	color:#999999;
+	color:#fff;
 	font-weight: 500;
 	text-transform:capitalize;
 	-webkit-transition: all 200ms ease;
@@ -6851,7 +6851,7 @@ img{
 }
 
 .main-footer .links-widget .list li a:hover{
-	color:#222222;
+	color:#88af0c;
 	font-weight: 500;
 }
 
@@ -6885,7 +6885,7 @@ img{
 
 .main-footer .contact-list li strong{
 	font-weight: 500;
-	color: #222222;
+	color: #fff;
 }
 
 /*=== Gallery Widget ===*/
@@ -9214,3 +9214,13 @@ img{
 .login-form .psw:hover{
 	text-decoration:underline;	
 }
+
+
+#overlay {
+	position: absolute; 
+	top: inherit; 
+	background-color: rgba(0, 0, 0, 0.35);
+	width: 100%;
+	height: inherit;
+	z-index: 2147483647;
+  }
