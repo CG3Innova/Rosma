@@ -622,19 +622,23 @@ img{
 .main-header .logo-box{
 	position:relative;
 	float: left;
-	padding:40px 0px;
+	padding:10px 0px;
 	z-index:25;
 }
 
 .main-header .logo-box .logo img{
 	display:inline-block;
-	max-width:100%;
+	max-width: 110px;
+}
+
+.logo-menu{
+	max-width: 110px;
 }
 
 /*=== Main Menu ===*/
 
 .main-header .nav-outer{
-	position:relative;
+	position:relative; 
 	float: right;
 }
 
@@ -1360,6 +1364,7 @@ img{
 .fixed-header .sticky-header{
 	z-index:999;
 	opacity:1;
+	display: flex;
 	visibility:visible;
 	background-color:#ffffff;
 	-webkit-box-shadow: 0 0 20px rgba(51,51,51,.1);
@@ -9224,3 +9229,8 @@ img{
 	height: inherit;
 	z-index: 2147483647;
   }
+
+::selection{
+	background-color: #88af0c;
+	color: #fff;
+}
