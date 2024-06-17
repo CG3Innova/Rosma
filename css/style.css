@@ -6758,7 +6758,7 @@ img{
 
 .main-footer .footer-logo{
 	position:relative;	
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 
 .main-footer .footer-logo img{
@@ -7022,6 +7022,7 @@ img{
 
 .main-footer .footer-bottom .link-box{
 	float: right;
+	display: ruby;
 }
 
 .main-footer .footer-bottom .link-box a{
