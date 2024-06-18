@@ -585,6 +585,7 @@ img{
 .main-header .header-top .top-right{
 	position:relative;
 	float:right;
+	padding: 10px 0;
 }
 
 .main-header .header-top .link-box a{
@@ -2713,7 +2714,7 @@ img{
 	transition: all 300ms ease;
 }
 
-.procedure-block:hover .icon{
+/*.procedure-block:hover .icon{
 	opacity: 0;
 	visibility: hidden;
 	-webkit-transform: scale(0);
@@ -2752,7 +2753,7 @@ img{
 	-o-transform: scale(1);
 	transform: scale(1);
 }
-
+*/
 .procedure-block h3{
 	display: block;
 	font-size: 16px;
