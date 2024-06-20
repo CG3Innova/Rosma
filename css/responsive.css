@@ -439,8 +439,8 @@
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a{
 		padding:12px 15px !important;
 		line-height:22px;
-		color:#ffffff !important;
-		background:#88af0c;
+		color:#88af0c !important;
+		background:#fff;
 		text-align:left;
 		min-height:0px;
 		font-size:14px !important;
