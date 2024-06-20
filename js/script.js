@@ -359,4 +359,22 @@
 		handlePreloader();
 	});	
 
+	document.addEventListener('DOMContentLoaded', () => {
+	
+		// Función para establecer el elemento de menú actual basado en ID
+		const setCurrentMenuItem = () => {
+			const path = window.location.pathname.split("/").pop();
+			const page = path === "" ? "index.html" : path;
+			const menuItem = document.querySelector(`#menu-${page.replace('.html', '')}`);
+			
+			if (menuItem) {
+				menuItem.classList.add('current');
+			}
+		};
+	
+		// Llamar a la función al cargar la página
+		setCurrentMenuItem();
+	});
+	
+
 })(window.jQuery);

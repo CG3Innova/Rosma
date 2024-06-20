@@ -10,16 +10,75 @@ class MenuComponent extends HTMLElement {
             .then(data => {
                 this.shadowRoot.innerHTML = `
                     <style>
-                        /* Añade aquí los estilos específicos del menú si es necesario */
                         @import url('css/bootstrap.css');
                         @import url('css/style.css');
                         @import url('css/responsive.css');
+                        .sticky-header {
+                            display: none;
+                            position: fixed;
+                            top: 0;
+                            left: 0;
+                            width: 100%;
+                            z-index: 1000;
+                            background: #fff;
+                            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                            transition: opacity 0.3s ease, visibility 0.3s ease;
+                            opacity: 0;
+                            visibility: hidden;
+                            pointer-events: none; /* Prevent interaction when hidden */
+                        }
+                        .sticky-header.visible {
+                            display: flex;
+                            justify-content: center; /* Center the content horizontally */
+                            opacity: 1;
+                            visibility: visible;
+                            pointer-events: all; /* Allow interaction when visible */
+                        }
+                        .sticky-header .auto-container {
+                            display: flex;
+                            justify-content: center;
+                            align-items: center; /* Center the content vertically if needed */
+                            width: 100%;
+                        }
                     </style>
                     ${data}
                 `;
+                this.initStickyHeader();
+                this.setCurrentMenuItem();
             })
             .catch(error => console.error('Error loading menu:', error));
     }
+
+    initStickyHeader() {
+        const headerLower = this.shadowRoot.querySelector('.header-lower');
+        const stickyHeader = this.shadowRoot.querySelector('.sticky-header');
+        
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 100) {
+                stickyHeader.classList.add('visible');
+                headerLower.style.opacity = '0';
+            } else {
+                stickyHeader.classList.remove('visible');
+                headerLower.style.opacity = '1';
+            }
+        });
+    }
+
+    setCurrentMenuItem() {
+        const path = window.location.pathname.split("/").pop();
+        const page = path === "" ? "index.html" : path;
+        const menuItem = this.shadowRoot.querySelector(`#menu-${page.replace('.html', '')}`);
+        const stickyMenuItem = this.shadowRoot.querySelector(`#sticky-menu-${page.replace('.html', '')}`);
+        
+        if (menuItem) {
+            menuItem.classList.add('current');
+        }
+        
+        if (stickyMenuItem) {
+            stickyMenuItem.classList.add('current');
+        }
+    }
+    
 }
 
 customElements.define('menu-component', MenuComponent);
