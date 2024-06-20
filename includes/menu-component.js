@@ -43,10 +43,30 @@ class MenuComponent extends HTMLElement {
                     </style>
                     ${data}
                 `;
+                this.initCollapsibleMenu();
                 this.initStickyHeader();
                 this.setCurrentMenuItem();
             })
             .catch(error => console.error('Error loading menu:', error));
+    }
+
+    initCollapsibleMenu() {
+        const navToggle = this.shadowRoot.querySelector('.navbar-toggle');
+        const navCollapse = this.shadowRoot.querySelector('.navbar-collapse');
+        
+        navToggle.addEventListener('click', () => {
+            navCollapse.classList.toggle('collapse');
+            navCollapse.classList.toggle('in');
+        });
+        
+        this.shadowRoot.addEventListener('click', (event) => {
+            if (!event.target.matches('.navbar-toggle')) {
+                if (navCollapse.classList.contains('in')) {
+                    navCollapse.classList.remove('in');
+                    navCollapse.classList.add('collapse');
+                }
+            }
+        });
     }
 
     initStickyHeader() {
