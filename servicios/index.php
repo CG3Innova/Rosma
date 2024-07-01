@@ -2,7 +2,7 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-<title>Spa Land - Body & Massage Therapy HTML Template | Services</title>
+<title>Rosma Belleza - Servicios</title>
 
 <!-- Stylesheets -->
 <link href="../css/bootstrap.css" rel="stylesheet">

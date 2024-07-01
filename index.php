@@ -356,7 +356,7 @@
 
                 <div class="btn-column col-md-3 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <a href="service-detail.html" class="theme-btn btn-style-two">More Feature <i class="fa fa-angle-double-right"></i></a>
+                        <a href="service-detail.html" class="theme-btn btn-style-two">Más información <i class="fa fa-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -389,7 +389,7 @@
 
                             <h3><a href="blog-detail.html">Massage Therapy For Managing</a></h3>
                             <div class="text">pleasure and praising pain was born I will give you a complete account of the system, and expound actual teachings great.</div>
-                            <div class="btn-box"><a href="blog-detail.html">Read More <i class="fa fa-angle-double-right"></i></a></div>
+                            <div class="btn-box"><a href="blog-detail.html">Leer más <i class="fa fa-angle-double-right"></i></a></div>
                         </div>
                     </div>
                 </div>
@@ -409,7 +409,7 @@
 
                             <h3><a href="blog-detail.html">Invest in a Healthy Tomorrow</a></h3>
                             <div class="text">Herbal treatment is nontoxic and safe. Extend the benefits of the herbs to your body for a healing touch.</div>
-                            <div class="btn-box"><a href="blog-detail.html">Read More <i class="fa fa-angle-double-right"></i></a></div>
+                            <div class="btn-box"><a href="blog-detail.html">Leer más <i class="fa fa-angle-double-right"></i></a></div>
                         </div>
                     </div>
                 </div>
@@ -429,7 +429,7 @@
 
                             <h3><a href="blog-detail.html">Mystic Aromatherapy</a></h3>
                             <div class="text">Aromatherapy makes use of plant materials and aromatic plant oils as a form of alternative healing medicine.</div>
-                            <div class="btn-box"><a href="blog-detail.html">Read More <i class="fa fa-angle-double-right"></i></a></div>
+                            <div class="btn-box"><a href="blog-detail.html">Leer más <i class="fa fa-angle-double-right"></i></a></div>
                         </div>
                     </div>
                 </div>

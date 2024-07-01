@@ -2,25 +2,25 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-<title>Spa Land - Body & Massage Therapy HTML Template | Services Detail</title>
+<title>Rosma Belleza - Servicio</title>
 
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<link href="../css/bootstrap.css" rel="stylesheet">
+<link href="../css/style.css" rel="stylesheet">
+<link href="../css/responsive.css" rel="stylesheet">
 
 <!--Color Themes-->
-<link id="theme-color-file" href="css/color-themes/default-theme.css" rel="stylesheet">
+<link id="theme-color-file" href="../css/color-themes/default-theme.css" rel="stylesheet">
 
 <!--Favicon-->
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="../images/favicon.png" type="image/x-icon">
+<link rel="icon" href="../images/favicon.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="../js/respond.js"></script><![endif]-->
 </head>
 
 <body>
@@ -29,12 +29,14 @@
     <!-- Preloader -->
     <div class="preloader"></div>
  	
-    <!-- Usar Web Components -->
-    <menu-component></menu-component>
-    <?
+    <?php 
+        $page = "servicios";
+        $service = "servicio";
+        include '../includes/menu.php';
+    ?>
     
  	<!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/9.jpg);">
+    <section class="page-title" style="background-image:url(../images/background/9.jpg);">
         <div class="auto-container">
         	<div class="inner-container clearfix">
 	            <h1>Servicio ejemplo</h1>
@@ -56,7 +58,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="images/resource/service-detail.jpg" alt=""></figure>
+                            <figure><img src="../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Facial Treatment</h2>
@@ -72,7 +74,7 @@
                                         <p>Normal skin remains clear and radiant when regular facials are given. The steam and facial massage used on clients with dry skin, however, should make their skin more hydrated. Combination skin typically shows improvement from regular facial treatments as well. The products used on acne-plagued skin should greatly an acne condition over time if the client follows the skin care professional’s instructions on how to care for his skin at home</p>
                                     </div>
                                     <div class="image-column col-md-6 col-sm-12 col-xs-12">
-                                        <div class="image"><a href="images/gallery/image-5.jpg" class="lightbox-image"><img src="images/resource/feature-thumb-2.jpg" alt=""></a>
+                                        <div class="image"><a href="../images/gallery/image-5.jpg" class="lightbox-image"><img src="../images/resource/feature-thumb-2.jpg" alt=""></a>
                                         </div>
                                     </div>
                                 </div>
@@ -140,7 +142,7 @@
                             <!-- Pricing Block -->
                             <div class="pricing-block">
                                 <div class="inner-box">
-                                    <div class="image-box"><a href="#"><img src="images/resource/feature-1.jpg" alt=""></a></div>
+                                    <div class="image-box"><a href="#"><img src="../images/resource/feature-1.jpg" alt=""></a></div>
                                     <div class="content-box">
                                         <h3><a href="#">Belinese Massage (Time Dur: 40 - 60 Mins)</a></h3>
                                         <p>Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born will give complete.</p>
@@ -155,7 +157,7 @@
                             <!-- Pricing Block -->
                             <div class="pricing-block">
                                 <div class="inner-box">
-                                    <div class="image-box"><a href="#"><img src="images/resource/feature-2.jpg" alt=""></a></div>
+                                    <div class="image-box"><a href="#"><img src="../images/resource/feature-2.jpg" alt=""></a></div>
                                     <div class="content-box">
                                         <h3><a href="#">Head Massage (Time Dur: 30 - 45 Mins)</a></h3>
                                         <p>Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born will give complete.</p>
@@ -170,7 +172,7 @@
                             <!-- Pricing Block -->
                             <div class="pricing-block">
                                 <div class="inner-box">
-                                    <div class="image-box"><a href="#"><img src="images/resource/feature-3.jpg" alt=""></a></div>
+                                    <div class="image-box"><a href="#"><img src="../images/resource/feature-3.jpg" alt=""></a></div>
                                     <div class="content-box">
                                         <h3><a href="#">Western Massage (Time Dur: 45 - 60 Mins)</a></h3>
                                         <p>Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born will give complete.</p>
@@ -187,55 +189,17 @@
                     </div><!-- Service Detail -->
                 </div>
 
-                <!--Sidebar Side-->
-                <div class="sidebar-side col-md-3 col-sm-12 col-xs-12">
-                    <aside class="sidebar service-sidebar">
+                <?php 
+                    include '../includes/sidebar.php';
+                ?>
 
-                        <!-- Services Cat List -->
-                        <div class="sidebar-widget categories">
-                            <ul class="service-cat-list">
-                                <li><a href="servicio.html">Message Therapy</a></li>
-                                <li class="active"><a href="servicio.html">Facial Treatment</a></li>
-                                <li><a href="servicio.html">Pedicure & Menicure</a></li>
-                                <li><a href="servicio.html">Salt and Oil Bath</a></li>
-                                <li><a href="servicio.html">Hair Treatments</a></li>
-                                <li><a href="servicio.html">Organic Spa</a></li>
-                            </ul>
-                        </div>
-
-                        <!-- Download Links -->
-                        <div class="sidebar-widget download-links">
-                            <h3>Our Brochures</h3>
-                            <div class="link-box">
-                                <span class="icon fa fa-file-pdf-o"></span>
-                                <h5>Procedures Catalog</h5>
-                                <a href="#">Download.pdf</a>
-                            </div>
-                            <div class="link-box">
-                                <span class="icon fa fa-file-excel-o"></span>
-                                <h5>Daily Spanz Amenities</h5>
-                                <a href="#">Download.txt</a>
-                            </div>
-                        </div>
-
-                        <!-- Free Consultation -->
-                        <div class="sidebar-widget consultation">
-                            <div class="consult-box" style="background-image: url(images/resource/consult-bg.jpg);">
-                                <span>Quick Contact</span>
-                                <h4>Get Solution</h4>
-                                <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                                <a href="services.html" class="theme-btn">Contact</a>
-                            </div>
-                        </div>  
-                    </aside>
-                </div>
             </div>
         </div>
     </div>
     <!-- End Service Detail Section -->
 
     <!-- Subscribe Section -->
-    <section class="subscribe-section" style="background-image: url(images/background/10.jpg);">
+    <section class="subscribe-section" style="background-image: url(../images/background/10.jpg);">
         <div class="auto-container">
             <div class="row clearfix">
                 <div class="title-column col-md-6 col-sm-12 col-xs-12">
@@ -267,29 +231,26 @@
     </section>
     <!--End Subscribe Section -->
     
-    <!-- Main Footer -->
-    <footer-component></footer-component>
-    <!-- End Main Footer -->
+    <?php 
+        include '../includes/footer.php';
+    ?>
 
 </div>    
 <!--End pagewrapper-->
 
 
 
-<script src="js/jquery.js"></script> 
-<script src="js/bootstrap.min.js"></script>
+<script src="../js/jquery.js"></script> 
+<script src="../js/bootstrap.min.js"></script>
 <!--End Revolution Slider-->
-<script src="js/jquery-ui.js"></script> 
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/mixitup.js"></script>
-<script src="js/script.js"></script>
+<script src="../js/jquery-ui.js"></script> 
+<script src="../js/jquery.fancybox.js"></script>
+<script src="../js/owl.js"></script>
+<script src="../js/appear.js"></script>
+<script src="../js/wow.js"></script>
+<script src="../js/mixitup.js"></script>
+<script src="../js/script.js"></script>
 
-<!-- Incluir los scripts de los Web Components -->
-<script src="includes/menu-component.js"></script>
-<script src="includes/footer-component.js"></script>
 
 </body>
 </html>
