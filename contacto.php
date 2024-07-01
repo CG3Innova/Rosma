@@ -30,7 +30,10 @@
     <!-- Preloader -->
     <div class="preloader"></div>
  	
-    <menu-component></menu-component>
+    <?php 
+        $page = "contacto";
+        include 'includes/menu.php';
+    ?>
     
  	<!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/9.jpg);">
@@ -136,7 +139,9 @@
     </section>
     <!--End Contact Page Section -->
     
-    <footer-component></footer-component>
+    <?php 
+        include 'includes/footer.php';
+    ?>
 
 </div>    
 <!--End pagewrapper-->

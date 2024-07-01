@@ -1,20 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es-ES">
 <head>
 <meta charset="utf-8">
 <title>Spa Land - Body & Massage Therapy HTML Template | Services</title>
 
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<link href="../css/bootstrap.css" rel="stylesheet">
+<link href="../css/style.css" rel="stylesheet">
+<link href="../css/responsive.css" rel="stylesheet">
 
 <!--Color Themes-->
-<link id="theme-color-file" href="css/color-themes/default-theme.css" rel="stylesheet">
+<link id="theme-color-file" href="../css/color-themes/default-theme.css" rel="stylesheet">
 
 <!--Favicon-->
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="../images/favicon.png" type="image/x-icon">
+<link rel="icon" href="../images/favicon.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -30,15 +30,18 @@
     <div class="preloader"></div>
  	
     <!-- Usar Web Components -->
-    <menu-component></menu-component>
+    <?php 
+        $page = "servicios";
+        include '../includes/menu.php';
+    ?>
     
  	<!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/9.jpg);">
+    <section class="page-title" style="background-image:url(../images/background/9.jpg);">
         <div class="auto-container">
         	<div class="inner-container clearfix">
 	            <h1>Servicios</h1>
 	            <ul class="bread-crumb clearfix">
-	                <li><a href="index.html">Inicio </a></li>
+	                <li><a href="../index.php">Inicio </a></li>
 	                <li>Servicios</li>
 	            </ul>
         	</div>
@@ -91,8 +94,8 @@
                 <div class="image-column col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
                         <div class="image-box">
-                            <figure class="image-one"><img src="images/resource/image-3.png" alt=""></figure>
-                            <figure class="image-two"><img src="images/resource/side-img-4.png" alt=""></figure>
+                            <figure class="image-one"><img src="../images/resource/image-3.png" alt=""></figure>
+                            <figure class="image-two"><img src="../images/resource/side-img-4.png" alt=""></figure>
                         </div>
                     </div>
                 </div>
@@ -147,15 +150,15 @@
             </div>
 
             <!--Image Column-->
-            <div class="image-column" style="background-image:url(images/resource/image-4.jpg);">
-                <figure class="image-box"><img src="images/resource/image-4.jpg" alt=""></figure>
+            <div class="image-column" style="background-image:url(../images/resource/image-4.jpg);">
+                <figure class="image-box"><img src="../images/resource/image-4.jpg" alt=""></figure>
             </div>
         </div>
     </section>
     <!-- End Fluid Section -->
 
         <!-- Services Section -->
-    <section class="services-section" style="background-image: url(images/background/1.jpg);">
+    <section class="services-section" style="background-image: url(../images/background/1.jpg);">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title">We take for you</span>
@@ -169,7 +172,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></div>
+                            <div class="image"><a href="service-detail.html"><img src="../images/resource/service-1.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-stones"></span></div>
@@ -183,7 +186,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-2.jpg" alt=""></a></div>
+                            <div class="image"><a href="service-detail.html"><img src="../images/resource/service-2.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-facial"></span></div>
@@ -197,7 +200,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-3.jpg" alt=""></a></div>
+                            <div class="image"><a href="service-detail.html"><img src="../images/resource/service-3.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
@@ -211,7 +214,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></div>
+                            <div class="image"><a href="service-detail.html"><img src="../images/resource/service-1.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-stones"></span></div>
@@ -225,7 +228,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-2.jpg" alt=""></a></div>
+                            <div class="image"><a href="service-detail.html"><img src="../images/resource/service-2.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-facial"></span></div>
@@ -239,7 +242,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-3.jpg" alt=""></a></div>
+                            <div class="image"><a href="service-detail.html"><img src="../images/resource/service-3.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
@@ -253,7 +256,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></div>
+                            <div class="image"><a href="service-detail.html"><img src="../images/resource/service-1.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-stones"></span></div>
@@ -267,7 +270,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-2.jpg" alt=""></a></div>
+                            <div class="image"><a href="service-detail.html"><img src="../images/resource/service-2.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-facial"></span></div>
@@ -281,7 +284,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-3.jpg" alt=""></a></div>
+                            <div class="image"><a href="service-detail.html"><img src="../images/resource/service-3.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
@@ -296,7 +299,7 @@
     <!-- End Services Section -->
 
     <!-- Subscribe Section -->
-    <section class="subscribe-section" style="background-image: url(images/background/10.jpg);">
+    <section class="subscribe-section" style="background-image: url(../images/background/10.jpg);">
         <div class="auto-container">
             <div class="row clearfix">
                 <div class="title-column col-md-6 col-sm-12 col-xs-12">
@@ -328,28 +331,29 @@
     </section>
     <!--End Subscribe Section -->
     
-    <!-- Usar Web Components -->
-    <footer-component></footer-component>
+    <?php 
+        include '../includes/footer.php';
+    ?>
 
 </div>    
 <!--End pagewrapper-->
 
 
 
-<script src="js/jquery.js"></script> 
-<script src="js/bootstrap.min.js"></script>
+<script src="../js/jquery.js"></script> 
+<script src="../js/bootstrap.min.js"></script>
 <!--End Revolution Slider-->
-<script src="js/jquery-ui.js"></script> 
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/mixitup.js"></script>
-<script src="js/script.js"></script>
+<script src="../js/jquery-ui.js"></script> 
+<script src="../js/jquery.fancybox.js"></script>
+<script src="../js/owl.js"></script>
+<script src="../js/appear.js"></script>
+<script src="../js/wow.js"></script>
+<script src="../js/mixitup.js"></script>
+<script src="../js/script.js"></script>
 
 <!-- Incluir los scripts de los Web Components -->
-<script src="includes/menu-component.js"></script>
-<script src="includes/footer-component.js"></script>
+<script src="../includes/menu-component.js"></script>
+<script src="../includes/footer-component.js"></script>
 
 </body>
 </html>

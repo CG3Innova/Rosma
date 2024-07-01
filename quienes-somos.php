@@ -29,8 +29,10 @@
     <!-- Preloader -->
     <div class="preloader"></div>
  	
-    <!-- Usar Web Components -->
-    <menu-component></menu-component>
+    <?php 
+        $page = "quienes-somos";
+        include 'includes/menu.php';
+    ?>
     
  	<!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/9.jpg);">
@@ -265,7 +267,9 @@
     <!--End Fun Facts Section-->
 
     <!-- Usar Web Components -->
-    <footer-component></footer-component>
+    <?php 
+        include 'includes/footer.php';
+    ?>
 
 </div>    
 <!--End pagewrapper-->
