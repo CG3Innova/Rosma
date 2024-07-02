@@ -5,19 +5,12 @@
         <!-- Services Cat List -->
         <div class="sidebar-widget categories">
             <ul class="service-cat-list">
-                <li><a href="servicio.php">Con buena cara</a></li>
-                <li><a href="servicio.php">Para tu mirada</a></li>
-                <li class="<?php if ($service == "servicio") { echo 'active'; }?>"><a href="servicio.php">Dame tu mano</a></li>
-                <li><a href="servicio.php">Pisa fuerte</a></li>
-                <li><a href="servicio.php">Piel de seda</a></li>
-                <li><a href="servicio.php">Fotodepilación</a></li>
-                <li><a href="servicio.php">Para que estés más guapa</a></li>
-                <li><a href="servicio.php">Formando curvas</a></li>
-                <li><a href="servicio.php">Da el DO de pecho</a></li>
-                <li><a href="servicio.php">A toda velocidad</a></li>
-                <li><a href="servicio.php">Para mamá</a></li>
-                <li><a href="servicio.php">Para que te mimes</a></li>
-                <li><a href="servicio.php">Para tu bienestar</a></li>
+                <li><a href="servicio.php">Limpieza de cutis</a></li>
+                <li><a href="servicio.php">Hidratación</a></li>
+                <li class="<?php if ($service == "servicio") { echo 'active'; }?>"><a href="servicio.php">Acné</a></li>
+                <li><a href="servicio.php">Manchas</a></li>
+                <li><a href="servicio.php">Anti-edad</a></li>
+                <li><a href="servicio.php">Flacidez</a></li>
             </ul>
         </div>
 

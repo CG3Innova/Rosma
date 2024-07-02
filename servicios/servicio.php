@@ -131,61 +131,6 @@
                         </section>
                         <!--End Procedure Section -->
 
-                        <!-- Pricing Section Two -->
-                        <section class="pricing-section-two">
-                            <div class="sec-title text-center">
-                                <span class="title">The best rupice plan</span>
-                                <h2>Our Priceing & Plans</h2>
-                                <div class="separator"><span class="flaticon-flower"></span></div>
-                            </div>
-
-                            <!-- Pricing Block -->
-                            <div class="pricing-block">
-                                <div class="inner-box">
-                                    <div class="image-box"><a href="#"><img src="../images/resource/feature-1.jpg" alt=""></a></div>
-                                    <div class="content-box">
-                                        <h3><a href="#">Belinese Massage (Time Dur: 40 - 60 Mins)</a></h3>
-                                        <p>Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born will give complete.</p>
-                                    </div>
-                                    <div class="price-box">
-                                        <span class="price">$600</span>
-                                        <a href="#" class="theme-btn">Appoint Now</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Pricing Block -->
-                            <div class="pricing-block">
-                                <div class="inner-box">
-                                    <div class="image-box"><a href="#"><img src="../images/resource/feature-2.jpg" alt=""></a></div>
-                                    <div class="content-box">
-                                        <h3><a href="#">Head Massage (Time Dur: 30 - 45 Mins)</a></h3>
-                                        <p>Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born will give complete.</p>
-                                    </div>
-                                    <div class="price-box">
-                                        <span class="price">$280</span>
-                                        <a href="#" class="theme-btn">Appoint Now</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Pricing Block -->
-                            <div class="pricing-block">
-                                <div class="inner-box">
-                                    <div class="image-box"><a href="#"><img src="../images/resource/feature-3.jpg" alt=""></a></div>
-                                    <div class="content-box">
-                                        <h3><a href="#">Western Massage (Time Dur: 45 - 60 Mins)</a></h3>
-                                        <p>Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born will give complete.</p>
-                                    </div>
-                                    <div class="price-box">
-                                        <span class="price">$340</span>
-                                        <a href="#" class="theme-btn">Appoint Now</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <!--End Pricing Section Two -->
-
                     </div><!-- Service Detail -->
                 </div>
 

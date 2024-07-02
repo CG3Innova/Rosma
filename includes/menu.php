@@ -58,8 +58,9 @@
                                             <li><a href="gallery-detail.php">Gallery Detail</a></li> 
                                         </ul>
                                     </li>
-                                    <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown" class="dropdown"><a href="index.php">Servicios</a>
+                                    <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown" class="dropdown"><a href="#">Servicios</a>
                                         <ul>
+                                            <li><a href="index.php">Todos los servicios</a></li>
                                             <li><a href="servicio.php">Con buena cara</a></li>
                                             <li><a href="servicio.php">Para tu mirada</a></li>
                                             <li><a href="servicio.php">Dame tu mano</a></li>
@@ -123,8 +124,9 @@
                                 </li>
                                 <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="quienes-somos.php">Quienes somos</a>
                                 </li>
-                                <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="index.php">Servicios</a>
+                                <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
                                     <ul>
+                                        <li><a href="index.php">Todos los servicios</a></li>
                                         <li><a href="servicio.php">Con buena cara</a></li>
                                         <li><a href="servicio.php">Para tu mirada</a></li>
                                         <li><a href="servicio.php">Dame tu mano</a></li>
@@ -290,17 +292,6 @@
                                 </li>
                                 <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="servicios/index.php">Servicios</a>
                                     <ul>
-                                        <li><a href="servicios/servicio.php">Message Therapy</a></li>
-                                        <li><a href="servicios/servicio.php">Facial Treatment</a></li>
-                                        <li><a href="servicios/servicio.php">Pedicure & Menicure</a></li>
-                                        <li><a href="servicios/servicio.php">Salt and Oil Bath</a></li>
-                                        <li><a href="servicios/servicio.php">Hair Treatments</a></li> 
-                                    </ul>
-                                </li>
-                                <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="blog.php">Nuestro Blog</a>
-                                </li>
-                                <li class="dropdown"><a href="#">Shop</a>
-                                    <ul>
                                         <li><a href="servicios/servicio.php">Con buena cara</a></li>
                                         <li><a href="servicios/servicio.php">Para tu mirada</a></li>
                                         <li><a href="servicios/servicio.php">Dame tu mano</a></li>
@@ -313,7 +304,18 @@
                                         <li><a href="servicios/servicio.php">A toda velocidad</a></li>
                                         <li><a href="servicios/servicio.php">Para mamá</a></li>
                                         <li><a href="servicios/servicio.php">Para que te mimes</a></li>
-                                        <li><a href="servicios/servicio.php">Para tu bienestar</a></li>
+                                        <li><a href="servicios/servicio.php">Para tu bienestar</a></li> 
+                                    </ul>
+                                </li>
+                                <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="blog.php">Nuestro Blog</a>
+                                </li>
+                                <li class="dropdown"><a href="#">Shop</a>
+                                    <ul>
+                                        <li><a href="shop.php">Products</a></li>
+                                        <li><a href="shop-single.php">Products Detail</a></li>
+                                        <li><a href="checkout.php">Checkout</a></li>
+                                        <li><a href="cart.php">Shopping Cart</a></li>
+                                        <li><a href="login.php">Registration</a></li>
                                     </ul>
                                 </li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
