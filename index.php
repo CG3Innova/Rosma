@@ -544,8 +544,6 @@
 <script src="js/mixitup.js"></script>
 <script src="js/script.js"></script>
 <script src="js/bootstrap.min.js"></script>
-<!-- Incluir los scripts de los Web Components -->
-<script src="includes/menu-component.js"></script>
-<script src="includes/footer-component.js"></script>
+
 </body>
 </html>

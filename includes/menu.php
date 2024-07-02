@@ -225,8 +225,9 @@
                                             <li><a href="gallery-detail.php">Gallery Detail</a></li> 
                                         </ul>
                                     </li>
-                                    <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="servicios/index.php">Servicios</a>
+                                    <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
                                         <ul>
+                                            <li><a href="servicios/index.php">Todos los servicios</a></li>
                                             <li><a href="servicios/servicio.php">Con buena cara</a></li>
                                             <li><a href="servicios/servicio.php">Para tu mirada</a></li>
                                             <li><a href="servicios/servicio.php">Dame tu mano</a></li>
@@ -290,8 +291,9 @@
                                 </li>
                                 <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="quienes-somos.php">Quienes somos</a>
                                 </li>
-                                <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="servicios/index.php">Servicios</a>
+                                <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
                                     <ul>
+                                        <li><a href="servicios/index.php">Todos los servicios</a></li>
                                         <li><a href="servicios/servicio.php">Con buena cara</a></li>
                                         <li><a href="servicios/servicio.php">Para tu mirada</a></li>
                                         <li><a href="servicios/servicio.php">Dame tu mano</a></li>

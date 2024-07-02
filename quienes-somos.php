@@ -286,9 +286,7 @@
 <script src="js/wow.js"></script>
 <script src="js/mixitup.js"></script>
 <script src="js/script.js"></script>
-<!-- Incluir los scripts de los Web Components -->
-<script src="includes/menu-component.js"></script>
-<script src="includes/footer-component.js"></script>
+
 
 </body>
 </html>
