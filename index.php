@@ -29,14 +29,14 @@
 
 <body>
 <div class="page-wrapper">
+
     <!-- Preloader -->
     <div class="preloader"></div>
 
-    <?php 
+    <?php
         $page = "index";
         include 'includes/menu.php';
     ?>
-    
 
     <!--Main Slider-->
     <section class="main-slider">
