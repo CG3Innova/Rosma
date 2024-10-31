@@ -32,6 +32,7 @@
     <?php 
         $page = "servicios-2";
         $service = "servicio";
+        $sidebar = "con-buena-cara"
         include '../includes/menu.php';
     ?>
     
