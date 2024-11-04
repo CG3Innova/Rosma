@@ -216,11 +216,11 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></div>
+                            <div class="image"><a href="servicios/con-buena-cara/index.php"><img src="images/resource/service-1.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-stones"></span></div>
-                            <h3><a href="service-detail.html">Hot Stone Massage</a></h3>
+                            <h3><a href="servicios/con-buena-cara/index.php">Con buena cara</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -230,11 +230,11 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-2.jpg" alt=""></a></div>
+                            <div class="image"><a href="servicios/dame-tu-mano/index.php"><img src="images/resource/service-2.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-facial"></span></div>
-                            <h3><a href="service-detail.html">Facial Treatment</a></h3>
+                            <h3><a href="servicios/dame-tu-mano/index.php">Dame tu mano</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -244,11 +244,11 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-3.jpg" alt=""></a></div>
+                            <div class="image"><a href="servicios/pisa-fuerte/index.php"><img src="images/resource/service-3.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
-                            <h3><a href="service-detail.html">Pedicure & Medicure</a></h3>
+                            <h3><a href="servicios/pisa-fuerte/index.php">Pisa fuerte</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -258,11 +258,11 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></div>
+                            <div class="image"><a href="servicios/piel-de-seda/index.php"><img src="images/resource/service-1.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-stones"></span></div>
-                            <h3><a href="service-detail.html">Hot Stone Massage</a></h3>
+                            <h3><a href="servicios/piel-de-seda/index.php">Piel de seda</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -272,11 +272,11 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-2.jpg" alt=""></a></div>
+                            <div class="image"><a href="servicios/fotodepilacion/index.php"><img src="images/resource/service-2.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-facial"></span></div>
-                            <h3><a href="service-detail.html">Facial Treatment</a></h3>
+                            <h3><a href="servicios/fotodepilacion/index.php">Fotodepilación</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -286,11 +286,11 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-3.jpg" alt=""></a></div>
+                            <div class="image"><a href="servicios/para-que-estes-mas-guapa/index.php"><img src="images/resource/service-3.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
-                            <h3><a href="service-detail.html">Pedicure & Medicure</a></h3>
+                            <h3><a href="servicios/para-que-estes-mas-guapa/index.php">Para que estés más guapa</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -300,11 +300,11 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></div>
+                            <div class="image"><a href="servicios/formando-curvas/index.php"><img src="images/resource/service-1.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-stones"></span></div>
-                            <h3><a href="service-detail.html">Hot Stone Massage</a></h3>
+                            <h3><a href="servicios/formando-curvas/index.php">Formando curvas</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -314,11 +314,11 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-2.jpg" alt=""></a></div>
+                            <div class="image"><a href="servicios/a-toda-velocidad/index.php"><img src="images/resource/service-2.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-facial"></span></div>
-                            <h3><a href="service-detail.html">Facial Treatment</a></h3>
+                            <h3><a href="servicios/a-toda-velocidad/index.php">A toda velocidad</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -328,11 +328,67 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="service-detail.html"><img src="images/resource/service-3.jpg" alt=""></a></div>
+                            <div class="image"><a href="servicios/para-tu-mirada/index.php"><img src="images/resource/service-3.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
-                            <h3><a href="service-detail.html">Pedicure & Medicure</a></h3>
+                            <h3><a href="servicios/para-tu-mirada/index.php">Para tu mirada</a></h3>
+                            <p>Stone Massage are the best most popular spa treatment.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Services Block -->
+                <div class="service-block">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <div class="image"><a href="servicios/da-el-do-de-pecho/index.php"><img src="images/resource/service-3.jpg" alt=""></a></div>
+                        </div>
+                        <div class="lower-content">
+                            <div class="icon-box"><span class="flaticon-nail"></span></div>
+                            <h3><a href="servicios/da-el-do-de-pecho/index.php">Da el DO de pecho</a></h3>
+                            <p>Stone Massage are the best most popular spa treatment.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Services Block -->
+                <div class="service-block">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <div class="image"><a href="servicios/escote-de-infarto/index.php"><img src="images/resource/service-3.jpg" alt=""></a></div>
+                        </div>
+                        <div class="lower-content">
+                            <div class="icon-box"><span class="flaticon-nail"></span></div>
+                            <h3><a href="servicios/escote-de-infarto/index.php">Escote de infarto</a></h3>
+                            <p>Stone Massage are the best most popular spa treatment.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Services Block -->
+                <div class="service-block">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <div class="image"><a href="servicios/para-que-te-mimes/index.php"><img src="images/resource/service-3.jpg" alt=""></a></div>
+                        </div>
+                        <div class="lower-content">
+                            <div class="icon-box"><span class="flaticon-nail"></span></div>
+                            <h3><a href="servicios/para-que-te-mimes/index.php">Para que te mimes</a></h3>
+                            <p>Stone Massage are the best most popular spa treatment.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Services Block -->
+                <div class="service-block">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <div class="image"><a href="servicios/para-tu-bienestar/index.php"><img src="images/resource/service-3.jpg" alt=""></a></div>
+                        </div>
+                        <div class="lower-content">
+                            <div class="icon-box"><span class="flaticon-nail"></span></div>
+                            <h3><a href="servicios/para-tu-bienestar/index.php">Para tu bienestar</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
