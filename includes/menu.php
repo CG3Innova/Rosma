@@ -56,30 +56,21 @@
                                         <ul>
                                             <li><a href="index.php">Todos los servicios</a></li>
                                             <li><a href="con-buena-cara/index.php">Con buena cara</a></li>
-                                            <li><a href="para-tu-mirada/index.php">Para tu mirada</a></li>
                                             <li><a href="dame-tu-mano/index.php">Dame tu mano</a></li>
                                             <li><a href="pisa-fuerte/index.php">Pisa fuerte</a></li>
                                             <li><a href="piel-de-seda/index.php">Piel de seda</a></li>
                                             <li><a href="fotodepilacion/index.php">Fotodepilación</a></li>
                                             <li><a href="para-que-estes-mas-guapa/index.php">Para que estés más guapa</a></li>
                                             <li><a href="formando-curvas/index.php">Formando curvas</a></li>
-                                            <li><a href="da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
                                             <li><a href="a-toda-velocidad/index.php">A toda velocidad</a></li>
-                                            <li><a href="para-mama/index.php">Para mamá</a></li>
+                                            <li><a href="para-tu-mirada/index.php">Para tu mirada</a></li>
+                                            <li><a href="da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
+                                            <li><a href="escote-de-infarto/index.php">Escote de infarto</a></li>
                                             <li><a href="para-que-te-mimes/index.php">Para que te mimes</a></li>
                                             <li><a href="para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
                                     </li>
                                     <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="../blog.php">Nuestro Blog</a>
-                                    </li>
-                                    <li class="dropdown"><a href="#">Shop</a>
-                                        <ul>
-                                            <li><a href="shop.php">Products</a></li>
-                                            <li><a href="shop-single.php">Products Detail</a></li>
-                                            <li><a href="checkout.php">Checkout</a></li>
-                                            <li><a href="cart.php">Shopping Cart</a></li>
-                                            <li><a href="login.php">Registration</a></li>
-                                        </ul>
                                     </li>
                                     <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../contacto.php">Contacto</a></li>
                                 </ul>
@@ -122,30 +113,21 @@
                                     <ul>
                                         <li><a href="index.php">Todos los servicios</a></li>
                                         <li><a href="con-buena-cara/index.php">Con buena cara</a></li>
-                                        <li><a href="para-tu-mirada/index.php">Para tu mirada</a></li>
                                         <li><a href="dame-tu-mano/index.php">Dame tu mano</a></li>
                                         <li><a href="pisa-fuerte/index.php">Pisa fuerte</a></li>
                                         <li><a href="piel-de-seda/index.php">Piel de seda</a></li>
                                         <li><a href="fotodepilacion/index.php">Fotodepilación</a></li>
                                         <li><a href="para-que-estes-mas-guapa/index.php">Para que estés más guapa</a></li>
                                         <li><a href="formando-curvas/index.php">Formando curvas</a></li>
-                                        <li><a href="da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
                                         <li><a href="a-toda-velocidad/index.php">A toda velocidad</a></li>
-                                        <li><a href="para-mama/index.php">Para mamá</a></li>
+                                        <li><a href="para-tu-mirada/index.php">Para tu mirada</a></li>
+                                        <li><a href="da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
+                                        <li><a href="escote-de-infarto/index.php">Escote de infarto</a></li>
                                         <li><a href="para-que-te-mimes/index.php">Para que te mimes</a></li>
                                         <li><a href="para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
                                 </li>
                                 <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="blog.php">Nuestro Blog</a>
-                                </li>
-                                <li class="dropdown"><a href="#">Shop</a>
-                                    <ul>
-                                        <li><a href="shop.php">Products</a></li>
-                                        <li><a href="shop-single.php">Products Detail</a></li>
-                                        <li><a href="checkout.php">Checkout</a></li>
-                                        <li><a href="cart.php">Shopping Cart</a></li>
-                                        <li><a href="login.php">Registration</a></li>
-                                    </ul>
                                 </li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
                             </ul>
@@ -215,32 +197,23 @@
                                     </li>
                                     <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown" class="dropdown"><a href="#">Servicios</a>
                                         <ul>
-                                            <li><a href="../index.php">Todos los servicios</a></li>
-                                            <li><a href="../con-buen-cara/index.php">Con buena cara</a></li>
-                                            <li><a href="../para-tu-mirada/index.php">Para tu mirada</a></li>
-                                            <li><a href="../dame-tu-mano/index.php">Dame tu mano</a></li>
-                                            <li><a href="../pisa-fuerte/index.php">Pisa fuerte</a></li>
-                                            <li><a href="../piel-de-seda/index.php">Piel de seda</a></li>
-                                            <li><a href="../fotodepilacion/index.php">Fotodepilación</a></li>
-                                            <li><a href="../para-que-estes-mas-guapa/index.php">Para que estés más guapa</a></li>
-                                            <li><a href="../formando-curvas/index.php">Formando curvas</a></li>
-                                            <li><a href="../da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
-                                            <li><a href="../a-toda-velocidad/index.php">A toda velocidad</a></li>
-                                            <li><a href="../para-mama/index.php">Para mamá</a></li>
-                                            <li><a href="../para-que-te-mimes/index.php">Para que te mimes</a></li>
-                                            <li><a href="../para-tu-bienestar/index.php">Para tu bienestar</a></li>
+                                        <li><a href="../index.php">Todos los servicios</a></li>
+                                        <li><a href="../con-buena-cara/index.php">Con buena cara</a></li>
+                                        <li><a href="../dame-tu-mano/index.php">Dame tu mano</a></li>
+                                        <li><a href="../pisa-fuerte/index.php">Pisa fuerte</a></li>
+                                        <li><a href="../piel-de-seda/index.php">Piel de seda</a></li>
+                                        <li><a href="../fotodepilacion/index.php">Fotodepilación</a></li>
+                                        <li><a href="../para-que-estes-mas-guapa/index.php">Para que estés más guapa</a></li>
+                                        <li><a href="../formando-curvas/index.php">Formando curvas</a></li>
+                                        <li><a href="../a-toda-velocidad/index.php">A toda velocidad</a></li>
+                                        <li><a href="../para-tu-mirada/index.php">Para tu mirada</a></li>
+                                        <li><a href="../da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
+                                        <li><a href="../escote-de-infarto/index.php">Escote de infarto</a></li>
+                                        <li><a href="../para-que-te-mimes/index.php">Para que te mimes</a></li>
+                                        <li><a href="../para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
                                     </li>
                                     <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="../blog.php">Nuestro Blog</a>
-                                    </li>
-                                    <li class="dropdown"><a href="#">Shop</a>
-                                        <ul>
-                                            <li><a href="shop.php">Products</a></li>
-                                            <li><a href="shop-single.php">Products Detail</a></li>
-                                            <li><a href="checkout.php">Checkout</a></li>
-                                            <li><a href="cart.php">Shopping Cart</a></li>
-                                            <li><a href="login.php">Registration</a></li>
-                                        </ul>
                                     </li>
                                     <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../contacto.php">Contacto</a></li>
                                 </ul>
@@ -282,31 +255,22 @@
                                 <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
                                     <ul>
                                         <li><a href="../index.php">Todos los servicios</a></li>
-                                        <li><a href="../con-buen-cara/index.php">Con buena cara</a></li>
-                                        <li><a href="../para-tu-mirada/index.php">Para tu mirada</a></li>
+                                        <li><a href="../con-buena-cara/index.php">Con buena cara</a></li>
                                         <li><a href="../dame-tu-mano/index.php">Dame tu mano</a></li>
                                         <li><a href="../pisa-fuerte/index.php">Pisa fuerte</a></li>
                                         <li><a href="../piel-de-seda/index.php">Piel de seda</a></li>
                                         <li><a href="../fotodepilacion/index.php">Fotodepilación</a></li>
                                         <li><a href="../para-que-estes-mas-guapa/index.php">Para que estés más guapa</a></li>
                                         <li><a href="../formando-curvas/index.php">Formando curvas</a></li>
-                                        <li><a href="../da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
                                         <li><a href="../a-toda-velocidad/index.php">A toda velocidad</a></li>
-                                        <li><a href="../para-mama/index.php">Para mamá</a></li>
+                                        <li><a href="../para-tu-mirada/index.php">Para tu mirada</a></li>
+                                        <li><a href="../da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
+                                        <li><a href="../escote-de-infarto/index.php">Escote de infarto</a></li>
                                         <li><a href="../para-que-te-mimes/index.php">Para que te mimes</a></li>
                                         <li><a href="../para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
                                 </li>
                                 <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="blog.php">Nuestro Blog</a>
-                                </li>
-                                <li class="dropdown"><a href="#">Shop</a>
-                                    <ul>
-                                        <li><a href="shop.php">Products</a></li>
-                                        <li><a href="shop-single.php">Products Detail</a></li>
-                                        <li><a href="checkout.php">Checkout</a></li>
-                                        <li><a href="cart.php">Shopping Cart</a></li>
-                                        <li><a href="login.php">Registration</a></li>
-                                    </ul>
                                 </li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
                             </ul>
@@ -383,31 +347,22 @@
                                     <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
                                         <ul>
                                             <li><a href="servicios/index.php">Todos los servicios</a></li>
-                                            <li><a href="servicios/con-buen-cara/index.php">Con buena cara</a></li>
-                                            <li><a href="servicios/para-tu-mirada/index.php">Para tu mirada</a></li>
+                                            <li><a href="servicios/con-buena-cara/index.php">Con buena cara</a></li>
                                             <li><a href="servicios/dame-tu-mano/index.php">Dame tu mano</a></li>
                                             <li><a href="servicios/pisa-fuerte/index.php">Pisa fuerte</a></li>
                                             <li><a href="servicios/piel-de-seda/index.php">Piel de seda</a></li>
                                             <li><a href="servicios/fotodepilacion/index.php">Fotodepilación</a></li>
                                             <li><a href="servicios/para-que-estes-mas-guapa/index.php">Para que estés más guapa</a></li>
                                             <li><a href="servicios/formando-curvas/index.php">Formando curvas</a></li>
-                                            <li><a href="servicios/da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
                                             <li><a href="servicios/a-toda-velocidad/index.php">A toda velocidad</a></li>
-                                            <li><a href="servicios/para-mama/index.php">Para mamá</a></li>
+                                            <li><a href="servicios/para-tu-mirada/index.php">Para tu mirada</a></li>
+                                            <li><a href="servicios/da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
+                                            <li><a href="servicios/escote-de-infarto/index.php">Escote de infarto</a></li>
                                             <li><a href="servicios/para-que-te-mimes/index.php">Para que te mimes</a></li>
                                             <li><a href="servicios/para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
                                     </li>
                                     <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="blog.php">Nuestro Blog</a>
-                                    </li>
-                                    <li class="dropdown"><a href="#">Shop</a>
-                                        <ul>
-                                            <li><a href="shop.php">Products</a></li>
-                                            <li><a href="shop-single.php">Products Detail</a></li>
-                                            <li><a href="checkout.php">Checkout</a></li>
-                                            <li><a href="cart.php">Shopping Cart</a></li>
-                                            <li><a href="login.php">Registration</a></li>
-                                        </ul>
                                     </li>
                                     <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
                                 </ul>
@@ -449,31 +404,22 @@
                                 <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
                                     <ul>
                                         <li><a href="servicios/index.php">Todos los servicios</a></li>
-                                        <li><a href="servicios/con-buen-cara/index.php">Con buena cara</a></li>
-                                        <li><a href="servicios/para-tu-mirada/index.php">Para tu mirada</a></li>
+                                        <li><a href="servicios/con-buena-cara/index.php">Con buena cara</a></li>
                                         <li><a href="servicios/dame-tu-mano/index.php">Dame tu mano</a></li>
                                         <li><a href="servicios/pisa-fuerte/index.php">Pisa fuerte</a></li>
                                         <li><a href="servicios/piel-de-seda/index.php">Piel de seda</a></li>
                                         <li><a href="servicios/fotodepilacion/index.php">Fotodepilación</a></li>
                                         <li><a href="servicios/para-que-estes-mas-guapa/index.php">Para que estés más guapa</a></li>
                                         <li><a href="servicios/formando-curvas/index.php">Formando curvas</a></li>
-                                        <li><a href="servicios/da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
                                         <li><a href="servicios/a-toda-velocidad/index.php">A toda velocidad</a></li>
-                                        <li><a href="servicios/para-mama/index.php">Para mamá</a></li>
+                                        <li><a href="servicios/para-tu-mirada/index.php">Para tu mirada</a></li>
+                                        <li><a href="servicios/da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
+                                        <li><a href="servicios/escote-de-infarto/index.php">Escote de infarto</a></li>
                                         <li><a href="servicios/para-que-te-mimes/index.php">Para que te mimes</a></li>
                                         <li><a href="servicios/para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
                                 </li>
                                 <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="blog.php">Nuestro Blog</a>
-                                </li>
-                                <li class="dropdown"><a href="#">Shop</a>
-                                    <ul>
-                                        <li><a href="shop.php">Products</a></li>
-                                        <li><a href="shop-single.php">Products Detail</a></li>
-                                        <li><a href="checkout.php">Checkout</a></li>
-                                        <li><a href="cart.php">Shopping Cart</a></li>
-                                        <li><a href="login.php">Registration</a></li>
-                                    </ul>
                                 </li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
                             </ul>

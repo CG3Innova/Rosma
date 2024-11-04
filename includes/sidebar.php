@@ -7,12 +7,12 @@
             <!-- Services Cat List -->
             <div class="sidebar-widget categories">
                 <ul class="service-cat-list">
-                    <li><a href="servicio.php">Limpieza de cutis</a></li>
-                    <li><a href="servicio.php">Hidratación</a></li>
-                    <li class="<?php if ($service == "servicio") { echo 'active'; }?>"><a href="servicio.php">Acné</a></li>
-                    <li><a href="servicio.php">Manchas</a></li>
-                    <li><a href="servicio.php">Anti-edad</a></li>
-                    <li><a href="servicio.php">Flacidez</a></li>
+                    <li class="<?php if ($service == "limpieza de cutis") { echo 'active'; }?>"><a href="servicio.php">Limpieza de cutis</a></li>
+                    <li class="<?php if ($service == "hidratacion") { echo 'active'; }?>"><a href="servicio.php">Hidratación</a></li>
+                    <li class="<?php if ($service == "acne") { echo 'active'; }?>"><a href="servicio.php">Acné</a></li>
+                    <li class="<?php if ($service == "manchas") { echo 'active'; }?>"><a href="servicio.php">Manchas</a></li>
+                    <li class="<?php if ($service == "anti-edad") { echo 'active'; }?>"><a href="servicio.php">Anti-edad</a></li>
+                    <li class="<?php if ($service == "flacidez") { echo 'active'; }?>"><a href="servicio.php">Flacidez</a></li>
                 </ul>
             </div>
 

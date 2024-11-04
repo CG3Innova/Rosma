@@ -157,8 +157,8 @@
     </section>
     <!-- End Fluid Section -->
 
-        <!-- Services Section -->
-    <section class="services-section" style="background-image: url(../images/background/1.jpg);">
+    <!-- Services Section -->
+    <section class="services-section" style="background-image: url(../images/background/1.jpg);>
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title">We take for you</span>
@@ -298,38 +298,6 @@
     </section>
     <!-- End Services Section -->
 
-    <!-- Subscribe Section -->
-    <section class="subscribe-section" style="background-image: url(../images/background/10.jpg);">
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="title-column col-md-6 col-sm-12 col-xs-12">
-                    <div class="inner-column">
-                        <h2>Book a Session Now</h2>
-                        <ul class="contact-info">
-                            <li>Call Us at : <a href="#">0785 6985 636</a> or</li>
-                            <li>Send us an email : <a href="#">hey@spaland.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <!-- Form Column -->
-                <div class="form-column col-md-6 col-sm-12 col-xs-12">
-                    <div class="inner-column">
-                        <div class="subscribe-form">
-                            <div class="text">If you Want to get updates on Spa & news?</div>
-                            <form method="post" action="index.html">
-                                <div class="form-group">
-                                    <input type="email" name="email" value="" placeholder="Email Address" required="">
-                                    <button type="submit" class="search-btn"><span class="fa fa-send"></span></button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>    
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Subscribe Section -->
     
     <?php 
         include '../includes/footer.php';
