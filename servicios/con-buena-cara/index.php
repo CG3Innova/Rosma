@@ -67,19 +67,6 @@
                             <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
                             <h3>Aging Skin</h3>
                             <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
-                            <!-- Two Column -->
-                            <div class="two-column">
-                                <div class="row clearfix">
-                                    <div class="info-column pull-right col-md-6 col-sm-12 col-xs-12">
-                                        <h3>Benefits</h3>
-                                        <p>Normal skin remains clear and radiant when regular facials are given. The steam and facial massage used on clients with dry skin, however, should make their skin more hydrated. Combination skin typically shows improvement from regular facial treatments as well. The products used on acne-plagued skin should greatly an acne condition over time if the client follows the skin care professional’s instructions on how to care for his skin at home</p>
-                                    </div>
-                                    <div class="image-column col-md-6 col-sm-12 col-xs-12">
-                                        <div class="image"><a href="../../images/gallery/image-5.jpg" class="lightbox-image"><img src="../../images/resource/feature-thumb-2.jpg" alt=""></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
 
                     </div><!-- Service Detail -->
@@ -96,7 +83,9 @@
 
     <!-- Services Section -->
     <section class="services-section" style="background-image: url(../../images/background/1.jpg);">
+
         <div class="auto-container">
+
             <div class="sec-title text-center">
                 <span class="title">We take for you</span>
                 <h2>Our Best Services</h2>
@@ -109,11 +98,11 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="../con-buena-cara.php"><img src="../../images/resource/service-1.jpg" alt=""></a></div>
+                            <div class="image"><a href="../con-buena-cara/index.php"><img src="../../images/resource/service-1.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-stones"></span></div>
-                            <h3><a href="service-detail.html">Con buena cara</a></h3>
+                            <h3><a href="../con-buena-cara/index.php">Con buena cara</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -127,7 +116,7 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-facial"></span></div>
-                            <h3><a href="service-detail.html">Dame tu mano</a></h3>
+                            <h3><a href="../dame-tu-mano/index.php">Dame tu mano</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -141,7 +130,7 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
-                            <h3><a href="service-detail.html">Pisa fuerte</a></h3>
+                            <h3><a href="../pisa-fuerte/index.php">Pisa fuerte</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -155,7 +144,7 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-stones"></span></div>
-                            <h3><a href="service-detail.html">Piel de seda</a></h3>
+                            <h3><a href="../piel-de-seda/index.php">Piel de seda</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -169,7 +158,7 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-facial"></span></div>
-                            <h3><a href="service-detail.html">Fotodepilación</a></h3>
+                            <h3><a href="../fotodepilacion/index.php">Fotodepilación</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -183,7 +172,7 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
-                            <h3><a href="service-detail.html">Para que estés más guapa</a></h3>
+                            <h3><a href="../para-que-estes-mas-guapa/index.php">Para que estés más guapa</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -197,7 +186,7 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-stones"></span></div>
-                            <h3><a href="service-detail.html">Formando curvas</a></h3>
+                            <h3><a href="../formando-curvas/index.php">Formando curvas</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -211,7 +200,7 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-facial"></span></div>
-                            <h3><a href="service-detail.html">A toda velocidad</a></h3>
+                            <h3><a href="../a-toda-velocidad/index.php">A toda velocidad</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -225,7 +214,7 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
-                            <h3><a href="service-detail.html">Para tu mirada</a></h3>
+                            <h3><a href="../para-tu-mirada/index.php">Para tu mirada</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -239,7 +228,7 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
-                            <h3><a href="service-detail.html">Da el DO de pecho</a></h3>
+                            <h3><a href="../da-el-do-de-pecho/index.php">Da el DO de pecho</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -253,7 +242,7 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
-                            <h3><a href="service-detail.html">Escote de infarto</a></h3>
+                            <h3><a href="../escote-de-infarto/index.php">Escote de infarto</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -267,7 +256,7 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
-                            <h3><a href="service-detail.html">Para que te mimes</a></h3>
+                            <h3><a href="../para-que-te-mimes/index.php">Para que te mimes</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
@@ -281,15 +270,16 @@
                         </div>
                         <div class="lower-content">
                             <div class="icon-box"><span class="flaticon-nail"></span></div>
-                            <h3><a href="service-detail.html">Para tu bienestar</a></h3>
+                            <h3><a href="../para-tu-bienestar/index.php">Para tu bienestar</a></h3>
                             <p>Stone Massage are the best most popular spa treatment.</p>
                         </div>
                     </div>
                 </div>
 
-
             </div>
+
         </div>
+
     </section>
     <!-- End Services Section -->
     

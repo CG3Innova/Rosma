@@ -16,20 +16,6 @@
                 </ul>
             </div>
 
-            <!-- Download Links -->
-            <div class="sidebar-widget download-links">
-                <h3>Our Brochures</h3>
-                <div class="link-box">
-                    <span class="icon fa fa-file-pdf-o"></span>
-                    <h5>Procedures Catalog</h5>
-                    <a href="#">Download.pdf</a>
-                </div>
-                <div class="link-box">
-                    <span class="icon fa fa-file-excel-o"></span>
-                    <h5>Daily Spanz Amenities</h5>
-                    <a href="#">Download.txt</a>
-                </div>
-            </div>
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">

@@ -64,8 +64,8 @@
                                             <li><a href="formando-curvas/index.php">Formando curvas</a></li>
                                             <li><a href="a-toda-velocidad/index.php">A toda velocidad</a></li>
                                             <li><a href="para-tu-mirada/index.php">Para tu mirada</a></li>
-                                            <li><a href="da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
                                             <li><a href="escote-de-infarto/index.php">Escote de infarto</a></li>
+                                            <li><a href="para-mama/index.php">Para mamá</a></li>
                                             <li><a href="para-que-te-mimes/index.php">Para que te mimes</a></li>
                                             <li><a href="para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
@@ -121,8 +121,8 @@
                                         <li><a href="formando-curvas/index.php">Formando curvas</a></li>
                                         <li><a href="a-toda-velocidad/index.php">A toda velocidad</a></li>
                                         <li><a href="para-tu-mirada/index.php">Para tu mirada</a></li>
-                                        <li><a href="da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
                                         <li><a href="escote-de-infarto/index.php">Escote de infarto</a></li>
+                                        <li><a href="para-mama/index.php">Para mamá</a></li>
                                         <li><a href="para-que-te-mimes/index.php">Para que te mimes</a></li>
                                         <li><a href="para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
@@ -207,8 +207,8 @@
                                         <li><a href="../formando-curvas/index.php">Formando curvas</a></li>
                                         <li><a href="../a-toda-velocidad/index.php">A toda velocidad</a></li>
                                         <li><a href="../para-tu-mirada/index.php">Para tu mirada</a></li>
-                                        <li><a href="../da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
                                         <li><a href="../escote-de-infarto/index.php">Escote de infarto</a></li>
+                                        <li><a href="../para-mama/index.php">Para mamá</a></li>
                                         <li><a href="../para-que-te-mimes/index.php">Para que te mimes</a></li>
                                         <li><a href="../para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
@@ -264,8 +264,8 @@
                                         <li><a href="../formando-curvas/index.php">Formando curvas</a></li>
                                         <li><a href="../a-toda-velocidad/index.php">A toda velocidad</a></li>
                                         <li><a href="../para-tu-mirada/index.php">Para tu mirada</a></li>
-                                        <li><a href="../da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
                                         <li><a href="../escote-de-infarto/index.php">Escote de infarto</a></li>
+                                        <li><a href="../para-mama/index.php">Para mamá</a></li>
                                         <li><a href="../para-que-te-mimes/index.php">Para que te mimes</a></li>
                                         <li><a href="../para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
@@ -356,8 +356,8 @@
                                             <li><a href="servicios/formando-curvas/index.php">Formando curvas</a></li>
                                             <li><a href="servicios/a-toda-velocidad/index.php">A toda velocidad</a></li>
                                             <li><a href="servicios/para-tu-mirada/index.php">Para tu mirada</a></li>
-                                            <li><a href="servicios/da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
                                             <li><a href="servicios/escote-de-infarto/index.php">Escote de infarto</a></li>
+                                            <li><a href="servicios/para-mama/index.php">Para mamá</a></li>
                                             <li><a href="servicios/para-que-te-mimes/index.php">Para que te mimes</a></li>
                                             <li><a href="servicios/para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
@@ -413,8 +413,8 @@
                                         <li><a href="servicios/formando-curvas/index.php">Formando curvas</a></li>
                                         <li><a href="servicios/a-toda-velocidad/index.php">A toda velocidad</a></li>
                                         <li><a href="servicios/para-tu-mirada/index.php">Para tu mirada</a></li>
-                                        <li><a href="servicios/da-el-do-de-pecho/index.php">Da el DO de pecho</a></li>
                                         <li><a href="servicios/escote-de-infarto/index.php">Escote de infarto</a></li>
+                                        <li><a href="servicios/para-mama/index.php">Para mamá</a></li>
                                         <li><a href="servicios/para-que-te-mimes/index.php">Para que te mimes</a></li>
                                         <li><a href="servicios/para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
