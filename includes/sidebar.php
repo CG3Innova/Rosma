@@ -9,7 +9,7 @@
                 <ul class="service-cat-list">
                     <li class="<?php if ($service == "limpieza-de-cutis") { echo 'active'; }?>"><a href="limpieza-de-cutis.php">Limpieza de cutis</a></li>
                     <li class="<?php if ($service == "hidratantes") { echo 'active'; }?>"><a href="hidratantes.php">Hidratantes</a></li>
-                    <li class="<?php if ($service == "oxigenantes") { echo 'active'; }?>"><a href="oxigenantes.php">oxigenantes</a></li>
+                    <li class="<?php if ($service == "oxigenantes") { echo 'active'; }?>"><a href="oxigenantes.php">Oxigenantes</a></li>
                     <li class="<?php if ($service == "cicatrizantes") { echo 'active'; }?>"><a href="cicatrizantes.php">Cicatrizantes</a></li>
                     <li class="<?php if ($service == "renovadores") { echo 'active'; }?>"><a href="renovadores.php">Renovadores</a></li>
                     <li class="<?php if ($service == "antiedad") { echo 'active'; }?>"><a href="antiedad.php">Antiedad</a></li>
@@ -136,7 +136,7 @@
             <!-- Services Cat List -->
             <div class="sidebar-widget categories">
                 <ul class="service-cat-list">
-                    <li class="<?php if ($service == "fotodepilacion") { echo 'active'; }?>"><a href="fotodepilacion.php">Fotodepilación</a></li>
+                    <li class="<?php if ($service == "fotodepilacion") { echo 'active'; }?>"><a href="index.php">Fotodepilación</a></li>
                 </ul>
             </div>
 
@@ -296,7 +296,7 @@
             <!-- Services Cat List -->
             <div class="sidebar-widget categories">
                 <ul class="service-cat-list">
-                    <li class="<?php if ($service == "tratamiento-cuello-doble-menton-y-escote") { echo 'active'; }?>"><a href="tratamiento-cuello-doble-menton-y-escote.php">Tratamiento cuello,doble mentón y escote</a></li>
+                    <li class="<?php if ($service == "tratamiento-cuello-doble-menton-y-escote") { echo 'active'; }?>"><a href="tratamiento-cuello-doble-menton-y-escote.php">Tratamiento cuello, doble mentón y escote</a></li>
                     <li class="<?php if ($service == "tratamiento-de-senos") { echo 'active'; }?>"><a href="tratamiento-de-senos.php">Tratamiento de Senos</a></li>
                 </ul>
             </div>
@@ -390,7 +390,7 @@
             <!-- Services Cat List -->
             <div class="sidebar-widget categories">
                 <ul class="service-cat-list">
-                    <li class="<?php if ($service == "nutricion") { echo 'active'; }?>"><a href="nutricion.php">Nutrición</a></li>
+                    <li class="<?php if ($service == "nutricion") { echo 'active'; }?>"><a href="index.php">Nutrición</a></li>
                 </ul>
             </div>
 
@@ -406,7 +406,6 @@
             </div>  
         </aside>
     </div> 
-
 
 
 
