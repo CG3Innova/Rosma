@@ -359,8 +359,8 @@
                     <li class="<?php if ($service == "piedras-calientes") { echo 'active'; }?>"><a href="piedras-calientes.php">Piedras calientes</a></li>
                     <li class="<?php if ($service == "ritual-sal-del-himalaya") { echo 'active'; }?>"><a href="ritual-sal-del-himalaya.php">Ritual sal del Himalaya</a></li>
                     <li class="<?php if ($service == "ritual-secrets") { echo 'active'; }?>"><a href="ritual-secrets.php">Ritual secrets</a></li>
-                    <li class="<?php if ($service == "ritual-islas-del-pacifico") { echo 'active'; }?>"><a href="ritual-islas-del-pacifico.php">Ritual islas del pacífico</a></li>
-                    <li class="<?php if ($service == "ritual-maravillas-del-artico") { echo 'active'; }?>"><a href="ritual-maravillas-del-artico.php">Ritual maravillas del ártico</a></li>
+                    <li class="<?php if ($service == "ritual-islas-del-pacifico") { echo 'active'; }?>"><a href="ritual-islas-del-pacifico.php">Ritual islas del Pacífico</a></li>
+                    <li class="<?php if ($service == "ritual-maravillas-del-artico") { echo 'active'; }?>"><a href="ritual-maravillas-del-artico.php">Ritual maravillas del Ártico</a></li>
                     <li class="<?php if ($service == "ritual-mar-de-las-indias") { echo 'active'; }?>"><a href="ritual-mar-de-las-indias.php">Ritual mar de las indias</a></li>
                     <li class="<?php if ($service == "ritual-aceites-esenciales") { echo 'active'; }?>"><a href="ritual-aceites-esenciales.php">Ritual aceites esenciales</a></li>
                 </ul>
@@ -390,7 +390,7 @@
             <!-- Services Cat List -->
             <div class="sidebar-widget categories">
                 <ul class="service-cat-list">
-                    <li class="<?php if ($service == "nutricion") { echo 'active'; }?>"><a href="index.php">Nutrición</a></li>
+                    <li class="<?php if ($service == "nutricion") { echo 'active'; }?>"><a href="nutricion.php">Nutrición</a></li>
                 </ul>
             </div>
 

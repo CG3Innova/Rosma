@@ -2,7 +2,7 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-<title>Rosma Belleza - Fotodepilación</title>
+<title>Rosma Belleza - Pedicura permanente</title>
 
 <!-- Stylesheets -->
 <link href="../../css/bootstrap.css" rel="stylesheet">
@@ -31,8 +31,8 @@
  	
     <?php 
         $page = "servicios-2";
-        $service = "fotodepilacion";
-        $sidebar = "fotodepilacion";
+        $service = "pedicura-permanente";
+        $sidebar = "pisa-fuerte";
         include '../../includes/menu.php';
     ?>
     
@@ -40,7 +40,7 @@
     <section class="page-title" style="background-image:url(../../images/background/9.jpg);">
         <div class="auto-container">
         	<div class="inner-container clearfix">
-	            <h1>Fotodepilación</h1>
+	            <h1>Pedicura permanente</h1>
 	            <ul class="bread-crumb clearfix">
 	                <li><a href="index.html">Inicio</a></li>
 	                <li>Servicios</li>
