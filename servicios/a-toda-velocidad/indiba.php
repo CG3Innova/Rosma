@@ -2,7 +2,7 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-<title>Rosma Belleza - Fotodepilación</title>
+<title>Rosma Belleza - INDIBA</title>
 
 <!-- Stylesheets -->
 <link href="../../css/bootstrap.css" rel="stylesheet">
@@ -27,12 +27,12 @@
 <div class="page-wrapper">
  	
     <!-- Preloader -->
-    <div class="preloader"></div> 
+    <div class="preloader"></div>
  	
     <?php 
         $page = "servicios-2";
-        $service = "fotodepilacion";
-        $sidebar = "fotodepilacion";
+        $service = "indiba";
+        $sidebar = "a-toda-velocidad";
         include '../../includes/menu.php';
     ?>
     
@@ -40,7 +40,7 @@
     <section class="page-title" style="background-image:url(../../images/background/9.jpg);">
         <div class="auto-container">
         	<div class="inner-container clearfix">
-	            <h1>Fotodepilación</h1>
+	            <h1>INDIBA</h1>
 	            <ul class="bread-crumb clearfix">
 	                <li><a href="index.html">Inicio</a></li>
 	                <li>Servicios</li>
