@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Tratamiento antiacné</h2>
+                            <p>El tratamiento antiacné que ofrecemos en Rosma Belleza se basa en un análisis detallado de los distintos tipos de acné y las causas subyacentes que lo provocan. Comprender estas variables es fundamental para lograr resultados óptimos y personalizados.</p>
+                            <p>Nuestro enfoque integral no solo se centra en eliminar las imperfecciones que ya existen en tu piel, sino que va más allá, mejorando la salud general de la misma. Prestamos especial atención a la prevención, asegurándonos de que el acné no vuelva a aparecer. Con un tratamiento a medida, buscamos equilibrar tu piel y darle un aspecto sano y renovado, para que te sientas seguro y cómodo con tu imagen.</p>
                         </div>
 
                     </div><!-- Service Detail -->
@@ -86,7 +84,6 @@
     <?php 
         include '../../includes/servicios.php';
         include '../../includes/footer.php';
-    ?>
     ?>
 
 </div>    

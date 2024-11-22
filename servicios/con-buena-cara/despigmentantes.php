@@ -62,11 +62,10 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Tratamientos despigmentantes</h2>
+                            <p>El tratamiento despigmentante es una solución eficaz para combatir las hiperpigmentaciones en la piel, las cuales pueden ser causadas por una combinación de factores externos, como la exposición solar sin protección, y factores internos, como desequilibrios hormonales o el envejecimiento natural. Para abordar este problema, utilizamos una serie de peelings dermatológicos que actúan produciendo un potente efecto queratolítico, lo que significa que promueven una rápida renovación celular en las capas superficiales y medias de la piel.
+                            </p>
+                            <p>Lo que hace único a cada uno de nuestros peelings son sus principios activos específicos, el porcentaje de concentración de estos ingredientes y el pH de las soluciones. Para asegurar un resultado óptimo, es fundamental realizar un diagnóstico preciso que nos permita elegir el tratamiento más adecuado, maximizando así los beneficios y garantizando una piel más uniforme y luminosa.</p>
                         </div>
 
                     </div><!-- Service Detail -->
@@ -86,7 +85,6 @@
     <?php 
         include '../../includes/servicios.php';
         include '../../includes/footer.php';
-    ?>
     ?>
 
 </div>    

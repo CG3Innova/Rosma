@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Con buena cara</h2>
+                            <p>En Rosma Belleza, te ofrecemos una amplia variedad de tratamientos faciales diseñados para que luzcas la mejor versión de tu rostro. Nuestro centro se especializa en proporcionar los tratamientos más innovadores y efectivos del momento, adaptados a tus necesidades individuales. Desde limpiezas profundas hasta terapias rejuvenecedoras, cada opción está pensada para resaltar tu belleza natural.</p>
+                            <p>Déjate asesorar por nuestras expertas en belleza, quienes cuentan con la formación y la experiencia necesarias para guiarte en la elección del tratamiento más adecuado para ti. No importa cuál sea tu tipo de piel o tu edad; en Rosma Belleza estamos comprometidos a brindarte un servicio personalizado y de calidad, para que te sientas radiante y segura en tu propia piel. ¡Visítanos y descubre todo lo que podemos hacer por ti!</p>
                         </div>
 
                     </div><!-- Service Detail -->
@@ -87,7 +85,7 @@
         include '../../includes/servicios.php';
         include '../../includes/footer.php';
     ?>
-    ?>
+    
 
 </div>    
 <!--End pagewrapper-->
