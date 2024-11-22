@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Pedicura: Belleza y bienestar para tus pies</h2>
+                            <p>Tus pies son una parte fundamental de tu bienestar, y en nuestro servicio de Pedicura nos dedicamos a cuidarlos y embellecerlos con la atención que merecen. Este tratamiento no solo está diseñado para mejorar la apariencia de tus pies, sino también para proporcionar una sensación de confort y relajación.</p>
+                            <p>Incluimos un cuidado completo que abarca desde la limpieza y exfoliación para eliminar impurezas y piel muerta, hasta el limado y esmaltado de las uñas con productos de alta calidad, que garantizan un acabado perfecto y duradero. Además, puedes elegir entre una amplia variedad de colores para lucir un estilo que refleje tu personalidad. Nuestro servicio de pedicura no solo realza la estética de tus pies, sino que también mejora su salud, contribuyendo a su suavidad y bienestar. Regálate un momento de cuidado personal con una pedicura que combina belleza y relajación en cada paso.</p>
                         </div>
 
                     </div><!-- Service Detail -->

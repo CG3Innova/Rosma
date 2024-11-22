@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Manicura Semipermanente: Belleza duradera con esmaltado Shellac</h2>
+                            <p>Nuestro servicio de manicura semipermanente con esmaltado Shellac ofrece una solución ideal para quienes buscan una manicura de larga duración y sin preocupaciones. Este esmalte semipermanente, además de ser vegano y Cruelty Free, garantiza una alta resistencia y una fijación eficiente a la uña, permitiendo que el color se mantenga impecable por mucho más tiempo sin astillarse.</p>
+                            <p>Con una amplia gama de colores disponibles, podrás elegir el tono que mejor se adapte a tu estilo y ocasión, desde tonos sutiles y elegantes hasta colores vibrantes y atrevidos. El esmaltado Shellac no solo proporciona un acabado brillante y profesional, sino que también cuida de tus uñas, evitando los daños y proporcionando una manicura que luce perfecta durante semanas. Atrévete a descubrir la belleza duradera y responsable que tu estilo merece.</p>
                         </div>
 
                     </div><!-- Service Detail -->

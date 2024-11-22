@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Pedicura Semipermanente: Esmaltado Shellac para una Belleza Duradera</h2>
+                            <p>Nuestro servicio de Pedicura Semipermanente con esmaltado Shellac está diseñado para quienes buscan una solución duradera y de alta calidad para el cuidado de sus pies. Este tratamiento garantiza un acabado impecable que combina belleza y resistencia, con una fijación perfecta que se mantiene sin astillarse por semanas.</p>
+                            <p>El esmalte Shellac es vegano y Cruelty Free, y ofrece una amplia gama de colores para que puedas elegir el tono que mejor refleje tu estilo, desde opciones discretas hasta colores vibrantes. Este sistema no solo aporta un brillo duradero, sino que también protege las uñas, proporcionando un acabado profesional que resiste el desgaste diario. Con la Pedicura Semipermanente, podrás disfrutar de pies impecables y cuidados durante más tiempo, sin la necesidad de retoques frecuentes. Perfecto para quienes valoran la durabilidad sin renunciar a la elegancia.</p>
                         </div>
 
                     </div><!-- Service Detail -->

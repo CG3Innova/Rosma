@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Pedicura Spa: Un tratamiento integral con exfoliación y envoltura marina</h2>
+                            <p>Nuestro servicio de Pedicura Spa ofrece una experiencia de cuidado completo y bienestar para sus pies. Este exclusivo tratamiento va más allá de la pedicura tradicional, incorporando una exfoliación delicada que elimina las células muertas, dejando la piel notablemente suave y renovada.</p>
+                            <p>El proceso se enriquece con una envoltura marina, formulada con minerales esenciales, que proporciona una hidratación profunda y una nutrición intensiva, restaurando la suavidad y vitalidad de la piel. Este tratamiento no solo embellece sus pies, sino que también promueve su salud, ofreciéndole una sensación de confort y relajación. La Pedicura Spa es la elección perfecta para quienes desean un enfoque holístico del cuidado personal, combinando estética y bienestar en un solo tratamiento. Permítase un momento de lujo y descubra cómo sus pies pueden lucir y sentirse revitalizados.</p>
                         </div>
 
                     </div><!-- Service Detail -->
