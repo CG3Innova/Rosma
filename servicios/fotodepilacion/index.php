@@ -62,11 +62,15 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Fotodepilación: Eliminación eficaz del vello mediante luz</h2>
+                            <p>La fotodepilación es un tratamiento avanzado que utiliza la luz para eliminar el vello de manera efectiva y duradera, basado en el principio de fototermólisis selectiva. Durante el proceso, la luz se convierte en calor y destruye las células germinativas del folículo piloso de forma selectiva, sin dañar la piel circundante. La melanina absorbe la luz, la transporta al folículo piloso y, al transformarse en calor, quema las células germinativas, impidiendo el crecimiento del vello.</p>
+                            <p>Este tratamiento es apto para trabajar sobre distintos tipos de vello, incluidos aquellos con poca melanina, como el vello amelánico, rubio o pelirrojo, y se lleva a cabo bajo la supervisión de especialistas para garantizar su seguridad y efectividad.</p>
+                            <ul style="margin-bottom: 30px;">
+                                <li style="list-style: inside;">Láser Nd (YAG) (1064 nm): Ideal para pieles más oscuras y vello grueso.</li>
+                                <li style="list-style: inside;">Luz Intensa Pulsada (IPL) (625-1200 nm): Versátil para diferentes tipos de piel y vello.</li>
+                                <li style="list-style: inside;">Láser Diodo (800-810 nm): Proporciona una depilación rápida y eficaz en modo barrido.</li>
+                            </ul>
+                            <p>Este tratamiento ofrece resultados duraderos, cuidando la salud de tu piel mientras elimina el vello no deseado.</p>
                         </div>
 
                     </div><!-- Service Detail -->

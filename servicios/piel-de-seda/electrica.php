@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Depilación eléctrica: Eliminación permanente del vello con corriente eléctrica</h2>
+                            <p>La depilación eléctrica es un método avanzado y altamente eficaz para la eliminación permanente del vello no deseado. Mediante el uso de corriente eléctrica, este tratamiento destruye de manera definitiva los folículos pilosos, impidiendo que el vello vuelva a crecer. Es ideal para quienes buscan una solución permanente y precisa, apta para todas las zonas del cuerpo y cualquier tipo de piel.</p>
+                            <p>Este procedimiento es realizado por profesionales capacitados, garantizando la seguridad y efectividad del tratamiento. A lo largo de varias sesiones, la depilación eléctrica ofrece resultados visibles y duraderos, eliminando el vello de forma permanente y dejando la piel suave y libre de imperfecciones.Si buscas una alternativa definitiva para la eliminación del vello, la depilación eléctrica es la solución perfecta para lograr una piel libre de vello de manera permanente.</p>
                         </div>
 
                     </div><!-- Service Detail -->

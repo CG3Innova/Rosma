@@ -65,7 +65,7 @@
                 <div class="copyright-text clearfix">
                     <p>Copyright © Rosma Belleza 2024</p>
                     <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-level-up"></span></div>
-                    <div class="link-box">Por <a href="https://cg3innova.es/" target="blank" rel="noopener"><img decoding="async" style="vertical-align: middle; max-height: 18px;" src="https://cg3group.es/img/footer-cg3-color.png"></a></div>
+                    <div class="link-box">Diseñado por <a href="https://cg3innova.es/" target="blank" rel="noopener"><img decoding="async" style="vertical-align: middle; max-height: 18px;" src="https://cg3group.es/img/footer-cg3-color.png"></a></div>
                 </div> 
             </div>
         </div>
@@ -139,7 +139,7 @@
                 <div class="copyright-text clearfix">
                     <p>Copyright © Rosma Belleza 2024</p>
                     <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-level-up"></span></div>
-                    <div class="link-box">Por <a href="https://cg3innova.es/" target="blank" rel="noopener"><img decoding="async" style="vertical-align: middle; max-height: 18px;" src="https://cg3group.es/img/footer-cg3-color.png"></a></div>
+                    <div class="link-box">Diseñado por <a href="https://cg3innova.es/" target="blank" rel="noopener"><img decoding="async" style="vertical-align: middle; max-height: 18px;" src="https://cg3group.es/img/footer-cg3-color.png"></a></div>
                 </div> 
             </div>
         </div>
@@ -213,7 +213,7 @@
                 <div class="copyright-text clearfix">
                     <p>Copyright © Rosma Belleza 2024</p>
                     <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-level-up"></span></div>
-                    <div class="link-box">Por <a href="https://cg3innova.es/" target="blank" rel="noopener"><img decoding="async" style="vertical-align: middle; max-height: 18px;" src="https://cg3group.es/img/footer-cg3-color.png"></a></div>
+                    <div class="link-box">Diseñado por <a href="https://cg3innova.es/" target="blank" rel="noopener"><img decoding="async" style="vertical-align: middle; max-height: 18px;" src="https://cg3group.es/img/footer-cg3-color.png"></a></div>
                 </div> 
             </div>
         </div>
