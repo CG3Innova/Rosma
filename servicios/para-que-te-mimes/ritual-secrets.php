@@ -59,10 +59,10 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
+                            <figure><img src="../../images/servicios/ritual-secrets.jpg" alt="Ritual secrets - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
+                            <h2>Ritual Secrets</h2>
                             <p>Nuestro exclusivo Ritual Secrets es una experiencia única que combina elegancia y refinamiento en cada uno de sus componentes, creando un tratamiento excepcional que promete ser un paréntesis de bienestar inolvidable.</p>
                             <p>Este ritual se descompone en dos partes esenciales:</p>
                             <ul style="margin-bottom: 30px;">

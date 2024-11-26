@@ -59,7 +59,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
+                            <figure><img src="../../images/servicios/on-body-estetic.jpg" alt="on Body Estetic - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>On Body Estetic: Tecnología avanzada para tonificación y pérdida de grasa</h2>

@@ -198,11 +198,11 @@
             <!-- Services Cat List -->
             <div class="sidebar-widget categories">
                 <ul class="service-cat-list">
-                    <li class="<?php if ($service == "maquillaje") { echo 'active'; }?>"><a href="maquillaje.php">Anticelulítico</a></li>
-                    <li class="<?php if ($service == "automaquillaje") { echo 'active'; }?>"><a href="automaquillaje.php">Reafirmantes</a></li>
-                    <li class="<?php if ($service == "visagismo-de-cejas") { echo 'active'; }?>"><a href="visagismo-de-cejas.php">Reductores</a></li>
-                    <li class="<?php if ($service == "laminado-de-cejas") { echo 'active'; }?>"><a href="laminado-de-cejas.php">Drenaje linfático</a></li>
-                    <li class="<?php if ($service == "drenaje-linfatico") { echo 'active'; }?>"><a href="drenaje-linfatico.php">Drenaje energético</a></li>
+                    <li class="<?php if ($service == "anticelulitico") { echo 'active'; }?>"><a href="anticelulitico.php">Anticelulítico</a></li>
+                    <li class="<?php if ($service == "reafirmantes") { echo 'active'; }?>"><a href="reafirmantes.php">Reafirmantes</a></li>
+                    <li class="<?php if ($service == "reductores") { echo 'active'; }?>"><a href="reductores.php">Reductores</a></li>
+                    <li class="<?php if ($service == "drenaje-linfatico") { echo 'active'; }?>"><a href="drenaje-linfatico.php">Drenaje linfático</a></li>
+                    <li class="<?php if ($service == "drenaje-energetico") { echo 'active'; }?>"><a href="drenaje-energetico.php">Drenaje energético</a></li>
                     <li class="<?php if ($service == "balneoterapia") { echo 'active'; }?>"><a href="balneoterapia.php">Balneoterapia</a></li>
                     <li class="<?php if ($service == "envoltura") { echo 'active'; }?>"><a href="envoltura.php">Envoltura</a></li>
                 </ul>

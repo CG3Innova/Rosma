@@ -59,7 +59,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
+                            <figure><img src="../../images/servicios/on-face-myolifting-facial.jpg" alt="On Face Myolifting Facial - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>On Face Myolifting Facial: Lifting muscular no invasivo para una piel rejuvenecida</h2>

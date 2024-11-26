@@ -40,7 +40,7 @@
     <section class="page-title" style="background-image:url(../../images/background/9.jpg);">
         <div class="auto-container">
         	<div class="inner-container clearfix">
-	            <h1>c</h1>
+	            <h1>Reafirmantes</h1>
 	            <ul class="bread-crumb clearfix">
 	                <li><a href="index.html">Inicio</a></li>
 	                <li>Servicios</li>
@@ -59,7 +59,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
+                            <figure><img src="../../images/servicios/reafirmante.jpg" alt="Reafirmantes - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Reafirmantes</h2>

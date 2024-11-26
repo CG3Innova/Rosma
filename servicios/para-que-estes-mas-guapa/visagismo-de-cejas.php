@@ -59,7 +59,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
+                            <figure><img src="../../images/servicios/visagismo-de-cejas.jpg" alt="Visagismo de cejas"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Visagismo de cejas: Diseño  de la depilación de tus cejas acorde a tus facciones.</h2>
