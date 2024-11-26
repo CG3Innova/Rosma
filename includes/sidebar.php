@@ -24,10 +24,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -55,10 +55,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -86,10 +86,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -116,10 +116,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -144,10 +144,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -178,10 +178,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -212,10 +212,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -232,7 +232,7 @@
             <!-- Services Cat List -->
             <div class="sidebar-widget categories">
                 <ul class="service-cat-list">
-                    <li class="<?php if ($service == "cavidacion") { echo 'active'; }?>"><a href="cavidacion.php">Cavidación</a></li>
+                    <li class="<?php if ($service == "cavitacion") { echo 'active'; }?>"><a href="cavitacion.php">Cavitación</a></li>
                     <li class="<?php if ($service == "indiba") { echo 'active'; }?>"><a href="indiba.php">INDIBA</a></li>
                     <li class="<?php if ($service == "vacumterapia") { echo 'active'; }?>"><a href="vacumterapia.php">Vacumterapia</a></li>
                     <li class="<?php if ($service == "oxigenoterapia") { echo 'active'; }?>"><a href="oxigenoterapia.php">Oxigenoterapia</a></li>
@@ -248,10 +248,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -268,7 +268,7 @@
             <!-- Services Cat List -->
             <div class="sidebar-widget categories">
                 <ul class="service-cat-list">
-                    <li class="<?php if ($service == "tratamiento-de-ojos") { echo 'active'; }?>"><a href="tratamiento-de-ojos.php">Tratamiento de ojos</a></li>
+                    <li class="<?php if ($service == "tratamiento-de-ojos") { echo 'active'; }?>"><a href="index.php">Tratamiento de ojos</a></li>
                 </ul>
             </div>
 
@@ -276,10 +276,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -305,10 +305,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -335,10 +335,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -370,10 +370,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>
@@ -390,7 +390,7 @@
             <!-- Services Cat List -->
             <div class="sidebar-widget categories">
                 <ul class="service-cat-list">
-                    <li class="<?php if ($service == "nutricion") { echo 'active'; }?>"><a href="nutricion.php">Nutrición</a></li>
+                    <li class="<?php if ($service == "nutricion") { echo 'active'; }?>"><a href="index.php">Nutrición</a></li>
                 </ul>
             </div>
 
@@ -398,10 +398,10 @@
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
-                    <span>Quick Contact</span>
-                    <h4>Get Solution</h4>
-                    <p>Contact us at the SpaLand office nearest to you or submit a spa inquiry online.</p>
-                    <a href="services.html" class="theme-btn">Contact</a>
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
         </aside>

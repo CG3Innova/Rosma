@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Anticelulítico</h2>
+                            <p>Tratamiento anticelulítico diseñado para reducir de manera efectiva las acumulaciones de celulitis, ya sea en áreas localizadas o de forma generalizada. Reconocemos que la celulitis no es únicamente una consecuencia del aumento de peso; factores como el estrés, los desequilibrios hormonales, un estilo de vida moderno y una alimentación inadecuada también desempeñan un papel crucial en su aparición, incluso en personas jóvenes.</p>
+                            <p>Por eso, hemos creado un enfoque integral que combina técnicas avanzadas y productos de alta calidad, con el objetivo de abordar esta preocupación estética de manera segura y efectiva. Nuestro equipo de expertos está comprometido en proporcionarte el apoyo y la atención que necesitas para lograr los resultados deseados y mejorar tu bienestar general.</p>
                         </div>
 
                     </div><!-- Service Detail -->

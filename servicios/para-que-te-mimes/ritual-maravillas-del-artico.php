@@ -62,11 +62,15 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Ritual maravillas del Ártico</h2>
+                            <p>Sal a descubrir las maravillas de la naturaleza polar con este ritual corporal diseñado para ofrecerte una experiencia única de relajación y renovación. Imagina inmaculados paisajes de hielo blanco, voluptuosos manantiales de agua caliente y una insospechada flora submarina que te rodean mientras disfrutas de un estimulante tratamiento de Spa. Déjate llevar por los beneficios de los ancestrales rituales nórdicos, donde el calor relajante y el frescor tonificante se alternan, creando un equilibrio perfecto que relaja el cuerpo y libera tensiones acumuladas.</p>
+                            <p>Este ritual completo está diseñado para que disfrutes al máximo e incluye:</p>
+                            <ul style="margin-bottom: 30px;">
+                                <li style="list-style: inside;">Baño con cristales efervescentes que revitalizan tu piel.</li>
+                                <li style="list-style: inside;">Exfoliante con escamas de sal que purifica y renueva.</li>
+                                <li style="list-style: inside;">Masaje maravilla ártica que transporta tu mente y cuerpo a un estado de bienestar absoluto.</li>
+                            </ul>
+                            <p>Ideal para todas las personas estresadas y cansadas que buscan liberar la tensión y recobrar su energía.</p>
                         </div>
 
                     </div><!-- Service Detail -->

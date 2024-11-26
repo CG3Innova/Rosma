@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Tratamiento de senos</h2>
+                            <p>El tratamiento re-equilibrante de aporte nutricional está diseñado específicamente para abordar las necesidades de la piel del busto, contribuyendo a su reafirmación y modelación muscular. Este enfoque integral no solo busca realzar la belleza natural, sino también tonificar la zona, permitiendo a las mujeres lucir un pecho bonito y bien cuidado.</p>
+                            <p>Mantener y cuidar el busto debe ser un punto de atención prioritario, ya que esta parte del cuerpo no solo tiene un significado estético, sino que también representa un símbolo de feminidad y confianza. Con este tratamiento, podrás disfrutar de una piel más firme y radiante, y experimentar la satisfacción de realzar tu belleza de manera natural y efectiva.</p>
                         </div>
 
                     </div><!-- Service Detail -->

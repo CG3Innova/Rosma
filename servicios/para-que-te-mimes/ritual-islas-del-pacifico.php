@@ -62,11 +62,15 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Ritual islas del Pacífico</h2>
+                            <p>Escápate, durante un tiempo de ritual, a las paradisíacas islas del Pacífico y descubre, de escala en escala, las inestimables riquezas de la Polinesia. Te esperan atolones salvajes con paisajes idílicos, rituales ancestrales y fauna marina protegida. Una sensación de relajación y evasión te invade, invitándote a desconectar de la rutina diaria.</p>
+                            <p>Este ritual completo consta de tres etapas diseñadas para rejuvenecer cuerpo y mente:</p>
+                            <ul style="margin-bottom: 30px;">
+                                <li style="list-style: inside;">Bain Eau des Lagons: Parada en Manihi, la encantadora isla de las lagunas, donde te sumergirás en aguas cristalinas.</li>
+                                <li style="list-style: inside;">Delicioso exfoliante: Escala en Taha’a, conocida como la Isla de la Vainilla, donde un exfoliante natural revitaliza tu piel.</li>
+                                <li style="list-style: inside;">Masaje Mahana: Escala en Bora Bora, la Isla de Arena Blanca, donde disfrutarás de un masaje que te transportará a la calma total.</li>
+                            </ul>
+                            <p>Este ritual está destinado a todas las personas estresadas que anhelan un merecido descanso de la vida cotidiana.</p>
                         </div>
 
                     </div><!-- Service Detail -->

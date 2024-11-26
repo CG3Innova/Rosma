@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Vacumterapia: Mejora tu circulación y reduce volumen de forma natural</h2>
+                            <p>La Vacumterapia es un tratamiento subdérmico no invasivo que aborda eficazmente problemas estéticos como la celulitis, la piel de naranja y la retención de líquidos, causados por disfunciones en la circulación linfática. Este innovador método mejora el drenaje linfático, moviliza la grasa localizada y estimula la circulación sanguínea, oxigenando los tejidos y favoreciendo la pérdida de volumen.</p>
+                            <p>Mediante la combinación de ventosas y técnicas en bioenergética, la Vacumterapia optimiza sus resultados, trabajando de manera integral para mejorar la calidad de la piel y reducir visiblemente las imperfecciones. Este tratamiento, además de reducir la grasa, mejora la elasticidad de la piel y promueve una mejor irrigación sanguínea, contribuyendo a una figura más estilizada y saludable. Disfruta de un método eficaz y natural que, además de reducir volumen, mejora la apariencia de la piel y potencia tu bienestar general.</p>
                         </div>
 
                     </div><!-- Service Detail -->

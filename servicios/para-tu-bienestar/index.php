@@ -31,7 +31,7 @@
  	
     <?php 
         $page = "servicios-2";
-        $service = "servicio";
+        $service = "nutricion";
         $sidebar = "para-tu-bienestar";
         include '../../includes/menu.php';
     ?>
@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Nutrición</h2>
+                            <p>Lograr obtener la totalidad de los nutrientes necesarios para cada individuo, en las cantidades y proporciones adecuadas, debe ser el primer objetivo de nuestra alimentación. En este sentido, nuestra especialista en NUTRICIÓN HOLÍSTICA, Amalia Muñoz Márquez, llevará a cabo un exhaustivo estudio de los hábitos alimenticios, así como de las condiciones laborales que pueden influir en nuestra salud, como el sedentarismo y los horarios de trabajo. También se tendrán en cuenta las condiciones fisiológicas de cada persona, incluyendo peso, talla y otros factores relevantes.</p>
+                            <p>Esta valoración es fundamental para diseñar un programa nutricional personalizado, cuyo objetivo es educar y corregir comportamientos erróneos en nuestra alimentación y estilo de vida. Reconocemos que estos hábitos inadecuados pueden afectar nuestra salud fisiológica, emocional, física y estética. Así, buscamos el equilibrio a través de la Dietoterapia, incrementando nuestra energía vital para lograr un mejor estado de salud y bienestar estético.</p>
                         </div>
 
                     </div><!-- Service Detail -->

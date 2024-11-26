@@ -62,11 +62,14 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Ritual mar de las indias</h2>
+                            <p>Descubre una verdadera experiencia sensorial inspirada en tradiciones indias con nuestro exclusivo ritual reequilibrante. Este nuevo tratamiento invita tanto al cuerpo como a la mente a desconectarse del ajetreo diario, permitiéndote dejarte llevar y reequilibrar tus energías. Utilizamos aceite tibio y una combinación de maniobras suaves y envolventes, junto con técnicas tónicas y estiramientos, para alcanzar una armonía física y psicológica integral.</p>
+                            <p>Este ritual completo incluye:</p>
+                            <ul style="margin-bottom: 30px;">
+                                <li style="list-style: inside;">Exfoliante de Jengibre: Enriquecido con notas de sándalo y ámbar, deja la piel aterciopelada y radiante, mientras la mente se libera del estrés cotidiano.</li>
+                                <li style="list-style: inside;">Masaje en Bañera: Disfruta de un masaje equilibrante en un baño lácteo, perfumado con un delicado aroma que prepara tanto el cuerpo como la mente para una profunda relajación y escapada del estrés.</li>
+                            </ul>
+                            <p>Este ritual está diseñado para todas las personas que buscan serenidad y un estado de armonía en su vida.</p>
                         </div>
 
                     </div><!-- Service Detail -->

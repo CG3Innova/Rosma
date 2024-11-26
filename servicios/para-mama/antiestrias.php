@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Antiestrías</h2>
+                            <p>Gracias a los avances cosmetológicos y técnicos, hoy en día es posible tratar y mitigar visiblemente las estrías de manera eficaz. Estas marcas en la piel, que suelen aparecer debido a cambios rápidos en el cuerpo, como el embarazo, el aumento de peso o el crecimiento, pueden ser motivo de preocupación para muchas personas. En este campo, es fundamental prestar atención tanto al tratamiento preventivo como al correctivo, especialmente en las manifestaciones más incipientes.</p>
+                            <p>Al abordar las estrías en sus primeras etapas, se pueden obtener mejores resultados y evitar que se tornen más profundas y notorias. Los tratamientos actuales incluyen terapias tópicas, tratamientos láser y técnicas de microdermoabrasión, todas diseñadas para mejorar la textura de la piel y reducir la visibilidad de estas marcas.</p>
                         </div>
 
                     </div><!-- Service Detail -->

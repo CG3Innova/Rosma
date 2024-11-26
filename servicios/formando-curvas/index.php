@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Formando curvas</h2>
+                            <p>En Rosma Belleza, te ofrecemos una amplia gama de tratamientos unisex corporales diseñados para ayudarte a hacer realidad tus objetivos de bienestar y estética. Nos especializamos en el uso de tecnología no invasiva, combinada con terapias manuales y cosmética de vanguardia, para garantizar resultados efectivos y satisfactorios.</p>
+                            <p>Además, adoptamos un enfoque integral en nuestros servicios, proporcionando recomendaciones personalizadas que no solo mejorarán tu dieta, sino también tu estilo de vida, asegurando que los resultados obtenidos sean duraderos en el tiempo. Nuestro equipo de expertos está comprometido a guiarte en cada paso del proceso, brindándote el mejor cuidado y atención. En Rosma Belleza, tu satisfacción y bienestar son nuestra prioridad, porque creemos que cada persona merece sentirse bien en su propia piel. Te esperamos para comenzar este viaje hacia una mejor versión de ti mismo.</p>
                         </div>
 
                     </div><!-- Service Detail -->

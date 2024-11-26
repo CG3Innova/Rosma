@@ -62,11 +62,10 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Automaquillaje: Realizamos cursos individuales y personalizados para realzar tu mejor versión.</h2>
+                            <p>Descubre cómo realzar tu mejor versión con nuestros cursos de automaquillaje. Ofrecemos formaciones individuales y totalmente personalizadas, diseñadas para enseñarte las técnicas y trucos necesarios para que puedas crear tu propio look con confianza y facilidad.</p>
+                            <p>Aprenderás a elegir los productos adecuados para tu tipo de piel y estilo personal, además de dominar las herramientas y técnicas que mejor se adapten a ti. Ya sea que busques un maquillaje natural para el día a día o un look más sofisticado para ocasiones especiales, te ayudamos a lograrlo.</p>
+                            <p>Conviértete en tu propia maquilladora y saca partido a tu belleza en cualquier ocasión. Nuestro objetivo es que te sientas segura y empoderada, con los conocimientos y habilidades para resaltar tus mejores rasgos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

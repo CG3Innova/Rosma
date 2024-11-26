@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Preparto / Postparto</h2>
+                            <p>Te ayudamos a preparar tu cuerpo para uno de los momentos más importantes de tu vida: el parto. Nuestro enfoque integral se centra en ofrecerte un tratamiento personalizado que te ayude a sentirte en forma y en equilibrio durante esta etapa tan especial. Con técnicas no invasivas, trabajamos para que tu cuerpo esté listo para el gran día, minimizando el estrés y promoviendo una experiencia más positiva.</p>
+                            <p>Además, después del nacimiento de tu bebé, te ofrecemos un tratamiento integral que apoya tu recuperación. Nuestro objetivo es ayudarte a restablecer tu figura y bienestar de manera natural y efectiva, permitiéndote disfrutar plenamente de la maternidad. Nuestro equipo de expertos está a tu disposición para brindarte el acompañamiento que necesitas, porque sabemos que cada madre merece sentirse bien en su propio cuerpo.</p>
                         </div>
 
                     </div><!-- Service Detail -->

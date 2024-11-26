@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Henna para cejas: Color intenso y natural sin daños</h2>
+                            <p>El tratamiento de henna para cejas es la opción perfecta para quienes buscan un color homogéneo y cejas altamente pigmentadas, sin comprometer la salud del vello. A diferencia de otros métodos, la henna es un producto natural que no daña las cejas, aportando un color duradero y vibrante que define y rellena las áreas poco pobladas.</p>
+                            <p>Disponemos de una amplia variedad de colores para personalizar el tono y adaptarlo a tus preferencias, asegurando que el resultado sea completamente acorde a tu estilo y rasgos. Además de ofrecer una pigmentación profunda y precisa, la henna también cuida y protege el vello de las cejas, proporcionando un acabado impecable y natural. Con nuestro servicio de henna para cejas, obtendrás cejas definidas, con volumen y color intenso, sin necesidad de productos químicos agresivos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

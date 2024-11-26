@@ -2,7 +2,7 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-<title>Rosma Belleza - Cavidación</title>
+<title>Rosma Belleza - Cavitación</title>
 
 <!-- Stylesheets -->
 <link href="../../css/bootstrap.css" rel="stylesheet">
@@ -31,7 +31,7 @@
  	
     <?php 
         $page = "servicios-2";
-        $service = "cavidacion";
+        $service = "cavitacion";
         $sidebar = "a-toda-velocidad";
         include '../../includes/menu.php';
     ?>
@@ -40,7 +40,7 @@
     <section class="page-title" style="background-image:url(../../images/background/9.jpg);">
         <div class="auto-container">
         	<div class="inner-container clearfix">
-	            <h1>Cavidación</h1>
+	            <h1>Cavitación</h1>
 	            <ul class="bread-crumb clearfix">
 	                <li><a href="index.html">Inicio</a></li>
 	                <li>Servicios</li>
@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Cavitación: Reducción de grasa no invasiva para un cuerpo definido</h2>
+                            <p>La cavitación es un tratamiento estético avanzado y no invasivo que utiliza un fenómeno físico para eliminar la grasa localizada de manera eficaz. Mediante la generación controlada de micro-burbujas de vacío en el tejido adiposo, estas burbujas implosionan, transformando la grasa en una sustancia líquida llamada diglicérido, que luego es eliminada de manera natural a través del sistema linfático y las vías urinarias.</p>
+                            <p>Este procedimiento es ideal para quienes desean reducir grasa en áreas específicas del cuerpo sin recurrir a métodos invasivos o cirugías. Es un tratamiento seguro y eficaz que ofrece resultados visibles en la reducción de volumen, ayudando a moldear y definir la figura. La cavitación es un método indoloro y altamente efectivo, que combina ciencia y estética para brindarte una solución innovadora en la lucha contra la grasa localizada, mejorando la apariencia de tu cuerpo de forma natural y sin complicaciones.</p>
                         </div>
 
                     </div><!-- Service Detail -->

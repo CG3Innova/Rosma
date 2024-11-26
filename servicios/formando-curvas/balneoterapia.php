@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Balneoterapia</h2>
+                            <p>El agua de mar posee una composición similar a la de nuestro plasma sanguíneo, lo que la convierte en un recurso excepcional para la salud. Esta agua no solo es rica en elementos vitales, sino que también contiene una variedad de sales minerales, vitaminas y oligoelementos que son esenciales para el correcto funcionamiento del organismo.</p>
+                            <p>La talasoterapia, un tratamiento que se basa en el uso del agua de mar, así como de barros y algas, se utiliza para promover la salud y el bienestar general. Este enfoque integral permite una conexión profunda con los elementos naturales, ofreciendo un servicio diferente que potencia los resultados de todos nuestros tratamientos. Además, favorece el equilibrio energético al trabajar desde el interior, revitalizando tanto el cuerpo como la mente. La balneoterapia se convierte así en una experiencia única que revitaliza y reequilibra, proporcionando una sensación de bienestar duradera.</p>
                         </div>
 
                     </div><!-- Service Detail -->

@@ -31,7 +31,7 @@
  	
     <?php 
         $page = "servicios-2";
-        $service = "servicio";
+        $service = "tratamiento-de-ojos";
         $sidebar = "para-tu-mirada";
         include '../../includes/menu.php';
     ?>
@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                        <h2>Tratamiento de ojos</h2>
+                            <p>Descubre los diversos tratamientos diseñados para ayudarte a lucir tu mejor mirada. En nuestro centro, combinamos lo último en cosmética con tecnología especializada para ofrecerte soluciones efectivas y personalizadas.</p>
+                            <p>Desde la reducción de bolsas y ojeras hasta el tratamiento de arrugas y líneas de expresión, cada opción está orientada a revitalizar la piel alrededor de tus ojos. Además, un diagnóstico exhaustivo realizado por nuestros expertos asegura que recibas el tratamiento más adecuado para tus necesidades específicas. Nuestro compromiso es brindarte resultados visibles y duraderos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Visagismo de cejas: Diseño  de la depilación de tus cejas acorde a tus facciones.</h2>
+                            <p>El visagismo de cejas es el arte de diseñar la forma ideal de tus cejas, adaptándolas a las características de tu rostro para realzar tu belleza natural. En nuestro servicio, estudiamos cuidadosamente tus facciones para crear un diseño personalizado que equilibre y armonice tus cejas con el resto de tus rasgos.</p>
+                            <p>Mediante técnicas precisas de depilación y definición, logramos un acabado que potencia tu mirada y mejora la expresión de tu rostro. Cada diseño es único, teniendo en cuenta la forma de tu cara, ojos y estilo personal, para obtener un resultado estético y natural. Confía en nuestros expertos para conseguir unas cejas perfectamente diseñadas que se adapten a ti y realcen tu belleza.</p>
                         </div>
 
                     </div><!-- Service Detail -->

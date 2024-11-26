@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Tinte de pestañas y cejas: Color y cuidado para resaltar tu mirada</h2>
+                            <p>Nuestro servicio de tinte de pestañas y cejas está diseñado para aportar color y definición, realzando la intensidad de tu mirada de manera natural. Utilizamos una formulación cuidada y rica en principios activos que nutren y protegen el vello, asegurando un resultado duradero y saludable.</p>
+                            <p>Los tonos están adaptados a tus necesidades, permitiendo encontrar el color perfecto para complementar tu estilo y rasgos faciales. Ya sea que busques intensificar tus pestañas o definir tus cejas, nuestro tinte proporciona un acabado impecable que destaca tu belleza sin necesidad de maquillaje diario. Confía en nuestro tratamiento para lograr pestañas y cejas con color vibrante y natural, manteniendo la salud del vello gracias a su formulación nutritiva.</p>
                         </div>
 
                     </div><!-- Service Detail -->

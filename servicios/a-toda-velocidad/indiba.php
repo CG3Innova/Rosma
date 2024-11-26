@@ -40,7 +40,7 @@
     <section class="page-title" style="background-image:url(../../images/background/9.jpg);">
         <div class="auto-container">
         	<div class="inner-container clearfix">
-	            <h1>INDIBA</h1>
+	            <h1>INDIBA Deep Beauty</h1>
 	            <ul class="bread-crumb clearfix">
 	                <li><a href="index.html">Inicio</a></li>
 	                <li>Servicios</li>
@@ -62,11 +62,15 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>INDIBA Deep Beauty: Rejuvenece y revitaliza tu piel</h2>
+                            <p>El exclusivo método INDIBA Deep Beauty es una solución innovadora y no invasiva que reequilibra el intercambio celular de iones, ayudando a las células a recuperar su función natural. Gracias a este proceso, la piel recupera su elasticidad, la grasa localizada se reduce, y el flujo de oxígeno entre las células mejora, logrando un rejuvenecimiento visible y duradero desde la primera sesión.</p>
+                            <p>Este tratamiento indoloro se adapta a tus necesidades estéticas, proporcionando resultados sorprendentes de manera natural. Con el Sistema Proionic®, INDIBA ofrece tres niveles de tratamiento con múltiples beneficios:</p>
+                            <ul style="margin-bottom: 30px;">
+                                <li style="list-style: inside;">Subtérmico: Estimula el metabolismo celular, mejorando la nutrición y la circulación.</li>
+                                <li style="list-style: inside;">Térmico: Aumenta la microcirculación y la oxigenación de los tejidos, favoreciendo una piel más saludable.</li>
+                                <li style="list-style: inside;">Hipertérmico: Facilita la eliminación de grasas y la recuperación del tejido, depurando y reafirmando la piel.</li>
+                            </ul>
+                            <p>INDIBA Deep Beauty es el tratamiento ideal para quienes desean una piel rejuvenecida, revitalizada y libre de imperfecciones, sin dolor ni procedimientos invasivos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

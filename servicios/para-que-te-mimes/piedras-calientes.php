@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Piedras calientes</h2>
+                            <p>Disfruta de un masaje completo con piedras de lava volcánica y aceites esenciales, una experiencia única que va más allá del simple masaje. Las piedras, al estar calientes, transmiten energía al organismo, favoreciendo la relajación y ayudando a eliminar tensiones acumuladas. Este tratamiento no solo oxigena la piel, sino que también mejora la circulación y revitaliza tu cuerpo.</p>
+                            <p>La calidez de las piedras penetra profundamente en los músculos, proporcionando una sensación de calma y bienestar que perdura. Este ritual es ideal para aquellos que buscan escapar del estrés diario, permitiendo que tu mente y cuerpo se reconecten en un ambiente de tranquilidad. ¡No hay mejor manera de desconectar y dedicarte un tiempo de calidad para cuidar de ti mismo! Regálate esta experiencia revitalizante y siente cómo renace tu energía.</p>
                         </div>
 
                     </div><!-- Service Detail -->

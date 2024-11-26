@@ -63,10 +63,12 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <p>Nuestro exclusivo Ritual Secrets es una experiencia única que combina elegancia y refinamiento en cada uno de sus componentes, creando un tratamiento excepcional que promete ser un paréntesis de bienestar inolvidable.</p>
+                            <p>Este ritual se descompone en dos partes esenciales:</p>
+                            <ul style="margin-bottom: 30px;">
+                                <li style="list-style: inside;">Exfoliante suave vivificante: Formulado para renovar la piel, deja una sensación aterciopelada que despierta los sentidos y revitaliza el cutis. La exfoliación no solo elimina las células muertas, sino que también mejora la textura y luminosidad de la piel, dejándola lista para absorber todos los beneficios del tratamiento.</li>
+                                <li style="list-style: inside;">Masaje Secrets: Un masaje excepcional que fusiona manipulaciones inspiradas en terapias orientales, como la bioenergética, con técnicas de drenaje linfático. Este masaje no solo alivia la tensión acumulada, sino que también promueve una sensación de ligereza y bienestar profundo.</li>
+                            </ul>
                         </div>
 
                     </div><!-- Service Detail -->

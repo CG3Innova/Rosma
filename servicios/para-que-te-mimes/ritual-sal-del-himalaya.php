@@ -62,11 +62,9 @@
                             <figure><img src="../../images/resource/service-detail.jpg" alt=""></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Ritual sal del Himalaya</h2>
+                            <p>Descubre un ritual exclusivo que aprovecha las propiedades de la sal natural e integral del Himalaya, reconocida como una poderosa terapia natural. Esta sal se distingue por su singular composición y estructura, lo que le confiere notables beneficios detoxificantes, reequilibrantes y energizantes. Al integrar este ritual en tu bienestar, experimentarás una profunda purificación y fortalecimiento de tu cuerpo.</p>
+                            <p>La sal del Himalaya es conocida por su capacidad para aliviar dolores musculares, así como por estimular el metabolismo, facilitando así un proceso de revitalización integral. En el ámbito emocional, actúa como un bálsamo, aliviando bloqueos, confusiones y estados de ansiedad, promoviendo un estado de calma y bienestar. Sumérgete en esta experiencia transformadora y redescubre la armonía en tu cuerpo y mente.</p>
                         </div>
 
                     </div><!-- Service Detail -->
