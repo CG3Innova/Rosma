@@ -25,8 +25,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -56,8 +56,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -87,8 +87,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -117,8 +117,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -145,8 +145,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -179,8 +179,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -213,8 +213,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -249,8 +249,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -277,8 +277,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -306,8 +306,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -336,8 +336,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -371,8 +371,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
@@ -399,8 +399,8 @@
             <div class="sidebar-widget consultation">
                 <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
-                    <h4 style="margin-bottom: 15px;">Contacta con nosotros</h4>
-                    <p style="margin-bottom: 15px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
                     <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
                 </div>
             </div>  
