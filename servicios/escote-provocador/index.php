@@ -62,11 +62,10 @@
                             <figure><img src="../../images/servicios/escote-provocador.jpg" alt="Escote provocador - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Escote provocador</h2>
+                            <p>En Rosma Belleza, cuidamos de cada detalle para que te sientas segura y radiante. Por eso, ofrecemos tratamientos especializados para el rejuvenecimiento de la zona del escote, cuello, senos y mentón, diseñados para mejorar la firmeza, textura y luminosidad de tu piel.</p>
+                            <p>Nuestros servicios combinan técnicas avanzadas y productos de alta calidad para tratar estas áreas delicadas, ayudando a prevenir los signos de envejecimiento y devolviéndole a tu piel su elasticidad natural. Ya sea que busques reafirmar, hidratar o simplemente revitalizar estas zonas, nuestras expertas en belleza personalizan cada tratamiento para lograr resultados visibles y duraderos.</p>
+                            <p>Descubre cómo un cuidado especializado puede transformar tu apariencia. En Rosma Belleza, estamos comprometidos con tu bienestar y belleza integral. ¡Déjanos realzar tu escote y verte más radiante que nunca!</p>
                         </div>
 
                     </div><!-- Service Detail -->

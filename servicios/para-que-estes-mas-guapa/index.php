@@ -62,11 +62,10 @@
                             <figure><img src="../../images/servicios/para-que-estes-mas-guapa.jpg" alt="Para que estes mas guapa - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Facial Treatment</h2>
-                            <p>A facial treatment works together to improve the appearance of your skin. Since skin types are not all the same, the procedures and products used in a facial may differ. A facial treatment is usually tailored to the needs of the client, but all facials have a basic routine that most skin care professionals use.</p>
-                            <p>The massage used in a facial treatment encourages blood flow and brings nourishing blood to the skin’s cells. Facial treatments are relaxing, as well as therapeutic. Machines are used to treat skin, but this spa service can be performed manually.</p>
-                            <h3>Aging Skin</h3>
-                            <p>Aging skin is cleansed, steamed and massaged during a facial treatment. An exfoliation mask for aging skin is used to soften lines and wrinkles. If a mask is applied, it will be removed after the appropriate time, and a cream or lotion made to treat mature skin is applied. Facial massage also tones sagging skin, encourages the production of natural oils and leaves the skin with a healthy glow</p>
+                            <h2>Para que estés más guapa</h2>
+                            <p>En Rosma Belleza, realzamos tu belleza natural con nuestros tratamientos de maquillaje y cuidado facial diseñados para que te sientas más guapa que nunca. Desde un maquillaje profesional hasta técnicas especializadas como el visagismo de cejas, lifting de pestañas o el tinte para cejas y pestañas, te ofrecemos soluciones personalizadas que destacan lo mejor de ti.</p>
+                            <p>Nuestras expertas en belleza trabajan con precisión y productos de alta calidad para lograr resultados que realcen tus facciones y potencien tu mirada. Ya sea que busques un cambio sutil o un toque más sofisticado, en Rosma Belleza adaptamos cada tratamiento a tus gustos y necesidades, asegurando un acabado perfecto y duradero.</p>
+                            <p>Descubre cómo pequeños detalles pueden marcar una gran diferencia. Ven a Rosma Belleza y déjanos ayudarte a reflejar tu mejor versión. ¡Estamos aquí para que te sientas segura, radiante y espectacular en cada ocasión!</p>
                         </div>
 
                     </div><!-- Service Detail -->
