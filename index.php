@@ -412,7 +412,7 @@
 
                 <div class="btn-column col-md-3 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <a href="service-detail.html" class="theme-btn btn-style-two">Más información <i class="fa fa-angle-double-right"></i></a>
+                        <a href="servicios/index.php" class="theme-btn btn-style-two">Más información <i class="fa fa-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
