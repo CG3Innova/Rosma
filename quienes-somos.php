@@ -100,14 +100,6 @@
                         <p>Esta pasión me ha llevado a estar permanentemente formándome, siempre buscando los mejores profesionales, la mejor cosmética, la mejor aparatología… todo esto es importante, pero lo más importante es la confianza, la honestidad, la serenidad desde la que quiero trabajar.</p>
 
                         <p>Este mundo de la belleza tiene sus límites, pero somos nosotros los que desde nuestra profesionalidad debemos con rigor y franqueza hacer que cada día nos invada la ilusión, una ilusión que nos haga sentir que somos la mujer y el hombre mas importante del mundo.</p>
-                        <!--<ul class="feature-list clearfix">
-                            <li><a href="service-detail.html">Health Shower</a></li>
-                            <li><a href="service-detail.html">Spa Masks</a></li>
-                            <li><a href="service-detail.html">Special Guiding</a></li>
-                            <li><a href="service-detail.html">Mind Relex</a></li>
-                            <li><a href="service-detail.html">Nail Styling</a></li>
-                            <li><a href="service-detail.html">Special Therapy</a></li>
-                        </ul>-->
                     </div>
                 </div>
 
@@ -127,25 +119,18 @@
             <div class="row clearfix">
                 <div class="title-column col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <h2>Book a Session Now</h2>
-                        <ul class="contact-info">
-                            <li>Call Us at : <a href="#">0785 6985 636</a> or</li>
-                            <li>Send us an email : <a href="#">hey@spaland.com</a></li>
-                        </ul>
+                        <h2>Pide aquí tu cita</h2>
                     </div>
                 </div>
 
                 <!-- Form Column -->
-                <div class="form-column col-md-6 col-sm-12 col-xs-12">
+                <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
                         <div class="subscribe-form">
-                            <div class="text">If you Want to get updates on Spa & news?</div>
-                            <form method="post" action="index.html">
-                                <div class="form-group">
-                                    <input type="email" name="email" value="" placeholder="Email Address" required="">
-                                    <button type="submit" class="search-btn"><span class="fa fa-send"></span></button>
-                                </div>
-                            </form>
+                            <ul class="contact-info">
+                                <li>Llámanos : <a href="tel:945230447">945 23 04 47</a> o</li>
+                                <li>Mándanos un email : <a href="mailto:rosma@rosmabelleza.com">rosma@rosmabelleza.com</a></li>
+                            </ul>
                         </div>
                     </div>    
                 </div>
@@ -264,6 +249,80 @@
             </div>
         </div>
     </section>
+    <!-- Services Section -->
+    <section class="services-section" style="background-image: url(images/background/1.jpg); background-size: cover;">
+
+        <div class="auto-container">
+
+            <div class="sec-title text-center">
+                <span class="title">Cosmetología</span>
+                <h2>Nuestras marcas</h2>
+                <div class="separator"><span class="flaticon-flower"></span></div>
+                <p>Trabajamos con marcas implicadas en el avance tecnológico y fórmulas únicas. Además de ser ecofriendly y cruelty free.</p>
+            </div>
+
+            <div class="services-carousel owl-carousel owl-theme">
+                
+                <div class="service-block">
+                    <div class="image-box">
+                        <div class="image"><img src="images/marcas/bdr.jpg" alt="Nuestras marcas - Rosma Belleza"></div>
+                    </div>
+                </div>
+
+                <div class="service-block">
+                    <div class="image-box">
+                        <div class="image"><img src="images/marcas/gernetic.png" alt="Nuestras marcas - Rosma Belleza"></div>
+                    </div>
+                </div>
+
+                <div class="service-block">
+                    <div class="image-box">
+                        <div class="image"><img src="images/marcas/heber.png" alt="Nuestras marcas - Rosma Belleza"></div>
+                    </div>
+                </div>
+
+                <div class="service-block">
+                    <div class="image-box">
+                        <div class="image"><img src="images/marcas/leh.png" alt="Nuestras marcas - Rosma Belleza"></div>
+                    </div>
+                </div>
+
+                <div class="service-block">
+                    <div class="image-box">
+                        <div class="image"><img src="images/marcas/m2-beaute-logo.png" alt="Nuestras marcas - Rosma Belleza"></div>
+                    </div>
+                </div>
+
+                <div class="service-block">
+                    <div class="image-box">
+                        <div class="image"><img src="images/marcas/matriskin.png" alt="Nuestras marcas - Rosma Belleza"></div>
+                    </div>
+                </div>
+
+                <div class="service-block">
+                    <div class="image-box">
+                        <div class="image"><img src="images/marcas/skin.png" alt="Nuestras marcas - Rosma Belleza"></div>
+                    </div>
+                </div>
+
+                <div class="service-block">
+                    <div class="image-box">
+                        <div class="image"><img src="images/marcas/sothys.png" alt="Nuestras marcas - Rosma Belleza"></div>
+                    </div>
+                </div>
+
+                <div class="service-block">
+                    <div class="image-box">
+                        <div class="image"><img src="images/marcas/v.jpg" alt="Nuestras marcas - Rosma Belleza"></div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+    <!-- End Services Section -->
     <!--End Fun Facts Section-->
 
     <!-- Usar Web Components -->
