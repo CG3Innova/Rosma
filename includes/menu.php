@@ -105,9 +105,9 @@
                         
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                <li class="<?php if ($page == "index") { echo 'current'; }?>"><a href="index.php">Inicio</a>
+                                <li class="<?php if ($page == "index") { echo 'current'; }?>"><a href="../index.php">Inicio</a>
                                 </li>
-                                <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="quienes-somos.php">Quienes somos</a>
+                                <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="../quienes-somos.php">Quienes somos</a>
                                 </li>
                                 <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
                                     <ul>
@@ -127,9 +127,9 @@
                                         <li><a href="para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
                                 </li>
-                                <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="blog.php">Nuestro Blog</a>
+                                <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="../blog.php">Nuestro Blog</a>
                                 </li>
-                                <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
+                                <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../contacto.php">Contacto</a></li>
                             </ul>
                         </div>
                     </nav><!-- Main Menu End-->
@@ -248,9 +248,9 @@
                         
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                <li class="<?php if ($page == "index") { echo 'current'; }?>"><a href="index.php">Inicio</a>
+                                <li class="<?php if ($page == "index") { echo 'current'; }?>"><a href="../../index.php">Inicio</a>
                                 </li>
-                                <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="quienes-somos.php">Quienes somos</a>
+                                <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="../../quienes-somos.php">Quienes somos</a>
                                 </li>
                                 <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
                                     <ul>
@@ -270,9 +270,9 @@
                                         <li><a href="../para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
                                 </li>
-                                <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="blog.php">Nuestro Blog</a>
+                                <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="../../blog.php">Nuestro Blog</a>
                                 </li>
-                                <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
+                                <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../../contacto.php">Contacto</a></li>
                             </ul>
                         </div>
                     </nav><!-- Main Menu End-->
