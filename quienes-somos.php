@@ -40,7 +40,7 @@
         	<div class="inner-container clearfix">
 	            <h1>Conoce Rosma </h1>
 	            <ul class="bread-crumb clearfix">
-	                <li><a href="index.html">Home </a></li>
+	                <li><a href="index.html">Inicio </a></li>
 	                <li>Quienes somos</li>
 	            </ul>
         	</div>
@@ -53,7 +53,8 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title">Rosma Belleza</span>
-                <h2>"NO ES LO QUE NECESITAS, ES LO QUE TE MERECES"</h2>
+                <h2>"La belleza comienza en el instante que decides ser tu mism@."</h2>
+                <h3>- Coco Chanel</h3>
                 <div class="separator"><span class="flaticon-flower"></span></div>
             </div>
             <div class="inner-container">
@@ -86,7 +87,6 @@
 
     <!-- About Us -->
     <section class="about-us">
-        <div class="left-image"><img src="images/resource/side-img-1.png" alt=""></div>
         <div class="auto-container">
             <div class="row clearfix">
                 <div class="content-column col-md-7 col-sm-12 col-xs-12">
@@ -113,31 +113,26 @@
     </section>
     <!-- End About Us -->
 
-    <!-- Subscribe Section -->
-    <section class="subscribe-section" style="background-image: url(images/background/10.jpg);">
+    <!-- Call To Action -->
+    <section class="call-to-action" style="background-image: url(images/background/4.jpg);">
         <div class="auto-container">
             <div class="row clearfix">
-                <div class="title-column col-md-6 col-sm-12 col-xs-12">
+                <div class="title-column col-md-9 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <h2>Pide aquí tu cita</h2>
+                        <figure><img src="images/resource/stones.png" alt=""></figure>
+                        <h3>¡Ahora puedes contactarnos por WhatsApp!</h3>
                     </div>
                 </div>
 
-                <!-- Form Column -->
-                <div class="col-md-6 col-sm-12 col-xs-12">
+                <div class="btn-column col-md-3 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <div class="subscribe-form">
-                            <ul class="contact-info">
-                                <li>Llámanos : <a href="tel:945230447">945 23 04 47</a> o</li>
-                                <li>Mándanos un email : <a href="mailto:rosma@rosmabelleza.com">rosma@rosmabelleza.com</a></li>
-                            </ul>
-                        </div>
-                    </div>    
+                        <a href="#" class="theme-btn btn-style-two">Contactar <i class="fa fa-whatsapp"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--End Subscribe Section -->
+    <!--End Call To Action -->
 
     <!-- Team Section -->
     <section class="team-section">
@@ -207,48 +202,7 @@
     </section>
     <!--End Team Section -->
 
-    <!--Fun Facts Section-->
-    <section class="fun-fact-section" style="background-image:url(images/background/2.jpg);">
-        <div class="auto-container">
-            <div class="row clearfix">
-                <!--Column-->
-                <div class="counter-column col-md-3 col-sm-6 col-xs-12">
-                    <div class="count-box">
-                        <span class="icon flaticon-massage"></span>
-                        <span class="count-text" data-speed="3000" data-stop="1356">0</span>
-                        <h4 class="counter-title">Massage Therapy</h4>
-                    </div>
-                </div>
-
-                <!--Column-->
-                <div class="counter-column col-md-3 col-sm-6 col-xs-12">
-                    <div class="count-box">
-                        <span class="icon flaticon-spa-8"></span>
-                        <span class="count-text" data-speed="3000" data-stop="750">0</span>
-                        <h4 class="counter-title">Sauna, Jacuzzi</h4>
-                    </div>
-                </div>
-
-                <!--Column-->
-                <div class="counter-column col-md-3 col-sm-6 col-xs-12">
-                    <div class="count-box">
-                        <span class="icon flaticon-spa-tools"></span>
-                        <span class="count-text" data-speed="3000" data-stop="289">0</span>
-                        <h4 class="counter-title">Soften the heel</h4>
-                    </div>
-                </div>
-
-                <!--Column-->
-                <div class="counter-column col-md-3 col-sm-6 col-xs-12">
-                    <div class="count-box">
-                        <span class="icon flaticon-bamboo"></span>
-                        <span class="count-text" data-speed="3000" data-stop="496">0</span>
-                        <h4 class="counter-title">Skin rejuvenation</h4>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     <!-- Services Section -->
     <section class="services-section" style="background-image: url(images/background/1.jpg); background-size: cover;">
 

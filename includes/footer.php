@@ -8,7 +8,7 @@
                 <div class="row clearfix">
                     
                     <!--Footer Column-->
-                    <div class="footer-column col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
                         <div class="footer-widget about-widget">
                             <div class="footer-logo">
                                 <figure>
@@ -29,8 +29,8 @@
                     </div>
                     
                     <!--Footer Column-->
-                    <div class="footer-column col-md-4 col-sm-12 col-xs-12">
-                        <div class="footer-widget links-widget">
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
+                        <div class="footer-widget">
                             <h2 class="widget-title">Links de interés</h2>
                             <div class="widget-content">
                                 <ul class="list">
@@ -43,18 +43,33 @@
                     </div>   
                     
                     <!--Footer Column-->
-                    <div class="footer-column col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
                         <div class="footer-widget contact-widget">
                             <h2 class="widget-title">Contacto</h2>
                             <div class="widget-content">
                                 <ul class="contact-list">
-                                    <li><strong>Llámanos: </strong><a href="tel:945230447">945 23 04 47</a></li>
+                                    <li><strong>Llámanos: </strong><a href="tel:+34945230447">945 23 04 47</a></li>
+                                    <li><strong>Llámanos: </strong><a href="tel:+34609902193">609 90 21 93</a></li>
                                     <li><strong>Email: </strong><a href="mailto:rosma@rosmabelleza.com">rosma@rosmabelleza.com</a></li>
                                     <li><strong>Dirección: </strong>C/Madre Vedruna, 12. Vitoria-Gasteiz</li>
                                 </ul>
                             </div> 
                         </div> 
                     </div>
+
+                    <!--Footer Column-->
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
+                        <div class="footer-widget contact-widget">
+                            <h2 class="widget-title">El Centro</h2>
+                            <div class="widget-content">
+                                <p style="margin-bottom: 10px;"><i class="fa fa-wheelchair" aria-hidden="true" style="color:#fff; font-size: 45px;"></i></p>
+                                <p style="color:#fff;">
+                                     Nuestro centro está adaptado a personas con discapacidad y con movilidad reducida.
+                                </p>
+                            </div> 
+                        </div> 
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -82,7 +97,7 @@
                 <div class="row clearfix">
                     
                     <!--Footer Column-->
-                    <div class="footer-column col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
                         <div class="footer-widget about-widget">
                             <div class="footer-logo">
                                 <figure>
@@ -103,8 +118,8 @@
                     </div>
                     
                     <!--Footer Column-->
-                    <div class="footer-column col-md-4 col-sm-12 col-xs-12">
-                        <div class="footer-widget links-widget">
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
+                        <div class="footer-widget">
                             <h2 class="widget-title">Links de interés</h2>
                             <div class="widget-content">
                                 <ul class="list">
@@ -117,18 +132,33 @@
                     </div>   
                     
                     <!--Footer Column-->
-                    <div class="footer-column col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
                         <div class="footer-widget contact-widget">
                             <h2 class="widget-title">Contacto</h2>
                             <div class="widget-content">
                                 <ul class="contact-list">
-                                    <li><strong>Llámanos: </strong><a href="tel:945230447">945 23 04 47</a></li>
+                                    <li><strong>Llámanos: </strong><a href="tel:+34945230447">945 23 04 47</a></li>
+                                    <li><strong>Llámanos: </strong><a href="tel:+34609902193">609 90 21 93</a></li>
                                     <li><strong>Email: </strong><a href="mailto:rosma@rosmabelleza.com">rosma@rosmabelleza.com</a></li>
                                     <li><strong>Dirección: </strong>C/Madre Vedruna, 12. Vitoria-Gasteiz</li>
                                 </ul>
                             </div> 
                         </div> 
                     </div>
+
+                    <!--Footer Column-->
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
+                        <div class="footer-widget contact-widget">
+                            <h2 class="widget-title">El Centro</h2>
+                            <div class="widget-content">
+                                <p style="margin-bottom: 10px;"><i class="fa fa-wheelchair" aria-hidden="true" style="color:#fff; font-size: 45px;"></i></p>
+                                <p style="color:#fff;">
+                                     Nuestro centro está adaptado a personas con discapacidad y con movilidad reducida.
+                                </p>
+                            </div> 
+                        </div> 
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -156,7 +186,7 @@
                 <div class="row clearfix">
                     
                     <!--Footer Column-->
-                    <div class="footer-column col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
                         <div class="footer-widget about-widget">
                             <div class="footer-logo">
                                 <figure>
@@ -177,8 +207,8 @@
                     </div>
                     
                     <!--Footer Column-->
-                    <div class="footer-column col-md-4 col-sm-12 col-xs-12">
-                        <div class="footer-widget links-widget">
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
+                        <div class="footer-widget">
                             <h2 class="widget-title">Links de interés</h2>
                             <div class="widget-content">
                                 <ul class="list">
@@ -191,18 +221,33 @@
                     </div>   
                     
                     <!--Footer Column-->
-                    <div class="footer-column col-md-4 col-sm-12 col-xs-12">
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
                         <div class="footer-widget contact-widget">
                             <h2 class="widget-title">Contacto</h2>
                             <div class="widget-content">
                                 <ul class="contact-list">
-                                    <li><strong>Llámanos: </strong><a href="tel:945230447">945 23 04 47</a></li>
+                                    <li><strong>Llámanos: </strong><a href="tel:+34945230447">945 23 04 47</a></li>
+                                    <li><strong>Llámanos: </strong><a href="tel:+34609902193">609 90 21 93</a></li>
                                     <li><strong>Email: </strong><a href="mailto:rosma@rosmabelleza.com">rosma@rosmabelleza.com</a></li>
                                     <li><strong>Dirección: </strong>C/Madre Vedruna, 12. Vitoria-Gasteiz</li>
                                 </ul>
                             </div> 
                         </div> 
                     </div>
+
+                    <!--Footer Column-->
+                    <div class="footer-column col-md-3 col-sm-12 col-xs-12">
+                        <div class="footer-widget contact-widget">
+                            <h2 class="widget-title">El Centro</h2>
+                            <div class="widget-content">
+                                <p style="margin-bottom: 10px;"><i class="fa fa-wheelchair" aria-hidden="true" style="color:#fff; font-size: 45px;"></i></p>
+                                <p style="color:#fff;">
+                                     Nuestro centro está adaptado a personas con discapacidad y con movilidad reducida.
+                                </p>
+                            </div> 
+                        </div> 
+                    </div>
+
                 </div>
             </div>
         </div>

@@ -9,7 +9,8 @@
             	<div class="inner-container clearfix">
                     <div class="top-left">
                         <ul class="clearfix">
-                            <li><a href="tel:945230447"><i class="fa fa-volume-control-phone"></i> 945 23 04 47</a></li>
+                            <li><a href="tel:+34945230447"><i class="fa fa-volume-control-phone"></i> 945 23 04 47</a></li>
+                            <li><a href="tel:+34609902193"><i class="fa fa-volume-control-phone"></i> 609 90 21 93</a></li>
                             <li><a href="mailto:rosma@rosmabelleza.com"><i class="fa fa-envelope-o"></i> rosma@rosmabelleza.com</a></li>
                         </ul>
                     </div>
@@ -52,7 +53,7 @@
                                     </li>
                                     <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="../quienes-somos.php">Quienes somos</a>
                                     </li>
-                                    <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown" class="dropdown"><a href="#">Servicios</a>
+                                    <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown" class="dropdown"><a href="#">Servicios Estéticos</a>
                                         <ul>
                                             <li><a href="con-buena-cara/index.php">Con buena cara</a></li>
                                             <li><a href="dame-tu-mano/index.php">Dame tu mano</a></li>
@@ -68,6 +69,8 @@
                                             <li><a href="para-que-te-mimes/index.php">Para que te mimes</a></li>
                                             <li><a href="para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
+                                    </li>
+                                    <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
                                     </li>
                                     <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="../blog.php">Nuestro Blog</a>
                                     </li>
@@ -108,7 +111,7 @@
                                 </li>
                                 <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="../quienes-somos.php">Quienes somos</a>
                                 </li>
-                                <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
+                                <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios Estéticos</a>
                                     <ul>
                                         <li><a href="con-buena-cara/index.php">Con buena cara</a></li>
                                         <li><a href="dame-tu-mano/index.php">Dame tu mano</a></li>
@@ -124,6 +127,8 @@
                                         <li><a href="para-que-te-mimes/index.php">Para que te mimes</a></li>
                                         <li><a href="para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
+                                </li>
+                                <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
                                 </li>
                                 <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="#">Regala Rosma</a>
                                 </li>
@@ -151,6 +156,7 @@
                     <div class="top-left">
                         <ul class="clearfix">
                             <li><a href="tel:945230447"><i class="fa fa-volume-control-phone"></i> 945 23 04 47</a></li>
+                            <li><a href="tel:+34609902193"><i class="fa fa-volume-control-phone"></i> 609 90 21 93</a></li>
                             <li><a href="mailto:rosma@rosmabelleza.com"><i class="fa fa-envelope-o"></i> rosma@rosmabelleza.com</a></li>
                         </ul>
                     </div>
@@ -193,7 +199,7 @@
                                     </li>
                                     <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="../../quienes-somos.php">Quienes somos</a>
                                     </li>
-                                    <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown" class="dropdown"><a href="#">Servicios</a>
+                                    <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown" class="dropdown"><a href="#">Servicios Estéticos</a>
                                         <ul>
                                             <li><a href="../con-buena-cara/index.php">Con buena cara</a></li>
                                             <li><a href="../dame-tu-mano/index.php">Dame tu mano</a></li>
@@ -210,8 +216,8 @@
                                             <li><a href="../para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
                                     </li>
-                                    <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="#">Regala Rosma</a>
-                                </li>
+                                    <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
+                                    </li>
                                     <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../contacto.php">Contacto</a></li>
                                 </ul>
                             </div>
@@ -249,7 +255,7 @@
                                 </li>
                                 <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="../../quienes-somos.php">Quienes somos</a>
                                 </li>
-                                <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
+                                <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios Estéticos</a>
                                     <ul>
                                         <li><a href="../con-buena-cara/index.php">Con buena cara</a></li>
                                         <li><a href="../dame-tu-mano/index.php">Dame tu mano</a></li>
@@ -266,7 +272,7 @@
                                         <li><a href="../para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
                                 </li>
-                                <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="#">Regala Rosma</a>
+                                <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
                                 </li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../../contacto.php">Contacto</a></li>
                             </ul>
@@ -292,6 +298,7 @@
                     <div class="top-left">
                         <ul class="clearfix">
                             <li><a href="tel:945230447"><i class="fa fa-volume-control-phone"></i> 945 23 04 47</a></li>
+                            <li><a href="tel:+34609902193"><i class="fa fa-volume-control-phone"></i> 609 90 21 93</a></li>
                             <li><a href="mailto:rosma@rosmabelleza.com"><i class="fa fa-envelope-o"></i> rosma@rosmabelleza.com</a></li>
                         </ul>
                     </div>
@@ -333,14 +340,8 @@
                                     <li class="<?php if ($page == "index") { echo 'current'; }?>"><a href="index.php">Inicio</a>
                                     </li>
                                     <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="quienes-somos.php">Quienes somos</a>
-                                        <ul>
-                                            <li><a href="about.php">About</a></li>
-                                            <li><a href="appointment.php">Appointment</a></li>
-                                            <li><a href="gallery.php">Gallery</a></li>
-                                            <li><a href="gallery-detail.php">Gallery Detail</a></li> 
-                                        </ul>
                                     </li>
-                                    <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
+                                    <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios Estéticos</a>
                                         <ul>
                                             <li><a href="servicios/con-buena-cara/index.php">Con buena cara</a></li>
                                             <li><a href="servicios/dame-tu-mano/index.php">Dame tu mano</a></li>
@@ -357,8 +358,8 @@
                                             <li><a href="servicios/para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
                                     </li>
-                                    <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="#">Regala Rosma</a>
-                                    </li>
+                                    <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
+                                </li>
                                     <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
                                 </ul>
                             </div>
@@ -396,7 +397,7 @@
                                 </li>
                                 <li class="<?php if ($page == "quienes-somos") { echo 'current'; }?>"><a href="quienes-somos.php">Quienes somos</a>
                                 </li>
-                                <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios</a>
+                                <li class="<?php if ($page == "servicios") { echo 'current'; }?> dropdown"><a href="#">Servicios Estéticos</a>
                                     <ul>
                                         <li><a href="servicios/con-buena-cara/index.php">Con buena cara</a></li>
                                         <li><a href="servicios/dame-tu-mano/index.php">Dame tu mano</a></li>
@@ -413,7 +414,7 @@
                                         <li><a href="servicios/para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
                                 </li>
-                                <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="#">Regala Rosma</a>
+                                <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
                                 </li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
                             </ul>

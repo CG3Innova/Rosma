@@ -68,7 +68,7 @@
                             data-x="['left','left','left','left']"
                             data-y="['middle','middle','middle','middle']"
                             data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                                <h2 class="title">Rosma Belleza</h2>
+                                <h2 class="title">No es lo que necesitas, es lo que te mereces</h2>
                             </div>
 
                             <div class="tp-caption" 
@@ -86,11 +86,11 @@
                             data-x="['left','left','left','left']"
                             data-y="['middle','middle','middle','middle']"
                             data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                                <h2>No es lo que necesitas, es lo que te mereces</h2>
+                                <h2>Rosma Belleza</h2>
                             </div>
                             
                             
-                            <div class="tp-caption" 
+                            <!--<div class="tp-caption" 
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
@@ -105,8 +105,8 @@
                             data-x="['left','left','left','left']"
                             data-y="['middle','middle','middle','middle']"
                             data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                                <a href="services.html" class="theme-btn btn-style-one">Saber más <i class="fa fa-angle-double-right"></i></a>
-                            </div>
+                                <a href="#" class="theme-btn btn-style-one">Saber más <i class="fa fa-angle-double-right"></i></a>
+                            </div>-->
 
                         </div>
                         
@@ -121,8 +121,8 @@
     <section class="procedure-section" style="background-image: url(images/background/7.jpg);">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <span class="title">Rosma Belleza</span>
-                <h2>Más de 35 años al servicio de la belleza</h2>
+                <span class="title">Más de 40 años al servicio de la belleza</span>
+                <h2>Rosma Belleza</h2>
                 <div class="separator"><span class="flaticon-flower"></span></div>
             </div>
 
@@ -134,19 +134,8 @@
                             <span class="icon flaticon-wellness"></span>
                             <!--<span class="percent">1%</span>-->
                         </div>
-                        <h3><a href="service-detail.html">Profesionalidad</a></h3>
+                        <h3><a href="service-detail.html">Calidad</a></h3>
                         <div class="text">Equipo con gran experiencia y formación</div>
-                    </div>
-                </div>
-
-                <!-- Procedure Block -->
-                <div class="procedure-block col-md-3 col-sm-6 col-xs-12">
-                    <div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-mask"></span>
-                        </div>
-                        <h3><a href="service-detail.html">Innovación</a></h3>
-                        <div class="text">Especialistas en tratamientos innovadores</div>
                     </div>
                 </div>
 
@@ -165,9 +154,21 @@
                 <div class="procedure-block col-md-3 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="icon-box">
+                            <span class="icon flaticon-mask"></span>
+                        </div>
+                        <h3><a href="service-detail.html">Innovador</a></h3>
+                        <div class="text">Especialistas en tratamientos innovadores</div>
+                    </div>
+                </div>
+
+
+                <!-- Procedure Block -->
+                <div class="procedure-block col-md-3 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="icon-box">
                             <span class="icon flaticon-sauna-1"></span>
                         </div>
-                        <h3><a href="service-detail.html">Ambiente</a></h3>
+                        <h3><a href="service-detail.html">Servicio al cliente</a></h3>
                         <div class="text">Disfruta de un ambiente de relax único.</div>
                     </div>
                 </div>
@@ -206,9 +207,9 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title">Belleza a tu medida</span>
-                <h2>Nuestros servicios</h2>
+                <h2>Carta de servicios</h2>
                 <div class="separator"><span class="flaticon-flower"></span></div>
-                <p>Ofrecemos una experiencia única que combina los últimos avances en tratamientos de belleza con un ambiente relajante y personalizado.</p>
+                <p>Te ofrecemos los últimos avances en tratamiento de belleza y bienestar. Cuidar de tí es nuestra prioridad.</p>
             </div>
 
             <div class="services-carousel owl-carousel owl-theme">
@@ -219,7 +220,6 @@
                             <div class="image"><a href="servicios/con-buena-cara/index.php"><img src="images/servicios/con-buena-cara.jpg" alt="Con buena cara- Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-stones"></span></div>
                             <h3><a href="servicios/con-buena-cara/index.php">Con buena cara</a></h3>
                             <p>Tratamientos faciales diseñados para que luzcas la mejor versión de tu rostro.</p>
                         </div>
@@ -233,7 +233,6 @@
                             <div class="image"><a href="servicios/dame-tu-mano/index.php"><img src="images/servicios/dame-tu-mano.jpg" alt="Dame tu mano - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-facial"></span></div>
                             <h3><a href="servicios/dame-tu-mano/index.php">Dame tu mano</a></h3>
                             <p>Cuidamos de tus manos para resaltar su belleza y mantenerlas saludables.</p>
                         </div>
@@ -247,7 +246,6 @@
                             <div class="image"><a href="servicios/pisa-fuerte/index.php"><img src="images/servicios/pisa-fuerte.jpg" alt="Pisa fuerte - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-nail"></span></div>
                             <h3><a href="servicios/pisa-fuerte/index.php">Pisa fuerte</a></h3>
                             <p>Tratamientos diseñados para fortalecer,reparar y para mimar tus pies.</p>
                         </div>
@@ -261,7 +259,6 @@
                             <div class="image"><a href="servicios/piel-de-seda/index.php"><img src="images/servicios/piel-de-seda.jpg" alt="Piel Seda - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-stones"></span></div>
                             <h3><a href="servicios/piel-de-seda/index.php">Piel de seda</a></h3>
                             <p>Transformamos tu rutina de depilación en una experiencia de cuidado y confort.</p>
                         </div>
@@ -275,7 +272,6 @@
                             <div class="image"><a href="servicios/fotodepilacion/index.php"><img src="images/servicios/fotodepilacion.jpg" alt="Fotodepilacion - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-facial"></span></div>
                             <h3><a href="servicios/fotodepilacion/index.php">Fotodepilación</a></h3>
                             <p>Resultados duraderos cuidando la salud de tu piel mientras elimina el vello no deseado.</p>
                         </div>
@@ -289,7 +285,6 @@
                             <div class="image"><a href="servicios/para-que-estes-mas-guapa/index.php"><img src="images/servicios/para-que-estes-mas-guapa.jpg" alt="Para que estés más guapa - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-nail"></span></div>
                             <h3><a href="servicios/para-que-estes-mas-guapa/index.php">Para que estés más guapa</a></h3>
                             <p>Realzamos tu belleza natural con nuestros tratamientos de maquillaje y cuidado facial.</p>
                         </div>
@@ -303,7 +298,6 @@
                             <div class="image"><a href="servicios/formando-curvas/index.php"><img src="images/servicios/formando-curvas.jpg" alt="Formando curvas - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-stones"></span></div>
                             <h3><a href="servicios/formando-curvas/index.php">Formando curvas</a></h3>
                             <p>Tratamientos para ayudarte a hacer realidad tus objetivos de bienestar y estética.</p>
                         </div>
@@ -317,7 +311,6 @@
                             <div class="image"><a href="servicios/a-toda-velocidad/index.php"><img src="images/servicios/a-toda-velocidad.jpg" alt="A toda velocidad - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-facial"></span></div>
                             <h3><a href="servicios/a-toda-velocidad/index.php">A toda velocidad</a></h3>
                             <p>Tonificación facial y corporal diseñados para resaltar tu belleza natural.</p>
                         </div>
@@ -331,7 +324,6 @@
                             <div class="image"><a href="servicios/para-tu-mirada/index.php"><img src="images/servicios/para-tu-mirada.jpg" alt="Para tu mirada - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-nail"></span></div>
                             <h3><a href="servicios/para-tu-mirada/index.php">Para tu mirada</a></h3>
                             <p>Diversos tratamientos diseñados para ayudarte a lucir tu mejor mirada.</p>
                         </div>
@@ -345,7 +337,6 @@
                             <div class="image"><a href="servicios/escote-provocador/index.php"><img src="images/servicios/escote-provocador.jpg" alt="Escote provocador - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-nail"></span></div>
                             <h3><a href="servicios/escote-provocador/index.php">Escote Provocador</a></h3>
                             <p>Cuidamos de cada detalle para que te sientas segura y radiante.</p>
                         </div>
@@ -359,7 +350,6 @@
                         <div class="image"><a href="servicios/para-mama/index.php"><img src="images/servicios/para-mama.jpg" alt="Para mamá - Rosma Belleza"></a></div>
                     </div>
                     <div class="lower-content">
-                        <div class="icon-box"><span class="flaticon-nail"></span></div>
                         <h3><a href="servicios/para-mama/index.php">Para mamá</a></h3>
                         <p>En Rosma Belleza, cuidamos de ti mientras tú cuidas de lo más importante.</p>
                     </div>
@@ -373,7 +363,6 @@
                             <div class="image"><a href="servicios/para-que-te-mimes/index.php"><img src="images/servicios/para-que-te-mimes.jpg" alt="Para que te mimes - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-nail"></span></div>
                             <h3><a href="servicios/para-que-te-mimes/index.php">Para que te mimes</a></h3>
                             <p>Te ofrecemos un refugio de belleza y bienestar con una experiencia única.</p>
                         </div>
@@ -387,7 +376,6 @@
                             <div class="image"><a href="servicios/para-tu-bienestar/index.php"><img src="images/servicios/para-tu-bienestar.jpg" alt="Para tu bienestar - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
-                            <div class="icon-box"><span class="flaticon-nail"></span></div>
                             <h3><a href="servicios/para-tu-bienestar/index.php">Para tu bienestar</a></h3>
                             <p>Optimiza tu nutrición, corrige tus hábitos y sobre todo mejora tu salud.</p>
                         </div>
@@ -405,14 +393,13 @@
                 <div class="title-column col-md-9 col-sm-12 col-xs-12">
                     <div class="inner-column">
                         <figure><img src="images/resource/stones.png" alt=""></figure>
-                        <h3>¡Aprovecha nuestras promociones y disfruta de lo que mereces!</h3>
-                        <p>Nuestros tratamientos al alcance de todas.</p>
+                        <h3>¡Ahora puedes contactarnos por WhatsApp!</h3>
                     </div>
                 </div>
 
                 <div class="btn-column col-md-3 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <a href="servicios/index.php" class="theme-btn btn-style-two">Más información <i class="fa fa-angle-double-right"></i></a>
+                        <a href="#" class="theme-btn btn-style-two">Contactar <i class="fa fa-whatsapp"></i></a>
                     </div>
                 </div>
             </div>
@@ -420,83 +407,15 @@
     </section>
     <!--End Call To Action -->
 
-    <!-- News Section -->
-    <section class="news-section">
-        <div class="auto-container">
-            <div class="sec-title text-center">
-                <span class="title">Nuestro Blog</span>
-                <h2>Últimas noticias</h2>
-                <div class="separator"><span class="flaticon-flower"></span></div>
-            </div>
-
-            <div class="row clearfix">
-                <!-- News Block -->
-                <div class="news-block col-md-4 col-sm-6 col-xs-12">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <a href="blog-detail.html"><img src="images/resource/news-1.jpg" alt=""></a>
-                            <span class="tag">Massage</span>
-                        </div>
-                        <div class="lower-content">
-                            <ul class="info">
-                                <li>By<a href="blog-detail.html">Akshay</a></li>
-                                <li><a href="blog-detail.html">17 June 2018</a></li>
-                            </ul>
-
-                            <h3><a href="blog-detail.html">Massage Therapy For Managing</a></h3>
-                            <div class="text">pleasure and praising pain was born I will give you a complete account of the system, and expound actual teachings great.</div>
-                            <div class="btn-box"><a href="blog-detail.html">Leer más <i class="fa fa-angle-double-right"></i></a></div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- News Block -->
-                <div class="news-block col-md-4 col-sm-6 col-xs-12">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <a href="blog-detail.html"><img src="images/resource/news-2.jpg" alt=""></a>
-                            <span class="tag">Body Care</span>
-                        </div>
-                        <div class="lower-content">
-                            <ul class="info">
-                                <li>By<a href="blog-detail.html">Akshay</a></li>
-                                <li><a href="blog-detail.html">17 June 2018</a></li>
-                            </ul>
-
-                            <h3><a href="blog-detail.html">Invest in a Healthy Tomorrow</a></h3>
-                            <div class="text">Herbal treatment is nontoxic and safe. Extend the benefits of the herbs to your body for a healing touch.</div>
-                            <div class="btn-box"><a href="blog-detail.html">Leer más <i class="fa fa-angle-double-right"></i></a></div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- News Block -->
-                <div class="news-block col-md-4 col-sm-6 col-xs-12">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <a href="blog-detail.html"><img src="images/resource/news-3.jpg" alt=""></a>
-                            <span class="tag">Beauty</span>
-                        </div>
-                        <div class="lower-content">
-                            <ul class="info">
-                                <li>By<a href="blog-detail.html">Akshay</a></li>
-                                <li><a href="blog-detail.html">17 June 2018</a></li>
-                            </ul>
-
-                            <h3><a href="blog-detail.html">Mystic Aromatherapy</a></h3>
-                            <div class="text">Aromatherapy makes use of plant materials and aromatic plant oils as a form of alternative healing medicine.</div>
-                            <div class="btn-box"><a href="blog-detail.html">Leer más <i class="fa fa-angle-double-right"></i></a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End News Section -->
 
      <!-- Sponsors -->
     <section class="sponsor-section">
         <div class="auto-container">
+        <div class="sec-title text-center">
+                <span class="title">Las mejores marcas para tu belleza</span>
+                <h2>Nuestras marcas</h2>
+                <div class="separator"><span class="flaticon-flower"></span></div>
+            </div>
             <div class="sponsor-outer">
                 <ul class="sponsors-carousel owl-carousel owl-theme">
                     <!-- Slide Item -->

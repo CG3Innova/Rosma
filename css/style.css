@@ -1861,8 +1861,7 @@ img{
 
 .service-block .lower-content{
 	position: relative;
-	padding: 35px 20px 30px;
-	padding-left: 100px;
+	padding: 30px 20px;
 	border-bottom: 2px solid #dddddd;
 }
 
@@ -6223,21 +6222,15 @@ img{
 
 .sponsor-section{
 	position: relative;
+	padding: 120px 0 80px;
 }
 
 .sponsor-section .sponsor-outer{
 	position: relative;
 	background-color: #ffffff;
-	border: 1px solid #ebebeb;
 	padding: 25px 15px;
 	margin: 0 auto;
 	z-index: 9;
-	margin-top: -76px;
-	-webkit-transform: translateY(50%);
-	-moz-transform: translateY(50%);
-	-ms-transform: translateY(50%);
-	-o-transform: translateY(50%);
-	transform: translateY(50%);
 }
 
 .sponsor-section .sponsors-carousel .image-box{
@@ -6872,7 +6865,6 @@ img{
 	line-height:36px;
 	color:#999999;
 	font-weight: 400;
-	text-transform:capitalize;
 }
 
 .main-footer .contact-list li a{
@@ -7002,7 +6994,6 @@ img{
 	position: relative;
 	float: left;
 	font-size:14px;
-	line-height: 20px;
 	color: #666666;
 	font-weight: 500;
 }
@@ -7022,7 +7013,9 @@ img{
 
 .main-footer .footer-bottom .link-box{
 	float: right;
-	display: ruby;
+	display: inline-flex;
+	align-items: center;
+	text-align: center;
 }
 
 .main-footer .footer-bottom .link-box a{
