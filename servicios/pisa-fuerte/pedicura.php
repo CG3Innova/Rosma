@@ -63,8 +63,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Pedicura: Belleza y bienestar para tus pies</h2>
-                            <p>Tus pies son una parte fundamental de tu bienestar, y en nuestro servicio de Pedicura nos dedicamos a cuidarlos y embellecerlos con la atención que merecen. Este tratamiento no solo está diseñado para mejorar la apariencia de tus pies, sino también para proporcionar una sensación de confort y relajación.</p>
-                            <p>Incluimos un cuidado completo que abarca desde la limpieza y exfoliación para eliminar impurezas y piel muerta, hasta el limado y esmaltado de las uñas con productos de alta calidad, que garantizan un acabado perfecto y duradero. Además, puedes elegir entre una amplia variedad de colores para lucir un estilo que refleje tu personalidad. Nuestro servicio de pedicura no solo realza la estética de tus pies, sino que también mejora su salud, contribuyendo a su suavidad y bienestar. Regálate un momento de cuidado personal con una pedicura que combina belleza y relajación en cada paso.</p>
+                            <p>Tus pies son una parte fundamental de tu bienestar, y en nuestro servicio de Pedicura nos dedicamos a cuidarlos y embellecerlos con la atención que merecen. Este tratamiento no solo está diseñado para mejorar la imagen de tus pies, sino también para proporcionar una sensación de confort y bienestar.</p>
+                            <p>Nuestro servicio de pedicura no solo realza la estética de tus pies, sino que también mejora su salud y bienestar. Ofrecemos todas las garantías de higiene y desinfección.</p>
                         </div>
 
                     </div><!-- Service Detail -->

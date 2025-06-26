@@ -62,9 +62,10 @@
                             <figure><img src="../../images/servicios/on-face-myolifting-facial.jpg" alt="On Face Myolifting Facial - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>On Face Myolifting Facial: Lifting muscular no invasivo para una piel rejuvenecida</h2>
+                            <h2>On Face: Estimula, tonifica y drena</h2>
                             <p>On Face Myolifting Facial es el primer dispositivo no invasivo de lifting muscular desarrollado en España, que combina tres tecnologías avanzadas: neuroestimulación, radiofrecuencia y microcorrientes. Este innovador tratamiento trabaja de manera simultánea para lograr resultados visibles en poco tiempo, tonificando y rejuveneciendo la piel del rostro de forma natural.</p>
-                            <p>El tratamiento ON-FACE ejercita todos los músculos faciales mediante myo-estimulación, restaurando el soporte de los tejidos faciales y elevando la estructura muscular. Al contraer los músculos, se aumenta la densidad y calidad de la musculatura del rostro, proporcionando un efecto lifting visible y duradero. Es hasta 100 veces más efectivo que cualquier ejercicio manual, lo que lo convierte en un tratamiento revolucionario para mejorar la firmeza y el contorno del rostro. Si buscas un método avanzado y no invasivo para rejuvenecer tu rostro, On Face Myolifting es la solución perfecta para devolverle a tu piel su juventud y vitalidad.</p>
+                            <p>El tratamiento ON-FACE trabaja como sistema preventivo, mantenimiento o correctivo.</p>
+                            <p>Ejercita todos los músculos faciales mediante myo-estimulación, restaurando el soporte de los tejidos y elevando la estructura muscular. Al contraer los músculos, se aumenta la densidad y calidad de la musculatura del rostro, proporcionando un efecto lifting visible y duradero. Es hasta 100 veces más efectivo que cualquier ejercicio manual, lo que lo convierte en un tratamiento revolucionario para mejorar la firmeza y el contorno del rostro. </p>
                         </div>
 
                     </div><!-- Service Detail -->

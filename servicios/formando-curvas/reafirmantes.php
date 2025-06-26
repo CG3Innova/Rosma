@@ -63,8 +63,7 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Reafirmantes</h2>
-                            <p>En nuestro tratamiento reafirmante, empleamos una variedad de tecnologías de vanguardia diseñadas para elevar, tensar y reafirmar aquellas áreas del cuerpo que han perdido su forma y elasticidad natural con el tiempo. Este enfoque avanzado se centra en restaurar la apariencia juvenil de los tejidos, proporcionando resultados visibles y duraderos.</p>
-                            <p>A través de métodos no invasivos, nuestro tratamiento no solo tensa y eleva los tejidos, sino que también mejora la circulación sanguínea y linfática. Este impulso circulatorio es fundamental para contribuir a una piel más saludable y tonificada. Nuestros pacientes pueden esperar una transformación notable en la textura y firmeza de la piel, promoviendo un bienestar general que se refleja en su confianza y autoestima.</p>
+                            <p>Empleamos una variedad de tecnologías de vanguardia diseñadas para elevar, tensar y reafirmar aquellas áreas del cuerpo que han perdido su forma y elasticidad natural debido a factores como: embarazo, pérdidas de peso bruscas, falta de ejercicio y el paso del tiempo. Este enfoque avanzado se centra en restaurar la apariencia de los tejidos y el tono muscular, proporcionando resultados visibles y duraderos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

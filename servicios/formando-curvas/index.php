@@ -64,7 +64,8 @@
                         <div class="lower-content">
                             <h2>Formando curvas</h2>
                             <p>En Rosma Belleza, te ofrecemos una amplia gama de tratamientos unisex corporales diseñados para ayudarte a hacer realidad tus objetivos de bienestar y estética. Nos especializamos en el uso de tecnología no invasiva, combinada con terapias manuales y cosmética de vanguardia, para garantizar resultados efectivos y satisfactorios.</p>
-                            <p>Además, adoptamos un enfoque integral en nuestros servicios, proporcionando recomendaciones personalizadas que no solo mejorarán tu dieta, sino también tu estilo de vida, asegurando que los resultados obtenidos sean duraderos en el tiempo. Nuestro equipo de expertos está comprometido a guiarte en cada paso del proceso, brindándote el mejor cuidado y atención. En Rosma Belleza, tu satisfacción y bienestar son nuestra prioridad, porque creemos que cada persona merece sentirse bien en su propia piel. Te esperamos para comenzar este viaje hacia una mejor versión de ti mismo.</p>
+                            <p>Además, adoptamos un enfoque integral en nuestros servicios, proporcionando recomendaciones nutricionales personalizadas que no solo mejorarán tu dieta, sino también tu estilo de vida, asegurando que los resultados obtenidos sean duraderos en el tiempo. Nuestro equipo de expertos está comprometido a guiarte en cada paso del proceso, brindándote el mejor cuidado y atención.</p>
+                            <p>Todos nuestros tratamientos se realizan previa cita de forma personalizada.</p>
                         </div>
 
                     </div><!-- Service Detail -->

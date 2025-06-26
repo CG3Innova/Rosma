@@ -65,6 +65,7 @@
                             <h2>Tratamientos cicatrizantes</h2>
                             <p>Enfocado en la regeneración celular profunda, este tratamiento favorece la cicatrización en todo tipo de pieles afectadas por secuelas de acné, pequeñas cicatrices o intervenciones quirúrgicas. Utilizamos productos y técnicas de última generación que no solo mejoran la estructura de la piel, sino que también minimizan la visibilidad de las cicatrices.</p>
                             <p>Nuestro enfoque avanzado permite que, tras el tratamiento, las cicatrices luzcan más suaves y uniformes, devolviendo a la piel un aspecto más homogéneo. Ya sea como preparación o recuperación pre y post cirugía, nos aseguramos de ofrecer resultados efectivos y visibles.</p>
+                            <p>Es necesaria una valoración y un diagnóstico previo.</p>
                         </div>
 
                     </div><!-- Service Detail -->

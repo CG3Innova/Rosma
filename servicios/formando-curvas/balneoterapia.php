@@ -63,8 +63,9 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Balneoterapia</h2>
-                            <p>El agua de mar posee una composición similar a la de nuestro plasma sanguíneo, lo que la convierte en un recurso excepcional para la salud. Esta agua no solo es rica en elementos vitales, sino que también contiene una variedad de sales minerales, vitaminas y oligoelementos que son esenciales para el correcto funcionamiento del organismo.</p>
-                            <p>La talasoterapia, un tratamiento que se basa en el uso del agua de mar, así como de barros y algas, se utiliza para promover la salud y el bienestar general. Este enfoque integral permite una conexión profunda con los elementos naturales, ofreciendo un servicio diferente que potencia los resultados de todos nuestros tratamientos. Además, favorece el equilibrio energético al trabajar desde el interior, revitalizando tanto el cuerpo como la mente. La balneoterapia se convierte así en una experiencia única que revitaliza y reequilibra, proporcionando una sensación de bienestar duradera.</p>
+                            <p>En Rosma Belleza te ofrecemos un tratamiento de balneoterapia que consiste en la inmersión en agua caliente que puede realizarse con o sin masaje.</p>
+                            <p>El efecto térmico del agua mejora la circulación sanguínea, reduce la inflamación y relaja los músculos.</p>
+                            <p>Esta agua enriquecida con minerales son absorbidos a través de la piel, proporcionando un efecto terapéutico detoxinante, equilibrante y energetizante, potenciando los resultados en nuestros tratamientos reductores.</p>
                         </div>
 
                     </div><!-- Service Detail -->

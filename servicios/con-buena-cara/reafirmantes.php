@@ -63,8 +63,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamientos reafirmantes</h2>
-                            <p>Con el paso del tiempo, es inevitable que la piel pierda parte de su flexibilidad, firmeza y elasticidad. La musculatura facial tiende a relajarse, lo que da lugar a la aparición de flacidez, un signo común del envejecimiento que afecta tanto a la apariencia como a la textura de la piel. Si sientes que este proceso está afectando tu rostro, no tienes por qué resignarte.</p>
-                            <p>En nuestro centro te ofrecemos un estudio personalizado que nos permite identificar las necesidades específicas de tu piel y un tratamiento reafirmante diseñado a medida para combatir eficazmente este problema. De esta manera, podemos ayudarte a devolverle a tu piel la firmeza y tonicidad que ha perdido, potenciando tu belleza natural y logrando resultados visibles y duraderos.</p>
+                            <p>Con el paso del tiempo, es inevitable que la piel pierda parte de su flexibilidad, firmeza y elasticidad. La musculatura facial tiende a relajarse, lo que da lugar a la aparición de la flacidez, un signo común del envejecimiento que afecta tanto a la apariencia como a la textura de la piel.</p>
+                            <p>Combinando la eficacia de la Myo estimulación (On-Face) y la Radiofrecuencia conseguimos restaurar y elevar el soporte de los tejidos faciales al contraer los músculos y estimularla síntesis de colágeno y elastina para devolver la elasticidad y densidad a la piel.</p>
                         </div>
 
                     </div><!-- Service Detail -->

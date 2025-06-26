@@ -63,8 +63,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento para pieles sensibles</h2>
-                            <p>Las pieles sensibles requieren un cuidado especial debido a su naturaleza reactiva, que responde intensamente a factores tanto internos como externos, así como a las emociones. Entendemos las necesidades de este tipo de piel y por eso ofrecemos un tratamiento integral diseñado específicamente para devolverle su equilibrio y bienestar.</p>
-                            <p>Nuestro tratamiento no solo restaura la dermis, sino que también proporciona una profunda sensación de confort y suavidad. Además, actúa como una barrera protectora contra agresiones externas, respetando siempre la delicadeza natural de la piel. Con este tratamiento, tu piel recobrará su luminosidad y fortaleza, manteniéndose protegida y en equilibrio día tras día.</p>
+                            <p>Las pieles sensibles requieren un cuidado especial debido a su naturaleza reactiva, que responden intensamente a factores tanto internos como externos, así como a las emociones. Entendemos las necesidades de este tipo de pieles y por eso ofrecemos un tratamiento integral diseñado especialmente para devolverles su equilibrio y bienestar.</p>
+                            <p>Nuestro tratamiento no solo restaura la dermis sino que también proporciona una profunda sensación de confort y suavidad y además actúa como una barrera protectora contra agresiones externas. Con un diagnóstico personalizado minimizamos reacciones alérgicas y fortalecemos el sistema inmune de la piel gracias a la cosmética SkinIdent.</p>
                         </div>
 
                     </div><!-- Service Detail -->

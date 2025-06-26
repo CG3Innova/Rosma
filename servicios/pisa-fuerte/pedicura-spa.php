@@ -63,8 +63,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Pedicura Spa: Un tratamiento integral con exfoliación y envoltura marina</h2>
-                            <p>Nuestro servicio de Pedicura Spa ofrece una experiencia de cuidado completo y bienestar para sus pies. Este exclusivo tratamiento va más allá de la pedicura tradicional, incorporando una exfoliación delicada que elimina las células muertas, dejando la piel notablemente suave y renovada.</p>
-                            <p>El proceso se enriquece con una envoltura marina, formulada con minerales esenciales, que proporciona una hidratación profunda y una nutrición intensiva, restaurando la suavidad y vitalidad de la piel. Este tratamiento no solo embellece sus pies, sino que también promueve su salud, ofreciéndole una sensación de confort y relajación. La Pedicura Spa es la elección perfecta para quienes desean un enfoque holístico del cuidado personal, combinando estética y bienestar en un solo tratamiento. Permítase un momento de lujo y descubra cómo sus pies pueden lucir y sentirse revitalizados.</p>
+                            <p>Nuestro servicio de Pedicura Spa ofrece una experiencia de cuidado completo y bienestar para tus pies. Este exclusivo tratamiento va más allá de la pedicura tradicional, incorporando una delicada exfoliación dejando la piel notablemente suave y renovada.</p>
+                            <p>El proceso se enriquece con un peeling y una envoltura marina, formulada con minerales esenciales, que proporcionan una hidratación profunda y una nutrición intensiva, restaurando la suavidad y vitalidad de la piel. Este tratamiento no solo embellece tus pies, sino que también promueve su salud, ofreciéndole una sensación de confort y relajación. La Pedicura Spa es la elección perfecta para quienes desean un enfoque holístico del cuidado personal, combinando estética y bienestar en un solo tratamiento. Permítete un momento de lujo y descubra cómo sus pies pueden lucir y sentirse revitalizados.</p>
                         </div>
 
                     </div><!-- Service Detail -->

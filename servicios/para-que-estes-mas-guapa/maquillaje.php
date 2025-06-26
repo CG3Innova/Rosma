@@ -62,9 +62,10 @@
                             <figure><img src="../../images/servicios/maquillaje.jpg" alt="Maquillaje - Rosma belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Maquillaje: Ponte guapa para tus ocasiones especiales.</h2>
-                            <p>En nuestras manos, el maquillaje se convierte en el aliado perfecto para realzar tu belleza natural y hacerte lucir espectacular en esos momentos que son verdaderamente importantes. Ya sea para una boda, una fiesta, un evento formal o cualquier ocasión especial, nuestro equipo de profesionales está preparado para crear el look ideal que se adapte a tu estilo y resalte lo mejor de ti.</p>
-                            <p>Utilizamos productos de alta calidad y técnicas adaptadas a tus necesidades, logrando un acabado impecable y duradero. Desde un maquillaje clásico y elegante hasta un look más atrevido y glamuroso, estamos aquí para asegurarnos de que te sientas segura y hermosa en cada evento.Deja que te cuidemos y te hagamos brillar en esos días tan únicos.</p>
+                            <h2>Exprésate con tu maquillaje</h2>
+                            <p>En Rosma Belleza hemos seleccionado la línea de maquillaje profesional Jorge de la Garza.</p>
+                            <p>Productos prácticos, versátiles, de larga duración y acabado impecable. Juega con ellos, transfórmate. Verte bien debe ser un objetivo diario.</p>
+                            <p>Los productos están formulados sin crueldad animal y son 100% veganos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

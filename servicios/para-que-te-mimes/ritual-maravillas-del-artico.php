@@ -66,8 +66,8 @@
                             <p>Sal a descubrir las maravillas de la naturaleza polar con este ritual corporal diseñado para ofrecerte una experiencia única de relajación y renovación. Imagina inmaculados paisajes de hielo blanco, voluptuosos manantiales de agua caliente y una insospechada flora submarina que te rodean mientras disfrutas de un estimulante tratamiento de Spa. Déjate llevar por los beneficios de los ancestrales rituales nórdicos, donde el calor relajante y el frescor tonificante se alternan, creando un equilibrio perfecto que relaja el cuerpo y libera tensiones acumuladas.</p>
                             <p>Este ritual completo está diseñado para que disfrutes al máximo e incluye:</p>
                             <ul style="margin-bottom: 30px;">
-                                <li style="list-style: inside;">Baño con cristales efervescentes que revitalizan tu piel.</li>
                                 <li style="list-style: inside;">Exfoliante con escamas de sal que purifica y renueva.</li>
+                                <li style="list-style: inside;">Baño con cristales efervescentes que revitalizan tu piel.</li>
                                 <li style="list-style: inside;">Masaje maravilla ártica que transporta tu mente y cuerpo a un estado de bienestar absoluto.</li>
                             </ul>
                             <p>Ideal para todas las personas estresadas y cansadas que buscan liberar la tensión y recobrar su energía.</p>

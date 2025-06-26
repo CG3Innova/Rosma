@@ -89,25 +89,30 @@
     <section class="about-us">
         <div class="auto-container">
             <div class="row clearfix">
-                <div class="content-column col-md-7 col-sm-12 col-xs-12">
-                    <div class="inner-column">
-                        <h3 class="title">Fundadora y directora</h3>
-                        <h2>Amalia Muñoz</h2>
-                        <p>Bienvenidos a este espacio de belleza. Me llamo Amalia Muñoz Márquez, soy fundadora y directora del centro Rosma Belleza.</p>
 
-                        <p>Quiero presentarme para que comprendáis lo que significa para mi haber cumplido este sueño, el sueño de poder realizar esta profesión tan maravillosa en el centro que siempre he deseado. Tengo pasión por mi trabajo, disfruto cada momento y agradezco desde aquí la oportunidad que con vuestra fidelidad me dais para realizarlo.</p>
-
-                        <p>Esta pasión me ha llevado a estar permanentemente formándome, siempre buscando los mejores profesionales, la mejor cosmética, la mejor aparatología… todo esto es importante, pero lo más importante es la confianza, la honestidad, la serenidad desde la que quiero trabajar.</p>
-
-                        <p>Este mundo de la belleza tiene sus límites, pero somos nosotros los que desde nuestra profesionalidad debemos con rigor y franqueza hacer que cada día nos invada la ilusión, una ilusión que nos haga sentir que somos la mujer y el hombre mas importante del mundo.</p>
-                    </div>
-                </div>
-
-                <div class="image-column col-md-5 col-sm-12 col-xs-12">
+                <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
                         <div class="image"><img src="images/resource/image-1.png" alt=""></div>
                     </div>
                 </div>
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <h3 class="title">Fundadora y directora</h3>
+                        <h2>Amalia Muñoz</h2>
+                        <p>¡Hola! Soy <strong>Amalia Muñoz</strong> y llevo <strong>más de 44 años</strong> dedicada con entusiasmo y mucho cariño al mundo de la <strong>estética profesional</strong>. Esta profesión es, para mí, una verdadera vocación: me apasiona ayudar a las personas a <strong>sentirse bien</strong>, <strong>verse bien</strong> y <strong>reconectar con su bienestar</strong>.</p>
+
+                        <p>A lo largo de estos años, he apostado por una formación continua y por mantenerme siempre actualizada en las últimas técnicas y avances del sector. Pero si hay algo que me hace sentir realmente orgullosa, es el <strong>equipo humano</strong> que me acompaña. Algunas de las personas que trabajan hoy a mi lado llevan <strong>más de 20 años compartiendo este camino conmigo</strong>. Juntas hemos formado un equipo sólido, con experiencia, sensibilidad y una visión común: cuidar de cada persona de manera personalizada y honesta, ofreciendo soluciones reales y efectivas.</p>
+                    </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <p>En nuestro centro creemos que cada persona es única, por eso <strong>diseñamos tratamientos adaptados a cada necesidad</strong>, siempre desde el respeto, la escucha y la profesionalidad. Más que un servicio, buscamos crear una experiencia en la que cada cliente <strong>se sienta cómodo, valorado y en buenas manos</strong>.</p>
+
+                        <p>Nuestra filosofía se basa en tres pilares: <strong>bienestar, honestidad y profesionalismo</strong>. Eso es lo que nos guía, y lo que queremos que sientas desde el primer momento que entras por nuestra puerta.</p>
+                    </div>
+                </div>
+
+                
             </div>
         </div>
     </section>

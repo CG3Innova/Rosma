@@ -62,9 +62,8 @@
                             <figure><img src="../../images/servicios/laminado-de-cejas.jpg" alt="Laminado de cejas - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Laminado de cejas: Tratamiento para moldear, definir y dar volumen hasta las cejas más rebeldes.</h2>
-                            <p>El laminado de cejas es el tratamiento ideal para aquellas personas que desean cejas perfectamente moldeadas, definidas y con mayor volumen, incluso en las cejas más rebeldes. Este procedimiento no solo ayuda a alinear y fijar los vellos en la dirección deseada, sino que también consigue un aspecto más denso y estructurado.</p>
-                            <p>Con el laminado, tus cejas lucirán más gruesas, llenas y pulidas, manteniendo su forma durante semanas. Es un tratamiento ideal para quienes buscan un look natural pero bien definido, sin la necesidad de recurrir a productos adicionales diariamente. Logra unas cejas impecables y sofisticadas, diseñadas a la perfección para realzar tu mirada y armonizar con tus rasgos.</p>
+                            <h2>Laminado de cejas: Tratamiento para moldear y definir hasta las cejas más rebeldes</h2>
+                            <p>El laminado de cejas es el tratamiento ideal para aquellas personas que desean cejas perfectamente moldeadas y definidas. Este procedimiento no solo ayuda a alinear y fijar los vellos en la dirección deseada, sino que también consigue un aspecto más denso y estructurado.</p>
                         </div>
 
                     </div><!-- Service Detail -->

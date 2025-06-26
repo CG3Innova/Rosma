@@ -19,8 +19,7 @@
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="../../js/respond.js"></script><![endif]-->
+
 </head>
 
 <body>
@@ -63,9 +62,10 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Piel de seda</h2>
-                            <p>En Rosma Belleza, transformamos tu rutina de depilación en una experiencia de cuidado y confort. Con nuestras técnicas especializadas, como la depilación con cera, resina o eléctrica, conseguimos una piel suave y libre de vello, dejando un acabado de seda que te hará sentir radiante.</p>
-                            <p>Nuestro equipo de profesionales utiliza productos de alta calidad y métodos adaptados a cada tipo de piel, garantizando una depilación efectiva y respetuosa con tu bienestar. Tanto si buscas una solución para áreas específicas como un tratamiento completo, en Rosma Belleza personalizamos cada servicio para que obtengas resultados duraderos y una piel perfectamente cuidada.</p>
-                            <p>Déjate llevar por una experiencia única de belleza y confianza. Visítanos en Rosma Belleza y descubre el arte de la depilación que no solo elimina el vello, sino que también mima tu piel. ¡Estamos aquí para que luzcas y te sientas increíble en cada momento!</p>
+                            <p>En Rosma Belleza te ofrecemos diferentes posibilidades para la eliminación del vello respetando en todo momento tu piel.</p>
+                            <p>Trabajamos tanto la depilación tradicional de cera caliente y fría, eléctrica y distintos láseres de fotodepilación.</p>
+                            <p>Para nosotras es prioritario garantizar un servicio seguro proporcionando una higiene total utilizando productos y materiales desechables.</p>
+                            <p>Nuestro equipo te asesorará sobre cuál es el método de depilación más adecuado para ti asegurando un resultado efectivo y respetuoso con tu piel.</p>
                         </div>
 
                     </div><!-- Service Detail -->

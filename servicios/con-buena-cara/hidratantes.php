@@ -48,26 +48,24 @@
         	</div>
         </div>
     </section>
-    <!--End Page Title-->
-
-    <!-- Service Detail -->
+    
     <div class="service-detail-section">
         <div class="auto-container">
             <div class="row clearfix">
 
-                <!--Content Side-->
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
                             <figure><img src="../../images/servicios/hidratantes.jpg" alt="Tratamientos hidratantes - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Tratamientos hidratantes</h2>
-                            <p>Nuestro tratamiento hidratante está diseñado para proporcionar una nutrición profunda e intensa, enfocada en las zonas clave del rostro, el cuello y el escote. Este tratamiento actúa regulando los niveles de hidratación en la epidermis, logrando que tu piel alcance su máxima capacidad de retención de agua.</p>
-                            <p>Gracias a su fórmula avanzada, aporta hidratación duradera, dejando tu piel suave, flexible y revitalizada. Es ideal para todo tipo de pieles, independientemente de su condición, ya que contribuye a restaurar y mantener el equilibrio hídrico natural. Una piel bien hidratada no solo se siente más saludable, sino que también luce visiblemente más luminosa y radiante.</p>
-                        </div>
 
-                    </div><!-- Service Detail -->
+                            <h2>Tratamientos hidratantes</h2>
+                            <p>Nuestros tratamientos hidratantes están diseñados para proporcionar una nutrición profunda e intensa, enfocada en las zonas clave del rostro, el cuello y el escote. Este tratamiento actúa regulando los niveles de hidratación en la epidermis, logrando que tu piel alcance su máxima capacidad de retención de agua.</p>
+                            <p>Gracias a su fórmula avanzada, aporta hidratación duradera, dejando tu piel suave, flexible y revitalizada. Es ideal para todo tipo de pieles ya que contribuye a restaurar y mantener el equilibrio hídrico natural. Una piel bien hidratada no solo se siente más saludable, sino que también luce visiblemente más luminosa y radiante.</p>
+                            
+                        </div>
+                    </div>
                 </div>
 
                 <?php 

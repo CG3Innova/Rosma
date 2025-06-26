@@ -63,7 +63,7 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Manicura: Belleza y cuidado para tus manos</h2>
-                            <p>Tus manos son una carta de presentación, y en nuestro servicio de manicura nos aseguramos de que siempre luzcan impecables. Con productos de alta calidad y técnicas profesionales, transformamos tus uñas con diseños que reflejan tu estilo personal. Ya sea que busques un look clásico, moderno o atrevido, te ofrecemos una experiencia relajante y un acabado perfecto que durará más tiempo.</p>
+                            <p>Tus manos son una carta de presentación. Con nuestro servicio de manicura nos aseguramos que siempre luzcan impecables.</p>
                             <p>Nuestro servicio de manicura no solo mejora la apariencia de tus manos, sino que también cuida tu bienestar. Disfruta de un momento de relajación mientras te aseguramos una higiene garantizada, con herramientas esterilizadas y un entorno seguro. Déjanos cuidar de tus uñas con un servicio que combina belleza, estilo y salud.</p>
                         </div>
 

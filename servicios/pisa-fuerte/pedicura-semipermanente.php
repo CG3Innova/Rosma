@@ -63,8 +63,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Pedicura Semipermanente: Esmaltado Shellac para una Belleza Duradera</h2>
-                            <p>Nuestro servicio de Pedicura Semipermanente con esmaltado Shellac está diseñado para quienes buscan una solución duradera y de alta calidad para el cuidado de sus pies. Este tratamiento garantiza un acabado impecable que combina belleza y resistencia, con una fijación perfecta que se mantiene sin astillarse por semanas.</p>
-                            <p>El esmalte Shellac es vegano y Cruelty Free, y ofrece una amplia gama de colores para que puedas elegir el tono que mejor refleje tu estilo, desde opciones discretas hasta colores vibrantes. Este sistema no solo aporta un brillo duradero, sino que también protege las uñas, proporcionando un acabado profesional que resiste el desgaste diario. Con la Pedicura Semipermanente, podrás disfrutar de pies impecables y cuidados durante más tiempo, sin la necesidad de retoques frecuentes. Perfecto para quienes valoran la durabilidad sin renunciar a la elegancia.</p>
+                            <p>Nuestro servicio de Pedicura Semipermanente con esmaltado Shellac está diseñado para quienes buscan una solución duradera y de alta calidad para el esmaltado de las uñas de tus pies. Este tratamiento garantiza un acabado impecable que combina belleza y resistencia, con un brillo y una fijación perfecta durante más tiempo.</p>
+                            <p>El esmalte Shellac es vegano y Cruelty Free. Ofrece una amplia gama de colores para que puedas elegir el tono que mejor refleje tu estilo, desde opciones discretas hasta colores vibrantes. Este sistema no solo aporta un acabado duradero, sino que también protege las uñas, proporcionando un acabado profesional que resiste el desgaste diario. Perfecto para quienes valoran la durabilidad sin renunciar a la elegancia.</p>
                         </div>
 
                     </div><!-- Service Detail -->

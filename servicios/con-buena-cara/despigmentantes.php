@@ -63,9 +63,11 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamientos despigmentantes</h2>
-                            <p>El tratamiento despigmentante es una solución eficaz para combatir las hiperpigmentaciones en la piel, las cuales pueden ser causadas por una combinación de factores externos, como la exposición solar sin protección, y factores internos, como desequilibrios hormonales o el envejecimiento natural. Para abordar este problema, utilizamos una serie de peelings dermatológicos que actúan produciendo un potente efecto queratolítico, lo que significa que promueven una rápida renovación celular en las capas superficiales y medias de la piel.
-                            </p>
+                            <p>Las manchas son alteraciones de la pigmentación que se originan por la acumulación excesiva de melanina, pigmento que da color a la piel, cabello y ojos. Existen diferentes causas por las que se originan las manchas: la exposición solar, el envejecimiento, el embarazo, lesiones dérmicas y algunos medicamentos desencadenan una anomalía en el melanocito, célula que fabrica la melanina, provocando un tono irregular, mate y apagado.</p>
+                            <p>Dependiendo del tipo de mancha y profundidad de la misma existe un tratamiento específico para tratarla. </p>
+                            <p>El peeling químico y la micro-punción son alternativas eficaces para tratar las manchas.</p>
                             <p>Lo que hace único a cada uno de nuestros peelings son sus principios activos específicos, el porcentaje de concentración de estos ingredientes y el pH de las soluciones. Para asegurar un resultado óptimo, es fundamental realizar un diagnóstico preciso que nos permita elegir el tratamiento más adecuado, maximizando así los beneficios y garantizando una piel más uniforme y luminosa.</p>
+                            <p>Tan importante como el tratamiento profesional son los productos que utilices en casa.”</p>
                         </div>
 
                     </div><!-- Service Detail -->

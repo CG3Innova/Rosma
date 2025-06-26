@@ -63,8 +63,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>A toda velocidad</h2>
-                            <p>En Rosma Belleza, combinamos innovación y tecnología avanzada para ofrecerte tratamientos de tonificación facial y corporal diseñados para resaltar tu belleza natural. Utilizamos equipos de última generación como Cavitación, INDIBA, Vacumterapia, Oxigenoterapia, Presoterapia, Termopresoterapia y Vibromasaje, que garantizan resultados visibles y efectivos en cada sesión.</p>
-                            <p>Nuestros tratamientos están pensados para mejorar la firmeza de la piel, reducir volumen y estimular la circulación, siempre adaptados a tus necesidades específicas. Gracias a estas tecnologías, logramos un cuidado profundo que rejuvenece y redefine las líneas de tu rostro y cuerpo, devolviéndote la confianza en tu imagen.</p>
+                            <p>En Rosma Belleza contamos con aparatología innovadora para ofrecerte los mejores resultados en los tratamientos faciales y corporales. Nuestros tratamientos están enfocados para mejorar la firmeza de la piel, reducir volumen y estimular la circulación… siempre adaptados a tus necesidades específicas.</p>
+                            <p>Gracias a estas tecnologías, logramos un cuidado profundo que rejuvenece y redefine las líneas de tu rostro y cuerpo, devolviéndote la confianza en tu imagen.</p>
                             <p>Déjate cuidar por nuestras profesionales en un entorno dedicado a tu bienestar. En Rosma Belleza, transformamos tecnología en resultados que se ven y se sienten. ¡Visítanos y descubre cómo la ciencia y la belleza se unen para que luzcas espectacular!</p>
                         </div>
 

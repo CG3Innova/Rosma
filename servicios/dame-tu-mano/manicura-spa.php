@@ -63,8 +63,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Manicura Spa: Un tratamiento integral para el cuidado de sus manos</h2>
-                            <p>Nuestro servicio de manicura Spa ofrece una experiencia superior, combinando el embellecimiento de las uñas con un tratamiento completo de cuidado y bienestar para sus manos. Además de una manicura profesional, este tratamiento incluye una exfoliación delicada que elimina las células muertas, dejando la piel suave y rejuvenecida.</p>
-                            <p>La envoltura marina, rica en minerales esenciales, aporta una hidratación profunda y una nutrición intensiva, restaurando la vitalidad natural de la piel. Disfrute de un servicio que combina la elegancia estética con un cuidado integral, asegurando que sus manos no solo luzcan impecables, sino que también se sientan revitalizadas y saludables.</p>
+                            <p>Nuestro servicio de manicura Spa ofrece una experiencia superior, combinando el embellecimiento de las uñas con un tratamiento completo de cuidado y bienestar para las manos. Además de una manicura profesional, este tratamiento incluye una exfoliación delicada que elimina las células muertas, dejando la piel suave y rejuvenecida.</p>
+                            <p>Se realiza una envoltura en función de las necesidades para aportar una hidratación profunda y una nutrición intensiva, restaurando la vitalidad natural de la piel. Disfruta de este completo servicio para el bienestar y la belleza de tus manos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

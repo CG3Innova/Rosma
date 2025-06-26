@@ -46,7 +46,7 @@
                 <ul class="service-cat-list">
                     <li class="<?php if ($service == "manicura") { echo 'active'; }?>"><a href="manicura.php">Manicura</a></li>
                     <li class="<?php if ($service == "manicura-spa") { echo 'active'; }?>"><a href="manicura-spa.php">Manicura Spa</a></li>
-                    <li class="<?php if ($service == "manicura-permanente") { echo 'active'; }?>"><a href="manicura-permanente.php">Manicura permanente</a></li>
+                    <li class="<?php if ($service == "manicura-permanente") { echo 'active'; }?>"><a href="manicura-semipermanente.php">Manicura Semipermanente</a></li>
                     <li class="<?php if ($service == "ibx-man") { echo 'active'; }?>"><a href="ibx.php">IBX</a></li>
                 </ul>
             </div>
@@ -77,7 +77,7 @@
                 <ul class="service-cat-list">
                     <li class="<?php if ($service == "pedicura") { echo 'active'; }?>"><a href="pedicura.php">Pedicura</a></li>
                     <li class="<?php if ($service == "pedicura-spa") { echo 'active'; }?>"><a href="pedicura-spa.php">Pedicura SPA</a></li>
-                    <li class="<?php if ($service == "pedicura-permanente") { echo 'active'; }?>"><a href="pedicura-permanente.php">Pedicura permanente</a></li>
+                    <li class="<?php if ($service == "pedicura-permanente") { echo 'active'; }?>"><a href="pedicura-semipermanente.php">Pedicura semipermanente</a></li>
                     <li class="<?php if ($service == "ibx-ped") { echo 'active'; }?>"><a href="ibx.php">IBX</a></li>
                 </ul>
             </div>
@@ -106,8 +106,8 @@
             <!-- Services Cat List -->
             <div class="sidebar-widget categories">
                 <ul class="service-cat-list">
-                    <li class="<?php if ($service == "cera") { echo 'active'; }?>"><a href="cera.php">Cera</a></li>
-                    <li class="<?php if ($service == "resina") { echo 'active'; }?>"><a href="resina.php">Resina</a></li>
+                    <li class="<?php if ($service == "cera") { echo 'active'; }?>"><a href="cera-caliente.php">Cera caliente</a></li>
+                    <li class="<?php if ($service == "resina") { echo 'active'; }?>"><a href="cera-fria.php">Cera fría</a></li>
                     <li class="<?php if ($service == "electrica") { echo 'active'; }?>"><a href="electrica.php">Eléctrica</a></li>
                 </ul>
             </div>

@@ -63,8 +63,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamientos renovadores</h2>
-                            <p>Nuestro tratamiento renovador es perfecto para devolverle a tu piel la vitalidad que necesita. Este tratamiento está diseñado para estimular la renovación celular de manera eficaz, aportando una hidratación intensa y favoreciendo la regeneración natural de la piel. </p>
-                            <p>Gracias a la combinación de aparatología de última generación y principios activos especialmente seleccionados, logramos una experiencia única de revitalización celular. El resultado es una piel visiblemente más luminosa, suave y con un aspecto rejuvenecido y saludable. Recupérala con un tratamiento que transforma desde la primera sesión, devolviéndole su esplendor natural.</p>
+                            <p>Nuestros tratamientos renovadores son perfectos para devolverle a tu piel la vitalidad que necesita. Este tratamiento está diseñado para estimular la renovación celular de manera eficaz, aportando una hidratación intensa y favoreciendo la regeneración natural de la piel. </p>
+                            <p>Previo diagnóstico utilizamos una combinación de aparatología (Cápsula del tiempo, Dermapen, Radiofrecuencia) y cosmética (peelings químicos) adaptada a las necesidades de tu piel. Especialmente recomendado para pieles cetrinas, apagadas, y queratinizadas. El resultado es una piel visiblemente más luminosa, suave y con un aspecto rejuvenecido y saludable.</p>
                         </div>
 
                     </div><!-- Service Detail -->

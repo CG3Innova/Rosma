@@ -62,9 +62,9 @@
                             <figure><img src="../../images/servicios/oxigenoterapia.jpg" alt="Oxigenoterapia - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Oxigenoterapia: Vitalidad y salud para tu piel y cuerpo </h2>
+                            <h2>Oxigenoterapia: Un soplo de vitalidad para tu piel</h2>
                             <p>La oxigenoterapia es un tratamiento no invasivo que utiliza el oxígeno, el elemento esencial para la vida y la salud de nuestras células, para revitalizar y mejorar su funcionamiento. Este tratamiento proporciona una activación celular natural, permitiendo que las células trabajen en condiciones óptimas y favoreciendo su regeneración.</p>
-                            <p>Ideal para tratamientos faciales, corporales y capilares, la oxigenoterapia ofrece resultados espectaculares al mejorar la calidad de la piel, reducir signos de envejecimiento y aumentar la vitalidad celular. Al proporcionar oxígeno puro, este tratamiento promueve una piel más luminosa, un cuerpo más tonificado y un cabello más fuerte y saludable. Recupera la frescura y el bienestar de tu piel, cuerpo y cabello de manera natural con los beneficios revitalizantes de la oxigenoterapia.</p>
+                            <p>La oxigenoterapia es un tratamiento no invasivo que utiliza el oxígeno, el elemento esencial para la vida y la salud de nuestras células, para revitalizar y mejorar su funcionamiento. Este tratamiento proporciona una activación celular natural, permitiendo que las células trabajen en condiciones óptimas y favoreciendo su regeneración.</p>
                         </div>
 
                     </div><!-- Service Detail -->

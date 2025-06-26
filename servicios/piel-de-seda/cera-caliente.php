@@ -2,7 +2,7 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-<title>Rosma Belleza - Resina</title>
+<title>Rosma Belleza - Cera</title>
 
 <!-- Stylesheets -->
 <link href="../../css/bootstrap.css" rel="stylesheet">
@@ -31,7 +31,7 @@
  	
     <?php 
         $page = "servicios-2";
-        $service = "resina";
+        $service = "cera";
         $sidebar = "piel-de-seda";
         include '../../includes/menu.php';
     ?>
@@ -40,7 +40,7 @@
     <section class="page-title" style="background-image:url(../../images/background/9.jpg);">
         <div class="auto-container">
         	<div class="inner-container clearfix">
-	            <h1>Resina</h1>
+	            <h1>Cera caliente</h1>
 	            <ul class="bread-crumb clearfix">
 	                <li><a href="index.html">Inicio</a></li>
 	                <li>Servicios</li>
@@ -59,15 +59,16 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/resina.jpg" alt="Depilacion con resina - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/cera.jpg" alt="Depilación con cera caliente - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Depilación con resina: Cera fría desechable para todo tipo de pieles</h2>
-                            <p>La depilación con resina, utilizando cera fría desechable, es una opción ideal para quienes buscan un método suave y eficaz para la eliminación del vello. Este tratamiento es apto para todo tipo de pieles, incluyendo las más sensibles, ofreciendo una experiencia cómoda y segura.</p>
-                            <p>La cera fría se aplica fácilmente y, al ser totalmente desechable, garantiza una higiene impecable en cada sesión. El vello es removido de raíz, dejando la piel suave y libre de vello durante más tiempo, sin causar irritaciones ni molestias excesivas.Este sistema de depilación es perfecto para quienes prefieren un método práctico y limpio, asegurando resultados profesionales con un acabado liso y duradero. Disfruta de una piel perfectamente depilada, con la tranquilidad de saber que tu piel está en buenas manos.</p>
+                            <h2>Depilación con cera caliente: Natural y totalmente desechable</h2>
+                            <p>Nuestro servicio de depilación con cera caliente ofrece una solución eficaz para la eliminación del vello, utilizando cera 100% natural  e hipoalergénica y totalmente desechable.</p>
+                            <p>Este método garantiza una experiencia higiénica y segura, ya que cada aplicación se realiza con materiales que se descartan tras su uso, asegurando la máxima limpieza y cuidado para tu piel.</p>
+                            <p>La cera caliente permite abrir los poros y extraer el vello desde la raíz, logrando una piel suave y libre de vello durante más tiempo. Ideal para todo tipo de pieles, este tratamiento reduce la sensación de dolor y es perfecto para obtener resultados profesionales con un acabado impecable.</p>
                         </div>
 
-                    </div><!-- Service Detail -->
+                    </div>
                 </div>
 
                 <?php 

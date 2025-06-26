@@ -62,9 +62,8 @@
                             <figure><img src="../../images/servicios/visagismo-de-cejas.jpg" alt="Visagismo de cejas"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Visagismo de cejas: Diseño  de la depilación de tus cejas acorde a tus facciones.</h2>
+                            <h2>Visagismo de cejas</h2>
                             <p>El visagismo de cejas es el arte de diseñar la forma ideal de tus cejas, adaptándolas a las características de tu rostro para realzar tu belleza natural. En nuestro servicio, estudiamos cuidadosamente tus facciones para crear un diseño personalizado que equilibre y armonice tus cejas con el resto de tus rasgos.</p>
-                            <p>Mediante técnicas precisas de depilación y definición, logramos un acabado que potencia tu mirada y mejora la expresión de tu rostro. Cada diseño es único, teniendo en cuenta la forma de tu cara, ojos y estilo personal, para obtener un resultado estético y natural. Confía en nuestros expertos para conseguir unas cejas perfectamente diseñadas que se adapten a ti y realcen tu belleza.</p>
                         </div>
 
                     </div><!-- Service Detail -->

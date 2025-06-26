@@ -65,9 +65,10 @@
                             <h2>Dame tu mano</h2>
                             <p>En Rosma Belleza, cuidamos de tus manos con tratamientos exclusivos diseñados para resaltar su belleza y mantenerlas saludables. Nuestro centro ofrece una amplia gama de servicios especializados, desde manicuras clásicas y semipermanentes hasta innovadores tratamientos IBX, que fortalecen y reparan tus uñas desde el interior.</p>
 
-                            <p>Confía en nuestras expertas en belleza, quienes te guiarán para elegir el tratamiento que mejor se adapte a tus necesidades. Ya sea que busques un acabado impecable y duradero o una solución para uñas debilitadas, en Rosma Belleza contamos con la experiencia y las técnicas más avanzadas para que disfrutes de resultados excepcionales.</p>
+                            <p>Confía en nuestras expertas en belleza, quienes te guiarán para elegir el tratamiento que mejor se adapte a tus necesidades. Ya sea que busques un acabado impecable y duradero o una solución para uñas debilitadas.</p>
 
-                            <p>Haz de tus manos tu mejor carta de presentación. Visítanos y vive una experiencia única de cuidado y bienestar en cada detalle. ¡Te esperamos para transformar tus manos en una obra de arte!</p>
+                            <p><i><strong>“La elegancia es la única belleza que no se desvanece”</strong></i> - Audrey Hepburn.</p>
+
                         </div>
 
                     </div><!-- Service Detail -->
@@ -78,6 +79,7 @@
                 ?>
 
             </div>
+
         </div>
     </div>
     <!-- End Service Detail Section -->

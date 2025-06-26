@@ -63,9 +63,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Escote provocador</h2>
-                            <p>En Rosma Belleza, cuidamos de cada detalle para que te sientas segura y radiante. Por eso, ofrecemos tratamientos especializados para el rejuvenecimiento de la zona del escote, cuello, senos y mentón, diseñados para mejorar la firmeza, textura y luminosidad de tu piel.</p>
-                            <p>Nuestros servicios combinan técnicas avanzadas y productos de alta calidad para tratar estas áreas delicadas, ayudando a prevenir los signos de envejecimiento y devolviéndole a tu piel su elasticidad natural. Ya sea que busques reafirmar, hidratar o simplemente revitalizar estas zonas, nuestras expertas en belleza personalizan cada tratamiento para lograr resultados visibles y duraderos.</p>
-                            <p>Descubre cómo un cuidado especializado puede transformar tu apariencia. En Rosma Belleza, estamos comprometidos con tu bienestar y belleza integral. ¡Déjanos realzar tu escote y verte más radiante que nunca!</p>
+                            <p>Te ofrecemos tratamientos especializados para el rejuvenecimiento de la zona del escote, cuello, senos y mentón, diseñados para minimizar los efectos del paso del tiempo en estas zonas.</p>
+                            <p>Nuestros servicios combinan técnicas avanzadas y productos de alta calidad para tratar estas áreas delicadas, ayudando a prevenir los signos de envejecimiento y devolviéndole a tu piel el esplendor que se merece. Ya sea que busques reafirmar, hidratar o simplemente revitalizar estas zonas, nuestras expertas en belleza personalizan cada tratamiento para lograr resultados visibles y duraderos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

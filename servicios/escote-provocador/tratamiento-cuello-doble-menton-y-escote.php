@@ -64,7 +64,7 @@
                         <div class="lower-content">
                             <h2>Tratamiento cuello, doble mentón y escote</h2>
                             <p>El cuello, el doble mentón y el escote son áreas que, a menudo, revelan los primeros signos de envejecimiento. Factores como la genética, la edad, el abuso de la exposición solar y diversas agresiones externas afectan negativamente la producción de colágeno, resultando en pérdida de firmeza y elasticidad.</p>
-                            <p>En nuestro centro, ofrecemos una variedad de tratamientos diseñados específicamente para despigmentar, tonificar, rejuvenecer y alisar estas delicadas zonas del cuerpo. Todos nuestros procedimientos se adaptan a las necesidades individuales de cada paciente, tras realizar un diagnóstico exhaustivo. Además, resaltamos que la prevención es el mejor remedio para combatir estos signos de envejecimiento.</p>
+                            <p>En nuestro centro, ofrecemos una variedad de tratamientos diseñados específicamente para despigmentar, tonificar, rejuvenecer y alisar estas delicadas zonas del cuerpo. Todos nuestros procedimientos se adaptan a las necesidades individuales de cada cliente, tras realizar un diagnóstico exhaustivo. Además, resaltamos que la prevención es el mejor remedio para combatir estos signos de envejecimiento.</p>
                         </div>
 
                     </div><!-- Service Detail -->

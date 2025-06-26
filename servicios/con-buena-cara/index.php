@@ -55,7 +55,6 @@
         <div class="auto-container">
             <div class="row clearfix">
 
-                <!--Content Side-->
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
@@ -63,11 +62,11 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Con buena cara</h2>
-                            <p>En Rosma Belleza, te ofrecemos una amplia variedad de tratamientos faciales diseñados para que luzcas la mejor versión de tu rostro. Nuestro centro se especializa en proporcionar los tratamientos más innovadores y efectivos del momento, adaptados a tus necesidades individuales. Desde limpiezas profundas hasta terapias rejuvenecedoras, cada opción está pensada para resaltar tu belleza natural.</p>
-                            <p>Déjate asesorar por nuestras expertas en belleza, quienes cuentan con la formación y la experiencia necesarias para guiarte en la elección del tratamiento más adecuado para ti. No importa cuál sea tu tipo de piel o tu edad; en Rosma Belleza estamos comprometidos a brindarte un servicio personalizado y de calidad, para que te sientas radiante y segura en tu propia piel. ¡Visítanos y descubre todo lo que podemos hacer por ti!</p>
+                            <p>En Rosma Belleza estamos en constante formación para ofrecerte tratamientos innovadores y efectivos, dándote un servicio de calidad y totalmente personalizado. Ponemos a tu disposición  una gran variedad de cosmética, aparatología y tratamientos de vanguardia.</p>
+                            <p>No importa cuál sea tu tipo de piel o tu edad; en Rosma Belleza nos comprometemos a brindarte una atención amable y cercana. ¡Visítanos y descubre todo lo que podemos hacer por ti!</p>
                         </div>
 
-                    </div><!-- Service Detail -->
+                    </div>
                 </div>
 
                 <?php 

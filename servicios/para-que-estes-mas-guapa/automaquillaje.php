@@ -62,7 +62,7 @@
                             <figure><img src="../../images/servicios/automaquillaje.jpg" alt="Automaquillaje - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Automaquillaje: Realizamos cursos individuales y personalizados para realzar tu mejor versión.</h2>
+                            <h2>Automaquillaje: Realizamos cursos individuales y personalizados para realzar tu mejor versión</h2>
                             <p>Descubre cómo realzar tu mejor versión con nuestros cursos de automaquillaje. Ofrecemos formaciones individuales y totalmente personalizadas, diseñadas para enseñarte las técnicas y trucos necesarios para que puedas crear tu propio look con confianza y facilidad.</p>
                             <p>Aprenderás a elegir los productos adecuados para tu tipo de piel y estilo personal, además de dominar las herramientas y técnicas que mejor se adapten a ti. Ya sea que busques un maquillaje natural para el día a día o un look más sofisticado para ocasiones especiales, te ayudamos a lograrlo.</p>
                             <p>Conviértete en tu propia maquilladora y saca partido a tu belleza en cualquier ocasión. Nuestro objetivo es que te sientas segura y empoderada, con los conocimientos y habilidades para resaltar tus mejores rasgos.</p>

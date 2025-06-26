@@ -63,11 +63,10 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Pisa fuerte</h2>
-                            <p>En Rosma Belleza, sabemos que tus pies merecen el mejor cuidado. Por eso, ofrecemos tratamientos especializados para que luzcan impecables y se mantengan saludables. Desde pedicuras clásicas y semipermanentes hasta tratamientos IBX, diseñados para fortalecer y reparar tus uñas, tenemos todo lo que necesitas para mimar tus pies.</p>
+                            <p>Somos muchas las personas que olvidamos prestar atención a nuestros pies. Ellos soportan el peso de nuestro cuerpo durante toda la vida y es por ello que necesitan un cuidado especial. Cuando tus pies están cansados, te duelen, o sufren, repercute a todo nuestro cuerpo.</p>
 
-                            <p>Nuestras profesionales en belleza están aquí para asesorarte y asegurarse de que encuentres el tratamiento ideal para ti. Tanto si buscas un acabado duradero y elegante como si necesitas solucionar problemas de uñas frágiles o dañadas, en Rosma Belleza utilizamos técnicas avanzadas y productos de alta calidad para garantizar resultados excepcionales.</p>
+                            <p>En Rosma Belleza sabemos que los pies merecen el mejor cuidado. Te ofrecemos un servicio completo de pedicura en el que mimamos y cuidamos la estética y el bienestar del pie. Dedicarles la atención que se merecen.</p>
 
-                            <p>Regálale a tus pies la atención que se merecen y disfruta de una experiencia de relajación y bienestar inigualable. Ven a Rosma Belleza y deja que cuidemos de ti en cada paso. ¡Te esperamos para que redescubras la belleza de tus pies!</p>
                         </div>
 
                     </div><!-- Service Detail -->

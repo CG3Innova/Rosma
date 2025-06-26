@@ -63,8 +63,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamientos antiedad</h2>
-                            <p>Nuestro exclusivo tratamiento antiedad está diseñado para revitalizar tu piel en profundidad, proporcionándole los nutrientes esenciales que necesita para combatir eficazmente los signos visibles del envejecimiento. Gracias a nuestra combinación de técnicas avanzadas y productos innovadores, logramos reducir la apariencia de líneas finas, arrugas y otros efectos del paso del tiempo.</p>
-                            <p>Este tratamiento se enfoca en darle a tu piel el cuidado que merece, nos adaptamos a las necesidades específicas de tu piel y a tus objetivos personales. El resultado es una piel más tersa, luminosa y rejuvenecida, que recupera su vitalidad y frescura natural.</p>
+                            <p>Este tratamiento se enfoca a darle a tu piel el cuidado que se merece para conseguir una piel más joven, jugosa y radiante. Mejora la apariencia de las arrugas, aporta vitalidad y luminosidad mejorando la textura de la piel, protege del estrés oxidativo causado por los radicales libres y la exposición a factores ambientales. </p>
+                            <p>Gracias al diagnóstico previamente realizado y una cuidada selección de activos en combinación con radiofrecuencia, dermapen, On-Face, foto-rejuvenecimiento… nos garantiza la máxima eficacia y ofrece resultados duraderos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

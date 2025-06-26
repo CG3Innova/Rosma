@@ -63,8 +63,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Drenaje linfático</h2>
-                            <p>Este tratamiento está diseñado específicamente para drenar el exceso de líquido intersticial acumulado en el cuerpo, ayudando a combatir la retención de líquidos y promoviendo un mejor bienestar general. A través de técnicas de masaje especializadas, el drenaje linfático favorece el retorno hemolinfático, lo que significa que ayuda a que los líquidos y toxinas acumuladas se eliminen de manera más eficiente.</p>
-                            <p>Existen diferentes formas de realizar este masaje: de manera manual, utilizando movimientos suaves y rítmicos que estimulan el sistema linfático, o mediante el uso de la balneoterapia, que potencia sus beneficios al realizar el masaje en una bañera (masaje sub-acuático). Esta combinación no solo relaja, sino que también mejora la circulación y tonifica la piel, brindando una sensación de ligereza y vitalidad al organismo.</p>
+                            <p>Tratamiento para drenar el exceso de líquido intersticial acumulado en el cuerpo, ayudando a combatir la retención de líquidos y promoviendo un mejor bienestar general. A través de técnicas de masaje especializadas, el drenaje linfático favorece el retorno hemolinfático, lo que significa que ayuda a que los líquidos y toxinas acumuladas se eliminen de manera más eficiente.</p>
+                            <p>Existen diferentes formas de realizar este masaje: de manera manual, utilizando movimientos suaves y rítmicos que estimulan el sistema linfático, o mediante el uso de la balneoterapia, que potencia sus beneficios al realizar el masaje en una bañera (masaje subacuático). Esta combinación no solo relaja, sino que también mejora la circulación y tonifica la piel, brindando una sensación de ligereza y vitalidad al organismo.</p>
                         </div>
 
                     </div><!-- Service Detail -->

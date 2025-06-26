@@ -62,9 +62,8 @@
                             <figure><img src="../../images/servicios/vacumterapia.jpg" alt="Vacumterapia - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Vacumterapia: Mejora tu circulación y reduce volumen de forma natural</h2>
-                            <p>La Vacumterapia es un tratamiento subdérmico no invasivo que aborda eficazmente problemas estéticos como la celulitis, la piel de naranja y la retención de líquidos, causados por disfunciones en la circulación linfática. Este innovador método mejora el drenaje linfático, moviliza la grasa localizada y estimula la circulación sanguínea, oxigenando los tejidos y favoreciendo la pérdida de volumen.</p>
-                            <p>Mediante la combinación de ventosas y técnicas en bioenergética, la Vacumterapia optimiza sus resultados, trabajando de manera integral para mejorar la calidad de la piel y reducir visiblemente las imperfecciones. Este tratamiento, además de reducir la grasa, mejora la elasticidad de la piel y promueve una mejor irrigación sanguínea, contribuyendo a una figura más estilizada y saludable. Disfruta de un método eficaz y natural que, además de reducir volumen, mejora la apariencia de la piel y potencia tu bienestar general.</p>
+                            <h2>Vacumterapia: mejora tu circulación y reduce volumen</h2>
+                            <p>La circulación linfática y sus disfunciones son la causa de muchas alteraciones estéticas (piel de naranja, celulitis, retención de líquidos…). La Vacumterapia es una terapia subdérmica no invasiva que mejora el drenaje linfático, moviliza la grasa, estimula la irrigación sanguínea, oxigena y mejora la calidad de los tejidos favoreciendo la pérdida de volumen. La combinación de las ventosas y nuestras técnicas en bioenergética optimizan sus resultados, consiguiendo de esta manera aumentar sus beneficios y trabajar de manera integral.</p>
                         </div>
 
                     </div><!-- Service Detail -->

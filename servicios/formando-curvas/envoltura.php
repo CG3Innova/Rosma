@@ -63,7 +63,7 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Envoltura</h2>
-                            <p>Las algas y los barros marinos son reconocidos por sus múltiples propiedades beneficiosas que impactan de manera integral en la salud del organismo. Estas sustancias naturales destacan por sus efectos antiinflamatorios, que ayudan a reducir la inflamación y el dolor, y desintoxicantes, que facilitan la eliminación de toxinas acumuladas en el cuerpo. Además, su capacidad hidratante proporciona una profunda humectación a la piel, mientras que sus propiedades nutritivas aportan una rica variedad de minerales y vitaminas esenciales.</p>
+                            <p>Las algas y los barros marinos son reconocidos por sus múltiples propiedades beneficiosas que impactan de manera integral en la salud del organismo. Estas sustancias naturales destacan por sus efectos antiinflamatorios y desintoxicantes. Además, su capacidad hidratante proporciona una profunda humectación a la piel, mientras que sus propiedades nutritivas aportan una rica variedad de minerales y vitaminas esenciales.</p>
                             <p>Asimismo, los barros marinos favorecen la circulación sanguínea y poseen un efecto reafirmante que contribuye a la tonicidad de la piel. No menos importante es su acción relajante, que ayuda a disminuir el estrés y la tensión muscular. Para maximizar sus beneficios, se recomienda combinar estos tratamientos con otras técnicas en un enfoque personalizado, garantizando así resultados óptimos y duraderos.</p>
                         </div>
 

@@ -62,9 +62,8 @@
                             <figure><img src="../../images/servicios/lifting-de-pestanas.jpg" alt="Lifting de pestañas - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Lifting de pestañas: Eleva y curva las pestañas desde su raíz, realzando tu mirada.</h2>
-                            <p>El lifting de pestañas es un tratamiento diseñado para elevar y curvar tus pestañas desde la raíz, creando un efecto natural y sofisticado que realza tu mirada al instante. A diferencia de las extensiones, este procedimiento utiliza tus pestañas naturales, dándoles una apariencia más larga, curvada y definida, sin necesidad de rizadores ni productos adicionales.</p>
-                            <p>El resultado es una mirada más abierta y expresiva, con pestañas que se ven más largas y voluminosas, manteniendo un aspecto natural. Ideal para quienes buscan realzar su mirada de forma sutil y elegante, el lifting de pestañas ofrece un acabado duradero y libre de mantenimiento. Disfruta de unas pestañas perfectamente elevadas y una mirada cautivadora durante semanas.</p>
+                            <h2>Lifting de pestañas: eleva y curva las pestañas</h2>
+                            <p>El lifting de pestañas es un tratamiento diseñado para elevar y curvar tus pestañas desde la raíz, creando un efecto natural y sofisticado que realza tu mirada al instante. El resultado es una mirada más abierta y expresiva, con pestañas que se ven más largas y voluminosas, manteniendo un aspecto natural. Ideal para quienes buscan realzar su mirada de forma sutil y elegante, el lifting de pestañas ofrece un acabado duradero y libre de mantenimiento.</p>
                         </div>
 
                     </div><!-- Service Detail -->

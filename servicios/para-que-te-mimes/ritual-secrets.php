@@ -64,9 +64,9 @@
                         <div class="lower-content">
                             <h2>Ritual Secrets</h2>
                             <p>Nuestro exclusivo Ritual Secrets es una experiencia única que combina elegancia y refinamiento en cada uno de sus componentes, creando un tratamiento excepcional que promete ser un paréntesis de bienestar inolvidable.</p>
-                            <p>Este ritual se descompone en dos partes esenciales:</p>
+                            <p>Este ritual consta de dos partes esenciales:</p>
                             <ul style="margin-bottom: 30px;">
-                                <li style="list-style: inside;">Exfoliante suave vivificante: Formulado para renovar la piel, deja una sensación aterciopelada que despierta los sentidos y revitaliza el cutis. La exfoliación no solo elimina las células muertas, sino que también mejora la textura y luminosidad de la piel, dejándola lista para absorber todos los beneficios del tratamiento.</li>
+                                <li style="list-style: inside;">Exfoliante suave vivificante: Formulado para renovar la piel, deja una sensación aterciopelada que despierta los sentidos y revitaliza. La exfoliación no solo elimina las células muertas, sino que también mejora la textura y luminosidad de la piel, dejándola lista para absorber todos los beneficios del tratamiento.</li>
                                 <li style="list-style: inside;">Masaje Secrets: Un masaje excepcional que fusiona manipulaciones inspiradas en terapias orientales, como la bioenergética, con técnicas de drenaje linfático. Este masaje no solo alivia la tensión acumulada, sino que también promueve una sensación de ligereza y bienestar profundo.</li>
                             </ul>
                         </div>

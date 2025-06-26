@@ -64,7 +64,7 @@
                         <div class="lower-content">
                             <h2>Drenaje energético</h2>
                             <p>Esta técnica, inspirada en los principios de la medicina tradicional china, se centra en favorecer la circulación energética del cuerpo mediante el trabajo en los meridianos. Estos canales son esenciales para el flujo de la fuerza vital, que abarca no solo la sangre y la linfa, sino también el sistema nervioso. Al realizar un masaje específico en estas áreas, se busca armonizar y equilibrar estas energías, promoviendo una sensación de bienestar general.</p>
-                            <p>Este drenaje energético no solo mejora la circulación, sino que también puede contribuir a la liberación de tensiones acumuladas, aumentando la vitalidad y la salud integral del individuo. A través de esta práctica, se potencia la conexión entre cuerpo y mente, facilitando un estado de equilibrio y paz interior que puede ser transformador.</p>
+                            <p>Este drenaje energético no solo mejora la circulación, sino que también puede contribuir a la liberación de tensiones acumuladas, aumentando la energía vital. A través de esta práctica, se potencia la conexión entre cuerpo y mente, facilitando un estado de equilibrio y paz interior.</p>
                         </div>
 
                     </div><!-- Service Detail -->

@@ -62,9 +62,9 @@
                             <figure><img src="../../images/servicios/cavitacion.jpg" alt="Cavitación - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Cavitación: Reducción de grasa no invasiva para un cuerpo definido</h2>
-                            <p>La cavitación es un tratamiento estético avanzado y no invasivo que utiliza un fenómeno físico para eliminar la grasa localizada de manera eficaz. Mediante la generación controlada de micro-burbujas de vacío en el tejido adiposo, estas burbujas implosionan, transformando la grasa en una sustancia líquida llamada diglicérido, que luego es eliminada de manera natural a través del sistema linfático y las vías urinarias.</p>
-                            <p>Este procedimiento es ideal para quienes desean reducir grasa en áreas específicas del cuerpo sin recurrir a métodos invasivos o cirugías. Es un tratamiento seguro y eficaz que ofrece resultados visibles en la reducción de volumen, ayudando a moldear y definir la figura. La cavitación es un método indoloro y altamente efectivo, que combina ciencia y estética para brindarte una solución innovadora en la lucha contra la grasa localizada, mejorando la apariencia de tu cuerpo de forma natural y sin complicaciones.</p>
+                            <h2>Cavitación: reducción de grasa no invasiva</h2>
+                            <p>La cavitación estable es un fenómeno físico no invasivo que consiste en la generación controlada y repetida de micro-burbujas de vacío en el interior de un líquido, fluido o material fisiológico, seguido de su propia implosión. Este principio de la física se utiliza en medicina estética con el fin de provocar la transformación de la grasa del manipuló adiposo en una sustancia líquida (diglicérido) que se elimina a través del sistema linfático y las vías urinarias.</p>
+                            <p>Este procedimiento es ideal para quienes desean reducir grasa en áreas específicas del cuerpo sin recurrir a métodos invasivos o cirugías. Es un tratamiento seguro y eficaz que ofrece resultados visibles en la reducción de volumen, ayudando a moldear y definir la figura. La cavitación es un método indoloro y altamente efectivo, que combina ciencia y estética para brindarte una solución innovadora en la lucha contra la grasa localizada.</p>
                         </div>
 
                     </div><!-- Service Detail -->
