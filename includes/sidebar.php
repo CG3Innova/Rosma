@@ -23,7 +23,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -54,7 +54,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -85,7 +85,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -115,7 +115,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -143,7 +143,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -177,7 +177,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -211,7 +211,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -247,7 +247,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -275,7 +275,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -304,7 +304,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -334,7 +334,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -369,7 +369,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
@@ -397,7 +397,7 @@
 
             <!-- Free Consultation -->
             <div class="sidebar-widget consultation">
-                <div class="consult-box" style="background-image: url(../images/resource/consult-bg.jpg);">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
                     <span>Rosma Belleza</span>
                     <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
                     <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>

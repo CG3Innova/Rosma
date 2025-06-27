@@ -63,8 +63,28 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Nutrición Holística: Intervención dietoterapia personalizada</h2>
-                            <p>Lograr obtener la totalidad de los nutrientes necesarios para cada individuo, en las cantidades y proporciones adecuadas, debe ser el primer objetivo de nuestra alimentación. En este sentido, nuestra especialista en NUTRICIÓN HOLÍSTICA, Amalia Muñoz Márquez, llevará a cabo un exhaustivo estudio de los hábitos alimenticios, así como de las condiciones laborales que pueden influir en nuestra salud, como el sedentarismo y los horarios de trabajo. También se tendrán en cuenta las condiciones fisiológicas de cada persona, incluyendo peso, talla y otros factores relevantes.</p>
-                            <p>Esta valoración es fundamental para diseñar un programa nutricional personalizado, cuyo objetivo es educar y corregir comportamientos erróneos en nuestra alimentación y estilo de vida. Reconocemos que estos hábitos inadecuados pueden afectar nuestra salud fisiológica, emocional, física y estética. Así, buscamos el equilibrio a través de la Dietoterapia, incrementando nuestra energía vital para lograr un mejor estado de salud y bienestar estético.</p>
+                                <p>Una alimentación adecuada, con un aporte equilibrado de macro y micronutrientes, es esencial no solo para mantener la salud física, sino también para optimizar el bienestar emocional y mental.</p>
+
+                                <p>La especialista en Nutrición Holística, <strong>Amalia Muñoz Márquez</strong>, realiza una evaluación integral que contempla:<br>
+                                    <li class="listas">Patrones y conductas alimentarias</li>
+                                    <li class="listas">Condiciones laborales y nivel de actividad física (sedentarismo, ritmos circadianos, carga de estrés)</li>
+                                    <li class="listas">Parámetros fisiológicos y antropométricos (peso, talla, composición corporal, entre otros)</li>
+                                </p>
+
+                                <p>A partir de este análisis se elabora un plan nutricional individualizado, con enfoque educativo y terapéutico, diseñado para corregir hábitos perjudiciales que afectan la salud, la estética y el equilibrio emocional.</p>
+
+                                <p>Nuestra premisa fundamental es la personalización, garantizando que cada plan sea realista, factible y sostenible en el tiempo, adaptado al contexto y necesidades reales de cada persona.</p>
+
+                                <p>Mediante estrategias de dietoterapia funcional, buscamos:<br>
+                                    <li class="listas">Restablecer la homeostasis metabólica</li>
+                                    <li class="listas">Aumentar la energía vital</li>
+                                    <li class="listas">Mejorar la calidad del sueño</li>
+                                    <li class="listas">Estabilizar el estado de ánimo</li>
+                                    <li class="listas">Reducir la ansiedad y el estrés</li>
+                                    <li class="listas">Favorecer la concentración y claridad mental</li>
+                                </p>
+                                <p>Este enfoque integral promueve una relación consciente con la alimentación y un estado óptimo de salud física, mental y estética.</p>
+
                         </div>
 
                     </div><!-- Service Detail -->
