@@ -408,5 +408,40 @@
     </div> 
 
 
+    <!--Sidebar Servicios Médicos-->
+    <?php } elseif ($sidebar == "medicos") { ?>
+
+    <div class="sidebar-side col-md-3 col-sm-12 col-xs-12">
+        <aside class="sidebar service-sidebar">
+
+            <!-- Services Cat List -->
+            <div class="sidebar-widget categories">
+                <ul class="service-cat-list">
+                    <li class="<?php if ($service == "neuromoduladores") { echo 'active'; }?>"><a href="neuromoduladores.php">Neuromoduladores</a></li>
+                    <li class="<?php if ($service == "acido-hialuronico-reticulado") { echo 'active'; }?>"><a href="acido-hialuronico-reticulado.php">Ácido hialurónico reticulado</a></li>
+                    <li class="<?php if ($service == "vitaminas") { echo 'active'; }?>"><a href="vitaminas.php">Vitaminas</a></li>
+                    <li class="<?php if ($service == "peeling-quimicos") { echo 'active'; }?>"><a href="peeling-quimicos.php">Peeling químicos</a></li>
+                    <li class="<?php if ($service == "cuperosis-telangiectasias") { echo 'active'; }?>"><a href="cuperosis-telangiectasias.php">Cuperosis telangiectasias</a></li>
+                    <li class="<?php if ($service == "verrugas-puntos-rubi") { echo 'active'; }?>"><a href="verrugas-puntos-rubi.php">Verrugas puntos rubi</a></li>
+                    <li class="<?php if ($service == "mesoterapia-corporal") { echo 'active'; }?>"><a href="mesoterapia-corporal.php">Mesoterapia corporal</a></li>
+                    <li class="<?php if ($service == "esclerosis-vascular") { echo 'active'; }?>"><a href="esclerosis-vascular.php">Esclerosis vascular</a></li>
+                    <li class="<?php if ($service == "hiperhidrosis") { echo 'active'; }?>"><a href="hiperhidrosis.php">Hiperhidrosis</a></li>
+                </ul>
+            </div>
+
+
+            <!-- Free Consultation -->
+            <div class="sidebar-widget consultation">
+                <div class="consult-box" style="background-image: url(../../images/resource/consult-bg.jpg);">
+                    <span>Rosma Belleza</span>
+                    <h4 style="margin-bottom: 10px;">Contacta con nosotros</h4>
+                    <p style="margin-bottom: 10px;">"No es lo que necesitas, es lo que te mereces."</p>
+                    <a href="tel:945230447" class="theme-btn">¡Llámanos!</a>
+                </div>
+            </div>  
+        </aside>
+    </div> 
+
+
 
     <?php } ?>

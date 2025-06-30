@@ -70,9 +70,7 @@
                                             <li><a href="para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
                                     </li>
-                                    <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
-                                    </li>
-                                    <li class="<?php if ($page == "blog") { echo 'current'; }?>"><a href="../blog.php">Nuestro Blog</a>
+                                    <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="servicios-medicos/index.php">Servicios Médicos</a>
                                     </li>
                                     <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../contacto.php">Contacto</a></li>
                                 </ul>
@@ -128,9 +126,7 @@
                                         <li><a href="para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
                                 </li>
-                                <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
-                                </li>
-                                <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="#">Regala Rosma</a>
+                                <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="servicios-medicos/index.php">Servicios Médicos</a>
                                 </li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../contacto.php">Contacto</a></li>
                             </ul>
@@ -144,7 +140,7 @@
     </header>
 <!--End Main Header -->
 
-<?php } elseif ($page == "servicios-2") { ?>
+<?php } elseif ($page == "servicios-2" || $page == "servicios-medicos") { ?>
 
 <!-- Main Header-->
     <header class="main-header">
@@ -216,7 +212,7 @@
                                             <li><a href="../para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
                                     </li>
-                                    <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
+                                    <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="../servicios-medicos/index.php">Servicios Médicos</a>
                                     </li>
                                     <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../contacto.php">Contacto</a></li>
                                 </ul>
@@ -272,7 +268,7 @@
                                         <li><a href="../para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
                                 </li>
-                                <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
+                                <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="../servicios-medicos/index.php">Servicios Médicos</a>
                                 </li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../../contacto.php">Contacto</a></li>
                             </ul>
@@ -358,7 +354,7 @@
                                             <li><a href="servicios/para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                         </ul>
                                     </li>
-                                    <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
+                                    <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="servicios/servicios-medicos/index.php">Servicios Médicos</a>
                                 </li>
                                     <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
                                 </ul>
@@ -414,7 +410,7 @@
                                         <li><a href="servicios/para-tu-bienestar/index.php">Para tu bienestar</a></li>
                                     </ul>
                                 </li>
-                                <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="#">Servicios Médicos</a>
+                                <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="servicios/servicios-medicos/index.php">Servicios Médicos</a>
                                 </li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
                             </ul>

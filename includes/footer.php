@@ -87,7 +87,7 @@
     </footer>
 <!-- End Main Footer -->
 
-<?php } elseif ($page == "servicios-2") { ?>
+<?php } elseif ($page == "servicios-2" || $page == "servicios-medicos") { ?>
 
 <!-- Main Footer -->
     <footer class="main-footer" style="background-image: url(../../images/background/footer.png);">
