@@ -62,7 +62,7 @@
                             <figure><img src="../../images/servicios/cuperosis-telangiectasias.jpg" alt="Cuperosis y telangiectasias - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Servicios médicos Rosma Belleza</h2>
+                            <h2>Tratamientos de cuperosis y telangiectasias</h2>
                             <p>La cuperosis y las telangiectasias (pequeños capilares dilatados visibles en la superficie de la piel) son alteraciones vasculares que afectan principalmente al rostro, generando enrojecimiento persistente y un aspecto irregular de la piel.</p>
                             <p>En medicina estética, estos problemas se tratan eficazmente mediante tecnologías como el láser vascular o la luz pulsada intensa (IPL), que actúan cerrando selectivamente los vasos dilatados sin dañar la piel circundante.</p>
                             <p>El procedimiento es seguro, poco invasivo y mejora notablemente la apariencia del enrojecimiento facial, unificando el tono de la piel y devolviéndole su luminosidad.</p>

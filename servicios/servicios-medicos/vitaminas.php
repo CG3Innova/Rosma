@@ -60,9 +60,9 @@
                     <div class="service-detail">
                         <div class="image-box">
                             <figure><img src="../../images/servicios/nutricion.jpg" alt="Nutrición - Rosma Belleza"></figure>
-                        </div> 
+                        </div>
                         <div class="lower-content">
-                            <h2>Servicios médicos Rosma Belleza</h2>
+                            <h2>Vitaminas</h2>
                             <p>Las infiltraciones de vitaminas, también conocidas como mesoterapia facial, son un tratamiento estético que consiste en la aplicación de microinyecciones superficiales con una combinación de vitaminas, minerales, aminoácidos y ácido hialurónico no reticulado.</p>
                             <p>Su objetivo es nutrir, hidratar y revitalizar la piel desde el interior, mejorando visiblemente su textura, luminosidad y firmeza.</p>
                             <p>Están especialmente indicadas para prevenir el envejecimiento cutáneo, combatir la piel apagada, deshidratada o con signos de fatiga, y estimular la producción natural de colágeno y elastina.</p>

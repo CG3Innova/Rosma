@@ -62,7 +62,7 @@
                             <figure><img src="../../images/servicios/esclerosis-vascular.jpg" alt="Esclerosis Vascular - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Esclerosis vascular (varices)</h2>
+                            <h2>Tratamiento contra esclerosis vascular (varices)</h2>
                             <p>La esclerosis vascular con polidocanol es un tratamiento médico-estético eficaz para eliminar pequeñas venas dilatadas, también conocidas como arañas vasculares o telangiectasias, que suelen aparecer en piernas y otras zonas del cuerpo.</p>
                             <p>Consiste en la inyección de una sustancia esclerosante llamada polidocanol directamente en los vasos afectados, lo que provoca su cierre progresivo y posterior reabsorción por el organismo.</p>
                             <p>Es un procedimiento ambulatorio, bien tolerado y con resultados visibles tras pocas sesiones, dejando la piel con un aspecto más uniforme y estético. Está especialmente indicado para personas que desean mejorar la apariencia de sus piernas sin recurrir a tratamientos invasivos.</p>

@@ -62,7 +62,7 @@
                             <figure><img src="../../images/servicios/nutricion.jpg" alt="Nutrición - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Servicios médicos Rosma Belleza</h2>
+                            <h2>Tratamiento contra la hiperhidrosis Rosma Belleza</h2>
                             <p>El tratamiento con neuromoduladores, como la toxina botulínica tipo A, es una solución altamente efectiva y segura para controlar la hiperhidrosis, una condición que provoca sudoración excesiva en zonas como las axilas, manos, pies o rostro.</p>
                             <p>Este procedimiento consiste en la aplicación de microinyecciones en la zona afectada, bloqueando temporalmente las señales nerviosas que estimulan las glándulas sudoríparas.</p>
                             <p>Como resultado, se reduce significativamente la producción de sudor, mejorando la calidad de vida y la confianza del paciente.</p>
