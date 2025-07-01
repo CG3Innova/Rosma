@@ -2801,6 +2801,7 @@ img{
 .our-packeges{
 	position: relative;
 	padding: 115px 0 80px;
+	background-color: #f8f8f8;
 }
 
 .packeges-tabs{
@@ -2894,11 +2895,6 @@ img{
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-image: url(../images/icons/tabs-bg.png);
-	background-repeat: no-repeat;
-	background-position: center right;
-	content: "";
-	opacity: .10;
 }
 
 .packeges-tabs .tab .content-column .inner-column{
@@ -2935,8 +2931,8 @@ img{
 	font-size: 14px;
 	line-height: 30px;
 	color: #666666;
-	font-weight: 500;
-	margin-bottom: 40px;
+	font-weight: normal;
+	margin-bottom: 10px;
 }
 
 .packeges-tabs .price-column ul li{
@@ -4257,11 +4253,15 @@ img{
 
 .accordion-box .block .acc-content{
 	position:relative;
-	display:none;	
+	display:none;
+	flex-wrap: wrap;
+	overflow: hidden;
 }
 
 .accordion-box .block .acc-content.current{
-	display:block;	
+	display:flex !important;	
+    align-items: center;
+    
 }
 
 .accordion-box .block .content{
