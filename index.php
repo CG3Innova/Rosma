@@ -421,63 +421,35 @@
                     <!-- Slide Item -->
                     <li class="slide-item">
                         <figure class="image-box">
-                            <img src="images/marcas/bdr.jpg" alt="">
+                            <img src="images/marcas/thalgo.png" alt="Thalgo">
                         </figure>
                     </li>
 
                     <!-- Slide Item -->
                     <li class="slide-item">
                         <figure class="image-box">
-                            <img src="images/marcas/gernetic.png" alt="">
+                            <img src="images/marcas/skinindent.png" alt="SkinIdent / Dr. Baumann / BeauCaire">
                         </figure>
                     </li>
 
                     <!-- Slide Item -->
                     <li class="slide-item">
                         <figure class="image-box">
-                            <img src="images/marcas/heber.png" alt="">
+                            <img src="images/marcas/mediderma.png" alt="Mediderma">
                         </figure>
                     </li>
 
                     <!-- Slide Item -->
                     <li class="slide-item">
                         <figure class="image-box">
-                            <img src="images/marcas/leh.png" alt="">
+                            <img src="images/marcas/cnd-shellac.png" alt="CND Shellac">
                         </figure>
                     </li>
 
                     <!-- Slide Item -->
                     <li class="slide-item">
                         <figure class="image-box">
-                            <img src="images/marcas/m2-beaute-logo.png" alt="">
-                        </figure>
-                    </li>
-
-                    <!-- Slide Item -->
-                    <li class="slide-item">
-                        <figure class="image-box">
-                            <img src="images/marcas/matriskin.png" alt="">
-                        </figure>
-                    </li>
-
-                    <!-- Slide Item -->
-                    <li class="slide-item">
-                        <figure class="image-box">
-                            <img src="images/marcas/skin.png" alt="">
-                        </figure>
-                    </li>
-
-                    <!-- Slide Item -->
-                    <li class="slide-item">
-                        <figure class="image-box">
-                            <img src="images/marcas/sothys.png" alt="">
-                        </figure>
-                    </li>
-
-                    <!-- Slide Item -->
-                    <li class="slide-item">
-                        <figure class="image-box">
-                            <img src="images/marcas/v.jpg" alt="">
+                            <img src="images/marcas/elleebana.png" alt="Elleebana">
                         </figure>
                     </li>
                 </ul>

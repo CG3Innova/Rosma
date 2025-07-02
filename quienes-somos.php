@@ -312,7 +312,7 @@
                         <div class="row clearfix">
                             <div class="image-column col-md-4 col-sm-12 col-xs-12">
                                 <div class="inner-column">
-                                    <div class="image-box"><a href="#"><img src="images/resource/packege.jpg" alt="Thalgo"></a></div>
+                                    <div class="image-box"><img src="images/marcas/thalgo.png" alt="Thalgo"></div>
                                 </div>
                             </div>
                             <!-- Content Column -->
@@ -342,7 +342,7 @@
                         <div class="row clearfix">
                             <div class="image-column col-md-4 col-sm-12 col-xs-12">
                                 <div class="inner-column">
-                                    <div class="image-box"><a href="#"><img src="images/resource/packege.jpg" alt="SkinIdent / Dr. Baumann / BeauCaire"></a></div>
+                                    <div class="image-box"><img src="images/marcas/skinindent.png" alt="SkinIdent / Dr. Baumann / BeauCaire"></div>
                                 </div>
                             </div>
                             <!-- Content Column -->
@@ -372,7 +372,7 @@
                         <div class="row clearfix">
                             <div class="image-column col-md-4 col-sm-12 col-xs-12">
                                 <div class="inner-column">
-                                    <div class="image-box"><a href="#"><img src="images/resource/packege.jpg" alt="Mediderma"></a></div>
+                                    <div class="image-box"><img src="images/marcas/mediderma.png" alt="Mediderma"></div>
                                 </div>
                             </div>
                             <!-- Content Column -->
@@ -401,7 +401,7 @@
                         <div class="row clearfix">
                             <div class="image-column col-md-4 col-sm-12 col-xs-12">
                                 <div class="inner-column">
-                                    <div class="image-box"><a href="#"><img src="images/resource/packege.jpg" alt=""></a></div>
+                                    <div class="image-box"><img src="images/marcas/cnd-shellac.png" alt="CND Shellac"></div>
                                 </div>
                             </div>
                             <!-- Content Column -->
@@ -431,7 +431,7 @@
                         <div class="row clearfix">
                             <div class="image-column col-md-4 col-sm-12 col-xs-12">
                                 <div class="inner-column">
-                                    <div class="image-box"><a href="#"><img src="images/resource/packege.jpg" alt=""></a></div>
+                                    <div class="image-box"><img src="images/marcas/elleebana.png" alt="Elleebana"></div>
                                 </div>
                             </div>
                             <!-- Content Column -->
