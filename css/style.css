@@ -9236,6 +9236,7 @@ img{
     width: 100%;
     height: 100%;
     object-fit: cover; /* Hace que el video cubra todo el contenedor */
+	object-position: top;
     transform: translate(-50%, -50%);
 }
 .listas{
