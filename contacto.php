@@ -40,7 +40,12 @@
     ?>
     
  	<!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/9.jpg);">
+    <section class="page-title">
+        <video autoplay muted loop playsinline alt="Rosma Belleza" id="background-video"> 
+            <source src="/images/header.mp4" type="video/mp4">
+            Tu navegador no soporta el video.
+        </video>
+        <div class="bg-overlay"></div>
         <div class="auto-container">
         	<div class="inner-container clearfix">
 	            <h1>Contacta con Rosma Belleza</h1>
