@@ -2,7 +2,28 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-<title>Rosma Belleza - Limpieza de cutis</title>
+    <title>Rosma Belleza | Limpieza de cutis</title>
+    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
+    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <meta name="author" content="Rosma Belleza">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://rosmabelleza.com/">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://rosmabelleza.com/">
+    <meta property="og:title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
+    <meta property="og:description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <meta property="og:image" content="https://rosmabelleza.com/images/logo-rosma.png">
+    <meta property="og:site_name" content="Rosma Belleza">
+    <meta property="og:locale" content="es_ES">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
+    <meta name="twitter:description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <meta name="twitter:image" content="https://rosmabelleza.com/images/logo-rosma.png">
 
 <!-- Stylesheets -->
 <link href="../../css/bootstrap.css" rel="stylesheet">
