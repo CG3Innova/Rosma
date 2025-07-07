@@ -45,6 +45,7 @@
             <source src="/images/header.mp4" type="video/mp4">
             Tu navegador no soporta el video.
         </video>
+        <div class="bg-overlay"></div>
         <div class="auto-container">
         	<div class="inner-container clearfix">
 	            <h1>Piel de seda</h1>
