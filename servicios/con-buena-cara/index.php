@@ -90,6 +90,36 @@
             </div>
         </div>
     </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="horariosModal" tabindex="-1" role="dialog" aria-labelledby="horariosLabel">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="horariosLabel">Horarios</h4>
+            </div>
+
+            <div class="modal-body">
+                <p><strong>Lunes, Miércoles y Jueves:</strong> de 9.00 a 13.30 y de 15.30 a 20.00</p>
+                <p><strong>Martes y Viernes:</strong> de 9.00 a 20.00</p>
+                <p><strong>Sábados y Domingos:</strong> Cerrado</p>
+                <hr>
+                <p><strong>HORARIO ESPECIAL VERANO</strong></p>
+                <p><strong>Lunes, Miércoles y Jueves:</strong> de 9.00 a 13.30 y de 15.30 a 20.00</p>
+                <p><strong>Martes:</strong> de 9.00 a 20.00</p>
+                <p><strong>Viernes:</strong> de 9.00 a 17.00</p>
+                <p><strong>Sábados y Domingos:</strong> Cerrado</p>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+            </div>
+
+            </div>
+        </div>
+    </div>
     
  	<!--Page Title-->
     <section class="page-title">
