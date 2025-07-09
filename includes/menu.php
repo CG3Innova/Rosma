@@ -161,6 +161,11 @@
                             <li><a href="https://www.facebook.com/rosmabelleza" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/rosmabelleza" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                            <li>
+                                <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#horariosModal" style="background-color: #88af0c; border-color: #88af0c; font-size: 13px;">
+                                    Horarios
+                                </button>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -303,6 +308,11 @@
                             <li><a href="https://www.facebook.com/rosmabelleza" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/rosmabelleza" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                            <li>
+                                <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#horariosModal" style="background-color: #88af0c; border-color: #88af0c; font-size: 13px;">
+                                    Horarios
+                                </button>
+                            </li>
                         </ul>
                     </div>
                 </div>

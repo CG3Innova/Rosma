@@ -237,7 +237,9 @@
 
 	.header-style-two .header-top .top-left,
 	.main-header .header-top .top-right{
-		display: none;
+		display: block;
+        text-align: center;
+        float: none;
 	}
 
 	.main-header .header-top .top-left {
