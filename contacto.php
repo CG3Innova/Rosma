@@ -120,27 +120,59 @@
                             <span class="title">Rosma Belleza</span>
                             <h3>Contacta con nosotros</h3>
                             <div class="text">Si necesitas más información acerca de nuestros servicios o productos, ponte en contacto con nosotros:</div>
-                            <form method="post" action="sendemail.php" id="contact-form">
+                            <form method="post" action="sendemail.php" id="contact-form-contact">
                                 <div class="row clearfix">
                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                        <input type="text" name="username" placeholder="Nombre y apellidos" required="">
+                                        <input data-required="true" name="nombre" placeholder="Nombre y apellidos *" type="text" class="form-control" required/>
                                     </div>
                                     
                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                        <input type="email" name="email" placeholder="Email" required="">
+                                        <input data-required="true" name="email" placeholder="Email *" type="email" class="form-control" required/>
                                     </div>
 
                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                        <input type="text" name="phone" placeholder="Teléfono" required="">
+                                       <input data-required="true" name="phone" placeholder="Teléfono *" type="text" class="form-control" required/>
                                     </div>
 
                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <textarea name="message" placeholder="Mensaje"></textarea>
+                                        <textarea data-required="true" name="message" cols="40" rows="5" class="form-control" placeholder="Mensaje" required></textarea>
+                                    </div>
+
+                                    <div class="col-md-12" style="margin-bottom: 25px;">
+                                        <div class="checkbox-wrapper-4 ">
+                                            <input class="inp-cbx" data-required="true" id="morning" type="checkbox" required>
+                                            <label class="cbx" for="morning">
+                                            <span>
+                                            <svg height="10px" width="12px">
+                                            <use xlink:href="#check-4">
+                                            </use>
+                                            </svg>
+                                            </span>
+                                            <span>
+                                            He leído y acepto los
+                                            <a href="/politica-privacidad.php" target="_blank">
+                                            términos y condiciones
+                                            </a>
+                                            de este sitio web
+                                            </span>
+                                            </label>
+                                            <svg class="inline-svg" style="display: none;">
+                                            <symbol id="check-4" viewbox="0 0 12 10">
+                                            <polyline points="1.5 6 4.5 9 10.5 1">
+                                            </polyline>
+                                            </symbol>
+                                            </svg>
+                                            </input>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-12 col-sm-12 col-xs-12 form-group">
+                                        <button type="submit" class="theme-btn btn-style-five">
+                                            <i class="fa fa-angle-double-right"></i>
+                                            <span> Enviar mensaje </span>
+                                        </button>
                                     </div>
                                     
-                                    <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <button class="theme-btn btn-style-five" type="submit" name="Submit Now">Enviar mensaje <i class="fa fa-angle-double-right"></i></button>
-                                    </div>
                                 </div>
                             </form>
                         </div>
@@ -206,8 +238,10 @@
 </div>    
 <!--End pagewrapper-->
 
-
-
+<script src="https://www.google.com/recaptcha/api.js?render=6Lf1_mIrAAAAAHWra7vhT1DrvbXnSQso7U9Q0xXS"></script>
+<script src="js/formValidator.js"></script>
+<script defer src="cookies/cookieconsent.js"></script>
+<script defer src="cookies/cookieconsent-init.js"></script>
 <script src="js/jquery.js"></script> 
 
 <!--End Revolution Slider-->

@@ -154,6 +154,8 @@
 
 
 
+<script defer src="../../cookies/cookieconsent.js"></script>
+<script defer src="../../cookies/cookieconsent-init.js"></script>
 <script src="../../js/jquery.js"></script> 
 <script src="../../js/bootstrap.min.js"></script>
 <!--End Revolution Slider-->
