@@ -2,7 +2,7 @@
 var cc = initCookieConsent();
 
 // microsoft logo
-var logo = '<img style="padding: 10px 0 10px 0; display: block; max-height: 75px;" src="images/cookie.png" class="aheto-logo__image logo-blue" alt="Logo Kentia">';
+var logo = '<img style="padding: 10px 0 10px 0; display: block; max-height: 75px;" src="/images/cookie.png" class="aheto-logo__image logo-blue" alt="Logo Rosma Belleza">';
 var cookie = '🍪';
 
 // run plugin with config object

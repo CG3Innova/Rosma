@@ -185,6 +185,7 @@
                                     <span class="icon fa fa-mobile"></span> 
                                     <strong>Teléfono:</strong>
                                     <p>945 23 04 47</p>
+                                    <p>609 90 21 93</p>
                                 </li>
 
                                 <li>
@@ -225,8 +226,9 @@
 
             <!--Map-->
             <div class="map-section">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11701.06809948571!2d-2.6809352!3d42.8460946!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe66ffa6aaa671e1e!2s%22Rosma+Belleza%22!5e0!3m2!1ses!2ses!4v1522255433453" width="100%" height="450" frameborder="0" style="border: 0px; pointer-events: none;" allowfullscreen=""></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1963.5043976621573!2d-2.6812110871420978!3d42.84598987073315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4fc21375974d4d%3A0xe66ffa6aaa671e1e!2s%22Rosma%20Belleza%22!5e0!3m2!1ses!2ses!4v1752084468146!5m2!1ses!2ses" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>            
             </div>
+            
         </div>
     </section>
     <!--End Contact Page Section -->
