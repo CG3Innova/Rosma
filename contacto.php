@@ -29,6 +29,7 @@
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link href="cookies/cookieconsent.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
 
     <!--Color Themes-->
@@ -120,7 +121,26 @@
                             <span class="title">Rosma Belleza</span>
                             <h3>Contacta con nosotros</h3>
                             <div class="text">Si necesitas más información acerca de nuestros servicios o productos, ponte en contacto con nosotros:</div>
-                            <form method="post" action="sendemail.php" id="contact-form-contact">
+                            <form method="post" action="form/form.php" id="contact-form-contact">
+
+                                <div class="contact-form-success alert alert-success d-none">
+                                    <strong>¡Perfecto!</strong> Hemos recibido tu mensaje. Contactaremos contigo lo antes posible.
+                                </div>
+
+                                <div class="contact-form-error alert alert-danger d-none">
+                                    <strong>Error!</strong> Se ha producido un error al enviar tu mensaje.
+                                    <span class="mail-error-message text-1 d-block">
+                                    </span>
+                                </div>
+
+                                <input name="form_type" type="hidden" value="Formulario de contacto"/>
+
+                                <input id="website" name="website" style="display:none" type="text">
+
+                                <input name="form_time" type="hidden" value="&lt;?php echo time(); ?&gt;"/>
+
+                                <input id="recaptcha_token" name="g-recaptcha-response" type="hidden"/>
+
                                 <div class="row clearfix">
                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
                                         <input data-required="true" name="nombre" placeholder="Nombre y apellidos *" type="text" class="form-control" required/>
@@ -172,7 +192,7 @@
                                             <span> Enviar mensaje </span>
                                         </button>
                                     </div>
-                                    
+
                                 </div>
                             </form>
                         </div>

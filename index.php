@@ -32,6 +32,7 @@
     <link href="plugins/revolution/css/layers.css" rel="stylesheet" type="text/css"><!-- REVOLUTION LAYERS STYLES -->
     <link href="plugins/revolution/css/navigation.css" rel="stylesheet" type="text/css"><!-- REVOLUTION NAVIGATION STYLES -->
     <link href="css/style.css" rel="stylesheet">
+    <link href="cookies/cookieconsent.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
 
     <!--Color Themes-->
