@@ -2,7 +2,7 @@
 :root{
     --cc-bg: #fff;
     --cc-text: #222;
-    --cc-btn-primary-bg: #ea9456;
+    --cc-btn-primary-bg: #88af0c;
     --cc-btn-primary-text: var(--cc-bg);
     --cc-btn-primary-hover-bg: #1d2e38;
     --cc-btn-secondary-bg: #eaeff2;
@@ -500,7 +500,7 @@ CookieConsent settings modal
     background: var(--cc-btn-primary-bg);
     border-width: 1px;
     border-style: solid;
-    border-color: rgba(172, 70, 144, 0.5);
+    border-color: var(--cc-btn-primary-bg);
 }
 
 #c-bns.swap button:first-child{
@@ -529,9 +529,9 @@ CookieConsent settings modal
 #c-bns.swap button:last-child:active,
 #c-bns.swap button:last-child:hover{
     background: #fff;
-    color: #ea9456;
-    -webkit-box-shadow: 0px 10px 30px 0px rgb(172 69 144 / 20%) !important;
-    box-shadow: 0px 10px 30px 0px rgb(172 69 144 / 20%) !important;
+    color: var(--cc-btn-primary-bg);
+    -webkit-box-shadow: 0px 10px 30px 0px rgba(137, 175, 12, 0.20) !important;
+    box-shadow: 0px 10px 30px 0px rgba(137, 175, 12, 0.20) !important;
 }
 
 #c-bns.swap button:first-child:active,
