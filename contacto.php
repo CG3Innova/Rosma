@@ -121,7 +121,7 @@
                             <span class="title">Rosma Belleza</span>
                             <h3>Contacta con nosotros</h3>
                             <div class="text">Si necesitas más información acerca de nuestros servicios o productos, ponte en contacto con nosotros:</div>
-                            <form method="post" action="form/form.php" id="contact-form-contact">
+                            <form method="post" action="/form/form.php" id="contact-form" class="contact-form-contact" enctype="multipart/form-data">
 
                                 <div class="contact-form-success alert alert-success d-none">
                                     <strong>¡Perfecto!</strong> Hemos recibido tu mensaje. Contactaremos contigo lo antes posible.
@@ -260,8 +260,9 @@
 </div>    
 <!--End pagewrapper-->
 
-<script src="https://www.google.com/recaptcha/api.js?render=6Lf1_mIrAAAAAHWra7vhT1DrvbXnSQso7U9Q0xXS"></script>
 <script src="js/formValidator.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LcO39cpAAAAALwkp84G3PcFgVa8OqDUN2La-fDN"></script>
+
 <script defer src="cookies/cookieconsent.js"></script>
 <script defer src="cookies/cookieconsent-init.js"></script>
 <script src="js/jquery.js"></script> 
@@ -273,7 +274,6 @@
 <script src="js/appear.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/mixitup.js"></script>
-<script src="js/validate.js"></script>
 <script src="js/script.js"></script>
 <script src="js/bootstrap.min.js"></script>
 

@@ -1,7 +1,7 @@
 <?php
 // Definir acceso seguro y cargar configuración
 define('SECURE_ACCESS', true);
-$config = require '../../../config_forms.php';
+$config = require '../../config_forms.php';
 
 // Configuración de PHP
 ini_set('display_errors', 0);
@@ -155,7 +155,7 @@ class FormHandler {
 
     private function setEmailContent($mail) {
         $formType = $this->sanitizeInput($_POST['form_type']);
-        $mail->Subject = 'Solicitud de información - Zertiq';
+        $mail->Subject = 'Formulario de contacto - Rosma Belleza';
         $mail->Body = $this->buildEmailBody($formType);
     }
 
@@ -202,12 +202,9 @@ class FormHandler {
                                 <table style="width: 100%;">
                                     <tr>
                                         <td>
-                                            <p style="text-align: center; display: block; padding-bottom:20px; margin-bottom:20px; border-bottom:1px solid #dddddd;">
-                                                <img style="max-width:80%" src="https://zertiq.com/assets/images/logo/logo_zertiq.webp"/>
-                                            </p>
                                             <h1 style="font-weight: 200; font-size: 36px; margin: 20px 0 30px 0; color: #333333;">Formulario de contacto</h1>
                                             <div style="margin-bottom: 10px; font-weight: normal; font-size:16px; color: #333333;">{$fields}</div>
-                                            <p style="text-align: center; display: block; padding-top:20px; font-weight: bold; margin-top:30px; color: #666666; border-top:1px solid #dddddd;">KENTIA</p>
+                                            <p style="text-align: center; display: block; padding-top:20px; font-weight: bold; margin-top:30px; color: #666666; border-top:1px solid #dddddd;">ROSMA BELLEZA</p>
                                         </td>
                                     </tr>
                                 </table>

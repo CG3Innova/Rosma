@@ -9260,6 +9260,7 @@ li.slide-item {
     position: relative;
     z-index: 2;
 }
+
 .checkbox-wrapper-4 * {
 	box-sizing: border-box;
 }
@@ -9289,7 +9290,7 @@ li.slide-item {
 	width: 18px;
 	height: 18px;
 	transform: scale(1);
-	border: 1px solid #f15a22;
+	border: 1px solid #88af0c;
 	transition: 0.2s;
 	box-shadow: rgba(0, 16, 75, 0.05) 0px 1px 1px;
 }
@@ -9315,7 +9316,7 @@ li.slide-item {
 }
 
 .checkbox-wrapper-4 .cbx:hover span:first-child {
-	border-color: #f15a22;
+	border-color: #88af0c;
 }
 
 .checkbox-wrapper-4 .inp-cbx {
@@ -9324,8 +9325,8 @@ li.slide-item {
 }
 
 .checkbox-wrapper-4 .inp-cbx:checked + .cbx span:first-child {
-	background: #f15a22;
-	border-color: #f15a22;
+	background: #88af0c;
+	border-color: #88af0c;
 	animation: 0.4s ease 0s 1 normal none running wave-4;
 }
 

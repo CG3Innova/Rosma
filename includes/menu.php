@@ -163,7 +163,7 @@
                             <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
                             <li>
                                 <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#horariosModal" style="background-color: #88af0c; border-color: #88af0c; font-size: 13px;">
-                                    Horario
+                                    <i class="fa fa-clock-o"></i> Horario
                                 </button>
                             </li>
                         </ul>
@@ -310,7 +310,7 @@
                             <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
                             <li>
                                 <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#horariosModal" style="background-color: #88af0c; border-color: #88af0c; font-size: 13px;">
-                                    Horario
+                                    <i class="fa fa-clock-o"></i> Horario
                                 </button>
                             </li>
                         </ul>
