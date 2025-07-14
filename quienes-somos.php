@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Quienes somos</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Rosma Belleza | Conoce más sobre Rosma Belleza en Vitoria</title>
+    <meta name="title" content="Rosma Belleza | Conoce más sobre Rosma Belleza en Vitoria">
+    <meta name="description" content="En Rosma Belleza, en Vitoria Gasteiz, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Llámanos!">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
     <title>Rosma Belleza | Política de cookies</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
+    <meta name="title" content="Rosma Belleza | Política de cookies">
     <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
     <meta name="author" content="Rosma Belleza">
 

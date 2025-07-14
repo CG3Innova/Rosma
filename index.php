@@ -107,7 +107,7 @@
                             Tu navegador no soporta el video.
                         </video>
 
-                        <div id="overlay">
+                        <!--<div id="overlay">-->
                     
                             <div class="tp-caption" 
                             data-paddingbottom="[0,0,0,0]"
@@ -142,7 +142,7 @@
                             data-x="['left','left','left','left']"
                             data-y="['middle','middle','middle','middle']"
                             data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                                <h2>Rosma Belleza</h2>
+                                <h2 style="text-shadow: 0 0 5px #000;">Rosma Belleza</h2>
                             </div>
                             
                             
@@ -164,7 +164,7 @@
                                 <a href="#" class="theme-btn btn-style-one">Saber más <i class="fa fa-angle-double-right"></i></a>
                             </div>-->
 
-                        </div>
+                        <!--</div>-->
                         
                     </li> 
                 </ul>
@@ -174,7 +174,7 @@
     <!--End Main Slider-->
 
     <!-- Procedure Section -->
-    <section class="procedure-section" style="background-image: url(images/background/7.jpg);">
+    <section class="procedure-section" style="background-color: #f8f8f8;">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title">Más de 40 años al servicio de la belleza</span>
@@ -262,7 +262,7 @@
     <section class="services-section">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <span class="title">Belleza a tu medida</span>
+                <span class="title">Rosma Belleza</span>
                 <h2>Carta de servicios</h2>
                 <div class="separator"><span class="flaticon-flower"></span></div>
                 <p>Te ofrecemos los últimos avances en tratamiento de belleza y bienestar. Cuidar de tí es nuestra prioridad.</p>

@@ -1515,6 +1515,7 @@ img{
 	background-repeat:no-repeat;
 	text-align:center;
 	margin-top: 50px;
+	text-shadow: 0 0 5px #000;
 }
 
 .page-title:before{
@@ -1627,7 +1628,7 @@ img{
 }
 
 .main-slider h2{
-	font-size:48px;
+	font-size:70px;
 	color:#ffffff;
 	font-weight:700;
 	line-height:1.2em;
@@ -9253,7 +9254,7 @@ li.slide-item {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Oscurece el video */
+    /*background-color: rgba(0, 0, 0, 0.3);  Oscurece el video */
     z-index: 1;
 }
 .page-title .auto-container {
