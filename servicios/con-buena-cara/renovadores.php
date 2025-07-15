@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Renovadores</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Tratamientos renovadores en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Tratamientos renovadores en Vitoria | Rosma Belleza">
+    <meta name="description" content="Renueva tu piel en Rosma Belleza, Vitoria-Gasteiz. Con dermapen, radiofrecuencia y peelings. Piel más luminosa, suave y visiblemente rejuvenecida.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

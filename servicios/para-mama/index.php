@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Para mamá</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Cuidados para mamás en Vitoria-Gasteiz | Rosma Belleza</title>
+    <meta name="title" content="Cuidados para mamás en Vitoria-Gasteiz | Rosma Belleza">
+    <meta name="description" content="Tratamientos pre y postparto en Rosma Belleza, Vitoria-Gasteiz. Antiestrías, piernas ligeras y bienestar seguro para mamás en cada etapa.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | A toda velocidad</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>A toda velocidad | Rosma Belleza en Vitoria-Gasteiz</title>
+    <meta name="title" content="A toda velocidad | Rosma Belleza en Vitoria-Gasteiz">
+    <meta name="description" content="Tecnología avanzada para cuidar tu piel y tu cuerpo. En Rosma Belleza, en Vitoria-Gasteiz, combinamos estética y ciencia para resultados visibles y reales.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

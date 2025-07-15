@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Envoltura</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Envoltura corporal en Vitoria | Rosma Belleza, Detox Marino</title>
+    <meta name="title" content="Envoltura corporal en Vitoria | Rosma Belleza, Detox Marino">
+    <meta name="description" content="Desintoxica y reafirma tu piel con envolturas en Rosma Belleza, Vitoria-Gasteiz. Barros y algas con efecto hidratante, nutritivo y relajante.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

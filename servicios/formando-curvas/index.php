@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Formando curvas</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Remodelación corporal en Vitoria-Gasteiz | Rosma Belleza</title>
+    <meta name="title" content="Remodelación corporal en Vitoria-Gasteiz | Rosma Belleza">
+    <meta name="description" content="Moldea tu figura con tratamientos unisex en Rosma Belleza, Vitoria-Gasteiz. Tecnología, nutrición y cuidado integral para resultados duraderos.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

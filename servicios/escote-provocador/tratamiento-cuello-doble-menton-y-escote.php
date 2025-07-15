@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
     <title>Rosma Belleza | Tratamiento cuello, doble mentón y escote</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <meta name="title" content="Rosma Belleza | Tratamiento cuello, doble mentón y escote">
+    <meta name="description" content="Rejuvenece cuello, escote y doble mentón en Rosma Belleza, Vitoria-Gasteiz. Tratamientos personalizados para firmeza, tono y prevención del envejecimiento.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

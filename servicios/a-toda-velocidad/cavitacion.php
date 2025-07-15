@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Cavitación</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Cavitación Rosma Belleza | Reduce grasa sin cirugía</title>
+    <meta name="title" content="Cavitación Rosma Belleza | Reduce grasa sin cirugía">
+    <meta name="description" content="Reduce grasa localizada sin cirugía en Rosma Belleza. Tratamiento de cavitación en Vitoria-Gasteiz seguro, eficaz e indoloro. Resultados visibles.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | INDIBA</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>INDIBA Vitoria | Rejuvenece tu piel en Rosma Belleza</title>
+    <meta name="title" content="INDIBA Vitoria | Rejuvenece tu piel en Rosma Belleza">
+    <meta name="description" content="Tratamiento INDIBA en Vitoria-Gasteiz. Rejuvenece tu piel sin dolor en Rosma Belleza con tecnología Proionic®. Resultados visibles desde la primera sesión.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

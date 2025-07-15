@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Anticelulítico</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Tratamiento anticelulítico en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Tratamiento anticelulítico en Vitoria | Rosma Belleza">
+    <meta name="description" content="Reduce celulitis de forma segura y eficaz en Rosma Belleza, Vitoria-Gasteiz. Enfoque integral con técnicas avanzadas y resultados visibles.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

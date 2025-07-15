@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Manicura SPA</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Cuidado de manos con Manicura Spa en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Cuidado de manos con Manicura Spa en Vitoria | Rosma Belleza">
+    <meta name="description" content="Cuida tus manos con manicura Spa en Rosma Belleza, Vitoria-Gasteiz. Exfoliación, hidratación profunda y uñas impecables en un tratamiento integral.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Antiestrías</title>
+    <title>Tratamiento antiestrías en Vitoria-Gasteiz | Rosma Belleza</title>
     <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <meta name="description" content="Reduce y previene estrías en Rosma Belleza, Vitoria-Gasteiz. Tratamientos con aparatología y cosmética para mejorar la textura y firmeza de tu piel.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Visagismo de cejas</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Visagismo de cejas en Vitoria-Gasteiz | Rosma Belleza</title>
+    <meta name="title" content="Visagismo de cejas en Vitoria-Gasteiz | Rosma Belleza">
+    <meta name="description" content="Diseña tus cejas según tu rostro en Rosma Belleza, Vitoria-Gasteiz. Estudio de facciones y forma ideal para armonizar y realzar tu belleza natural.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

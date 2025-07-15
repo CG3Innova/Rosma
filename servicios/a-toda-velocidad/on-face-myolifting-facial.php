@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | On face myolifting facial</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Rosma Belleza, Vitoria-Gasteiz | On face myolifting facial</title>
+    <meta name="title" content="Rosma Belleza | On face myolifting facial">
+    <meta name="description" content="Reafirma y tonifica tu rostro con On Face en Rosma Belleza, Vitoria-Gasteiz. Lifting facial no invasivo con resultados visibles y duraderos.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

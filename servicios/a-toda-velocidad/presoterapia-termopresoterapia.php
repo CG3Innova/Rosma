@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Presoterapia / Termopresoterapia</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Presoterapia/Termopresoterapia en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Presoterapia/Termopresoterapia en Vitoria | Rosma Belleza">
+    <meta name="description" content="Activa tu sistema linfático con presoterapia y termopresoterapia en Rosma Belleza, en Vitoria-Gasteiz. Mejora circulación, reduce toxinas y celulitis.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

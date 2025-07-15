@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | La cápsula del tiempo</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Rosma Belleza | Rejuvenecimiento y perfección para tu piel</title>
+    <meta name="title" content="Rosma Belleza | Rejuvenecimiento y perfección para tu piel">
+    <meta name="description" content="Rejuvenece y perfecciona tu piel con La Cápsula del Tiempo en Rosma Belleza, Vitoria-Gasteiz. Tratamiento facial avanzado con resultados visibles.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

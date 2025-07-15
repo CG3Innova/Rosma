@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Pieles sensibles</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Tratamiento pieles sensibles en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Tratamiento pieles sensibles en Vitoria | Rosma Belleza">
+    <meta name="description" content="Cuida tu piel sensible en Rosma Belleza, Vitoria-Gasteiz. Tratamiento calmante y protector con cosmética SkinIdent y diagnóstico personalizado.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

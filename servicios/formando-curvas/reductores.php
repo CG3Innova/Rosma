@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Reductores</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Tratamientos reductores en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Tratamientos reductores en Vitoria | Rosma Belleza">
+    <meta name="description" content="Reduce volumen y celulitis en Rosma Belleza, Vitoria-Gasteiz. Tratamiento integral para transformar tu figura y mejorar tu bienestar de forma duradera.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Vibromasaje</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Vibromasaje en Vitoria | Bienestar y tonificación en Rosma Belleza</title>
+    <meta name="title" content="Vibromasaje en Vitoria | Bienestar y tonificación en Rosma Belleza">
+    <meta name="description" content="Activa tu cuerpo con vibromasaje en Rosma Belleza, Vitoria-Gasteiz. Mejora circulación, elimina toxinas y potencia otros tratamientos corporales.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

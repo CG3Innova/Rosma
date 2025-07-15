@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Drenaje linfático</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Drenaje linfático en Vitoria-Gasteiz | Rosma Belleza</title>
+    <meta name="title" content="Drenaje linfático en Vitoria-Gasteiz | Rosma Belleza">
+    <meta name="description" content="Elimina líquidos y toxinas con drenaje linfático en Rosma Belleza, Vitoria-Gasteiz. Masaje manual o subacuático para bienestar y piel tonificada.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->
@@ -24,7 +24,7 @@
     <meta name="twitter:title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
     <meta name="twitter:description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
     <meta name="twitter:image" content="https://rosmabelleza.com/images/logo-rosma.png">
-
+ 
 <!-- Stylesheets -->
 <link href="../../css/bootstrap.css" rel="stylesheet">
 <link href="../../css/style.css" rel="stylesheet">

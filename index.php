@@ -187,8 +187,7 @@
                 <div class="procedure-block col-md-3 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="icon-box">
-                            <span class="icon flaticon-wellness"></span>
-                            <!--<span class="percent">1%</span>-->
+                            <img class="iconos" src="images/resource/calidad.png" alt="">
                         </div>
                         <h3><a href="service-detail.html">Calidad</a></h3>
                         <div class="text">Equipo con gran experiencia y formación</div>
@@ -199,7 +198,7 @@
                 <div class="procedure-block col-md-3 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="icon-box">
-                            <span class="icon flaticon-flower-1"></span>
+                            <img class="iconos" src="images/resource/personalizacion.png" alt="">
                         </div>
                         <h3><a href="service-detail.html">Personalización</a></h3>
                         <div class="text">Tratamientos únicos adaptados a ti</div>
@@ -210,7 +209,7 @@
                 <div class="procedure-block col-md-3 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="icon-box">
-                            <span class="icon flaticon-mask"></span>
+                            <img class="iconos" src="images/resource/innovador.png" alt="">
                         </div>
                         <h3><a href="service-detail.html">Innovador</a></h3>
                         <div class="text">Especialistas en tratamientos innovadores</div>
@@ -222,7 +221,7 @@
                 <div class="procedure-block col-md-3 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="icon-box">
-                            <span class="icon flaticon-sauna-1"></span>
+                            <img class="iconos" src="images/resource/cliente.png" alt="">
                         </div>
                         <h3><a href="service-detail.html">Servicio al cliente</a></h3>
                         <div class="text">Disfruta de un ambiente de relax único.</div>

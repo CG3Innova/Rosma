@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | IBX</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Tratamiento IBX en Vitoria | Rosma Belleza Uñas Sanas</title>
+    <meta name="title" content="Tratamiento IBX en Vitoria | Rosma Belleza Uñas Sanas">
+    <meta name="description" content="Fortalece y repara tus uñas con IBX en Rosma Belleza, Vitoria-Gasteiz. Ideal para uñas frágiles o dañadas. Crecimiento sano y esmaltado duradero.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-<title>Rosma Belleza | Antiedad</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Tratamientos antiedad en Vitoria-Gasteiz | Rosma Belleza</title>
+    <meta name="title" content="Tratamientos antiedad en Vitoria-Gasteiz | Rosma Belleza">
+    <meta name="description" content="Rejuvenece tu piel en Rosma Belleza, Vitoria-Gasteiz. Tratamientos antiedad con radiofrecuencia, dermapen y más. Resultados visibles y duraderos.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

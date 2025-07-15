@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Maquillaje</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Maquillaje vegano profesional en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Maquillaje vegano profesional en Vitoria | Rosma Belleza">
+    <meta name="description" content="Descubre el maquillaje Jorge de la Garza en Rosma Belleza, Vitoria-Gasteiz. Productos veganos, cruelty free y duraderos para expresar tu estilo.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

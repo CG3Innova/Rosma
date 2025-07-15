@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Oxigenantes</title>
+    <title>Tratamientos oxigenantes en Vitoria-Gasteiz | Rosma Belleza</title>
     <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <meta name="description" content="Revitaliza tu piel con oxigenoterapia en Rosma Belleza, Vitoria-Gasteiz. Ideal para acné, rosácea, cuperosis y pieles reactivas. Resultados visibles.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

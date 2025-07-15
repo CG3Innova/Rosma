@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Fotodepilación</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Fotodepilación láser e IPL en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Fotodepilación láser e IPL en Vitoria | Rosma Belleza">
+    <meta name="description" content="Elimina el vello con láser e IPL en Rosma Belleza, Vitoria-Gasteiz. Tratamiento seguro, eficaz y duradero para todo tipo de piel y vello.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

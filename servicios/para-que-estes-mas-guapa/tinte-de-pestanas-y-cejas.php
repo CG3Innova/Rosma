@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-<title>Rosma Belleza | Tinte de pestañas y cejas</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+<title>Tinte de cejas y pestañas en Vitoria-Gasteiz | Rosma Belleza</title>
+    <meta name="title" content="Tinte de cejas y pestañas en Vitoria-Gasteiz | Rosma Belleza">
+    <meta name="description" content="Color natural y duradero para tu mirada en Rosma Belleza, Vitoria-Gasteiz. Tinte nutritivo que define cejas y pestañas sin dañar el vello.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->
