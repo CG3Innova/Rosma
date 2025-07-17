@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Servicios Médicos</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Mesoterapia facial con vitaminas en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Mesoterapia facial con vitaminas en Vitoria | Rosma Belleza">
+    <meta name="description" content="Revitaliza tu piel con vitaminas en Rosma Belleza, Vitoria-Gasteiz. Hidratación, firmeza y luminosidad con microinyecciones faciales seguras y efectivas.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

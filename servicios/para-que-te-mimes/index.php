@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Para que te mimes</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Bienestar y cuidado personal en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Bienestar y cuidado personal en Vitoria | Rosma Belleza">
+    <meta name="description" content="En Rosma Belleza, Vitoria-Gasteiz, te ayudamos a mimarte. Espacio de belleza y equilibrio para reconectar contigo y sentirte bien por dentro y por fuera.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

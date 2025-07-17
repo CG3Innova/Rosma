@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Para tu mirada</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Tratamientos para ojos en Vitoria-Gasteiz | Rosma Belleza</title>
+    <meta name="title" content="Tratamientos para ojos en Vitoria-Gasteiz | Rosma Belleza">
+    <meta name="description" content="Reduce ojeras, bolsas y arrugas con tratamientos personalizados en Rosma Belleza, Vitoria-Gasteiz. Rejuvenece tu mirada con resultados duraderos.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->
@@ -123,9 +123,9 @@
                             <figure><img src="../../images/servicios/tratamiento-de-ojos.jpg" alt="Tratamiento de ojos"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Tratamiento de ojos</h2>
+                            <h2>Tratamiento de contorno de ojos</h2>
                             <p>Descubre los diversos tratamientos diseñados para ayudarte a lucir tu mejor mirada. En nuestro centro, combinamos lo último en cosmética con tecnología especializada para ofrecerte soluciones efectivas y personalizadas.</p>
-                            <p>Desde la reducción de bolsas y ojeras hasta el tratamiento de arrugas y líneas de expresión, cada opción está orientada a revitalizar la piel alrededor de tus ojos. Además, un diagnóstico exhaustivo realizado por nuestros expertos asegura que recibas el tratamiento más adecuado para tus necesidades específicas. Nuestro compromiso es brindarte resultados visibles y duraderos.</p>
+                            <p>Desde la reducción de bolsas y ojeras hasta el tratamiento de arrugas y líneas de expresión, cada opción está orientada a revitalizar la piel alrededor de tus ojos. Además, un diagnóstico exhaustivo realizado por nuestros expertos asegura que recibas el tratamiento más adecuado para tus necesidades específicas.</p>
                         </div>
 
                     </div><!-- Serviceßß Detail -->

@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Resina</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Depilación con cera fría en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Depilación con cera fría en Vitoria | Rosma Belleza">
+    <meta name="description" content="Elimina el vello con cera fría natural en Rosma Belleza, Vitoria-Gasteiz. Ideal para pieles sensibles. Higiénico, suave y con resultados duraderos.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

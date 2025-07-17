@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Servicios Médicos</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Neuromoduladores faciales en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Neuromoduladores faciales en Vitoria | Rosma Belleza">
+    <meta name="description" content="Suaviza arrugas de expresión con neuromoduladores en Rosma Belleza, Vitoria-Gasteiz. Tratamiento eficaz y natural para un rostro rejuvenecido.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

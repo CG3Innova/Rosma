@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Cera</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Depilación con cera caliente en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Depilación con cera caliente en Vitoria | Rosma Belleza">
+    <meta name="description" content="Elimina el vello con nuestra depilacion con cera caliente 100% natural en Rosma Belleza, Vitoria-Gasteiz. Tratamiento higiénico, eficaz y suave con tu piel.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

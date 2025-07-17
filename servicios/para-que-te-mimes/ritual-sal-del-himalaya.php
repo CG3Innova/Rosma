@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Ritual sal del Himalaya</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Ritual Sal del Himalaya en Vitoria-Gasteiz | Rosma Belleza</title>
+    <meta name="title" content="Ritual Sal del Himalaya en Vitoria-Gasteiz | Rosma Belleza">
+    <meta name="description" content="Purifica cuerpo y mente con el Ritual Sal del Himalaya en Rosma Belleza, Vitoria-Gasteiz. Detox, alivio muscular y equilibrio emocional profundo.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

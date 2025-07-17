@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Servicios Médicos</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Eliminación de verrugas y puntos rubí | Rosma Belleza</title>
+    <meta name="title" content="Eliminación de verrugas y puntos rubí | Rosma Belleza">
+    <meta name="description" content="Elimina verrugas y puntos rubí con láser Neodimio-YAG en Rosma Belleza, Vitoria-Gasteiz. Tratamiento preciso, rápido y con resultados visibles.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

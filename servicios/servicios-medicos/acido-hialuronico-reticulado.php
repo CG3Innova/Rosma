@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Servicios Médicos</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Ácido hialurónico reticulado en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Ácido hialurónico reticulado en Vitoria | Rosma Belleza">
+    <meta name="description" content="Rellena arrugas y da volumen con ácido hialurónico reticulado en Rosma Belleza, Vitoria-Gasteiz. Resultados inmediatos y naturales sin cirugía.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

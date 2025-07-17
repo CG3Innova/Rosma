@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Para tu bienestar</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Nutrición holística en Vitoria | Rosma Belleza Salud Integral</title>
+    <meta name="title" content="Nutrición holística en Vitoria | Rosma Belleza Salud Integral">
+    <meta name="description" content="Mejora tu salud física, mental y emocional con Nutrición Holística en Rosma Belleza, Vitoria-Gasteiz. Planes dietéticos 100% personalizados.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->
@@ -26,13 +26,13 @@
     <meta name="twitter:image" content="https://rosmabelleza.com/images/logo-rosma.png">
 
 <!-- Stylesheets -->
-<link href="../../css/bootstrap.css" rel="stylesheet">
-<link href="../../css/style.css" rel="stylesheet">
+    <link href="../../css/bootstrap.css" rel="stylesheet">
+    <link href="../../css/style.css" rel="stylesheet">
     <link href="../../cookies/cookieconsent.css" rel="stylesheet">
-<link href="../../css/responsive.css" rel="stylesheet">
+    <link href="../../css/responsive.css" rel="stylesheet">
 
 <!--Color Themes-->
-<link id="theme-color-file" href="../../css/color-themes/default-theme.css" rel="stylesheet">
+    <link id="theme-color-file" href="../../css/color-themes/default-theme.css" rel="stylesheet">
 
 <!--Favicon-->
     <link rel="icon" type="image/png" href="/images/favicon/favicon-96x96.png" sizes="96x96" />

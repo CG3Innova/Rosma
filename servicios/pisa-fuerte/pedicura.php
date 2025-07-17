@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Pedicura</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Pedicura en Vitoria | Rosma Belleza Cuidado de tus pies</title>
+    <meta name="title" content="Pedicura en Vitoria | Rosma Belleza Cuidado de tus pies">
+    <meta name="description" content="Cuida y embellece tus pies con pedicura profesional en Rosma Belleza, Vitoria-Gasteiz. Bienestar, estética e higiene garantizada en cada sesión.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

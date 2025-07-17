@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Pedicura permanente</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Pedicura semipermanente Shellac en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Pedicura semipermanente Shellac en Vitoria | Rosma Belleza">
+    <meta name="description" content="Luce unos pies perfectos con pedicura Shellac en Rosma Belleza, Vitoria-Gasteiz. Esmalte vegano, duradero y con brillo impecable por más tiempo.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

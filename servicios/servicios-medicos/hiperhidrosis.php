@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Servicios Médicos</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Tratamiento sudor hiperhidrosis en Vitoria | Rosma Belleza</title>
+    <meta name="title" content="Tratamiento sudor hiperhidrosis en Vitoria | Rosma Belleza">
+    <meta name="description" content="Controla la sudoración excesiva con toxina botulínica en Rosma Belleza, Vitoria-Gasteiz. Tratamiento seguro y eficaz en axilas, manos o pies.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->

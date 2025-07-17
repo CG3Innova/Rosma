@@ -2,9 +2,9 @@
 <html lang="es-ES">
 <head>
 <meta charset="utf-8">
-    <title>Rosma Belleza | Peeling corporal</title>
-    <meta name="title" content="Rosma Belleza | Tratamientos de belleza y bienestar">
-    <meta name="description" content="En Rosma Belleza, ofrecemos una amplia gama de tratamientos de belleza y bienestar para ayudarte a sentirte y lucir mejor. ¡Contáctanos!">
+    <title>Peeling corporal en Vitoria | Rosma Belleza Piel Radiante</title>
+    <meta name="title" content="Peeling corporal en Vitoria | Rosma Belleza Piel Radiante">
+    <meta name="description" content="Renueva tu piel con peeling corporal en Rosma Belleza, Vitoria-Gasteiz. Exfoliación profunda para una piel suave, luminosa e hidratada al máximo.">
     <meta name="author" content="Rosma Belleza">
 
     <!-- Canonical -->
