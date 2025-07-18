@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/con-buena-cara.jpg" alt="Con buena cara - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/con-buena-cara/con-buena-cara.png" alt="Con buena cara - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Con buena cara</h2>
