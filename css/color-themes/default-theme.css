@@ -317,6 +317,7 @@ a.ui-button:active,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
 	.header-style-two.inner-header .main-menu .navigation > li > a{
 		background-color:#88af0c;
+		color: #fff;
 	}
 	
 }

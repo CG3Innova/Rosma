@@ -724,7 +724,7 @@ img{
 .main-menu .navigation > li > ul > li > a{
 	position:relative;
 	display:block;
-	padding:10px 20px;
+	padding:12px 25px !important;
 	line-height:24px;
 	font-weight:500;
 	font-size:15px;

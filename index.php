@@ -272,7 +272,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/con-buena-cara/index.php"><img src="images/servicios/con-buena-cara.jpg" alt="Con buena cara- Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/con-buena-cara/index.php"><img src="images/servicios/con-buena-cara/con-buena-cara.png" alt="Con buena cara- Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/con-buena-cara/index.php">Con buena cara</a></h3>
@@ -285,7 +285,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/dame-tu-mano/index.php"><img src="images/servicios/dame-tu-mano.jpg" alt="Dame tu mano - Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/dame-tu-mano/index.php"><img src="images/servicios/dame-tu-mano/dame-tu-mano.png" alt="Dame tu mano - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/dame-tu-mano/index.php">Dame tu mano</a></h3>
@@ -298,7 +298,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/pisa-fuerte/index.php"><img src="images/servicios/pisa-fuerte.jpg" alt="Pisa fuerte - Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/pisa-fuerte/index.php"><img src="images/servicios/pisa-fuerte/pisa-fuerte.png" alt="Pisa fuerte - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/pisa-fuerte/index.php">Pisa fuerte</a></h3>
@@ -311,7 +311,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/piel-de-seda/index.php"><img src="images/servicios/piel-de-seda.jpg" alt="Piel Seda - Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/piel-de-seda/index.php"><img src="images/servicios/piel-de-seda/piel-de-seda.png" alt="Piel Seda - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/piel-de-seda/index.php">Piel de seda</a></h3>
@@ -324,7 +324,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/fotodepilacion/index.php"><img src="images/servicios/fotodepilacion.jpg" alt="Fotodepilacion - Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/fotodepilacion/index.php"><img src="images/servicios/fotodepilacion/fotodepilacion.png" alt="Fotodepilacion - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/fotodepilacion/index.php">Fotodepilación</a></h3>
@@ -337,7 +337,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/para-que-estes-mas-guapa/index.php"><img src="images/servicios/para-que-estes-mas-guapa.jpg" alt="Para que estés más guapa - Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/para-que-estes-mas-guapa/index.php"><img src="images/servicios/para-que-estes-mas-guapa/para-que-estes-mas-guapa.png" alt="Para que estés más guapa - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/para-que-estes-mas-guapa/index.php">Para que estés más guapa</a></h3>
@@ -350,7 +350,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/formando-curvas/index.php"><img src="images/servicios/formando-curvas.jpg" alt="Formando curvas - Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/formando-curvas/index.php"><img src="images/servicios/formando-curvas/formando-curvas.png" alt="Formando curvas - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/formando-curvas/index.php">Formando curvas</a></h3>
@@ -363,7 +363,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/a-toda-velocidad/index.php"><img src="images/servicios/a-toda-velocidad.jpg" alt="A toda velocidad - Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/a-toda-velocidad/index.php"><img src="images/servicios/a-toda-velocidad/a-toda-velocidad.png" alt="A toda velocidad - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/a-toda-velocidad/index.php">A toda velocidad</a></h3>
@@ -376,7 +376,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/para-tu-mirada/index.php"><img src="images/servicios/para-tu-mirada.jpg" alt="Para tu mirada - Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/para-tu-mirada/index.php"><img src="images/servicios/para-tu-mirada/para-tu-mirada.png" alt="Para tu mirada - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/para-tu-mirada/index.php">Para tu mirada</a></h3>
@@ -389,7 +389,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/escote-provocador/index.php"><img src="images/servicios/escote-provocador.jpg" alt="Escote provocador - Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/escote-provocador/index.php"><img src="images/servicios/escote-provocador/escote-provocador.png" alt="Escote provocador - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/escote-provocador/index.php">Escote Provocador</a></h3>
@@ -402,7 +402,7 @@
             <div class="service-block">
                 <div class="inner-box">
                     <div class="image-box">
-                        <div class="image"><a href="servicios/para-mama/index.php"><img src="images/servicios/para-mama.jpg" alt="Para mamá - Rosma Belleza"></a></div>
+                        <div class="image"><a href="servicios/para-mama/index.php"><img src="images/servicios/para-mama/para-mama.png" alt="Para mamá - Rosma Belleza"></a></div>
                     </div>
                     <div class="lower-content">
                         <h3><a href="servicios/para-mama/index.php">Para mamá</a></h3>
@@ -415,7 +415,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/para-que-te-mimes/index.php"><img src="images/servicios/para-que-te-mimes.jpg" alt="Para que te mimes - Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/para-que-te-mimes/index.php"><img src="images/servicios/para-que-te-mimes/para-que-te-mimes.png" alt="Para que te mimes - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/para-que-te-mimes/index.php">Para que te mimes</a></h3>
@@ -428,7 +428,7 @@
                 <div class="service-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="servicios/para-tu-bienestar/index.php"><img src="images/servicios/para-tu-bienestar.jpg" alt="Para tu bienestar - Rosma Belleza"></a></div>
+                            <div class="image"><a href="servicios/para-tu-bienestar/index.php"><img src="images/servicios/para-tu-bienestar/para-tu-bienestar.png" alt="Para tu bienestar - Rosma Belleza"></a></div>
                         </div>
                         <div class="lower-content">
                             <h3><a href="servicios/para-tu-bienestar/index.php">Para tu bienestar</a></h3>
