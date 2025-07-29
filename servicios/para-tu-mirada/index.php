@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/tratamiento-de-ojos.jpg" alt="Tratamiento de ojos"></figure>
+                            <figure><img src="../../images/servicios/para-tu-mirada/tratamiento-de-ojos.webp" alt="Tratamiento de ojos"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento de contorno de ojos</h2>

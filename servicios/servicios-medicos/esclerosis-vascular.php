@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/esclerosis-vascular.jpg" alt="Esclerosis Vascular - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/servicios-medicos/esclerosis-vascular.webp" alt="Esclerosis Vascular - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento contra esclerosis vascular (varices)</h2>

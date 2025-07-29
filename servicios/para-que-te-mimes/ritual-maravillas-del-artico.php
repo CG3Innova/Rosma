@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/ritual-maravillas-de-artico.jpg" alt="Ritual maravillas del Ártico - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/para-que-te-mimes/ritual-maravillas-de-artico.webp" alt="Ritual maravillas del Ártico - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Ritual maravillas del Ártico</h2>

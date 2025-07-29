@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/visagismo-de-cejas.jpg" alt="Visagismo de cejas"></figure>
+                            <figure><img src="../../images/servicios/para-que-estes-mas-guapa/visagismo-de-cejas.webp" alt="Visagismo de cejas"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Visagismo de cejas</h2>

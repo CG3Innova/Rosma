@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/con-buena-cara/cicatrizantes.png" alt="Tratamientos cicatrizantes - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/con-buena-cara/cicatrizantes.webp" alt="Tratamientos cicatrizantes - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamientos cicatrizantes</h2>

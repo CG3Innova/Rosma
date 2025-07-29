@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/peeling-quimicos.jpg" alt="Peeling químicos - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/servicios-medicos/peeling-quimicos.webp" alt="Peeling químicos - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Peeling químicos (TCA, AHA, SALICILICOS)</h2>

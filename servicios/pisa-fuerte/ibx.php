@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/ibx-pedicura.jpg" alt="Tratamiento IBX - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/pisa-fuerte/ibx.webp" alt="Tratamiento IBX - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento IBX: Solución eficaz para uñas débiles y quebradizas</h2>

@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/drenaje-energetico.jpg" alt="Drenaje energetico - Rosma belleza"></figure>
+                            <figure><img src="../../images/servicios/formando-curvas/drenaje-energetico.webp" alt="Drenaje energetico - Rosma belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Drenaje energético</h2>

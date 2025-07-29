@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/pesadez-de-piernas.jpg" alt="Pesadez de piernas - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/para-mama/pesadez-de-piernas.webp" alt="Pesadez de piernas - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Pesadez de piernas</h2>

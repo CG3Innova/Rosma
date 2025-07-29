@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/verrugas-puntos-rubi.jpg" alt="Verrugas y Puntos Rubí - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/servicios-medicos/verrugas-puntos-rubi.webp" alt="Verrugas y Puntos Rubí - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento contra verrugas y puntos rubí Rosma Belleza</h2>

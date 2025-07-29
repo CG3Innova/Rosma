@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/tratamiento-de-senos.jpg" alt="Tratamiento de senos - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/escote-provocador/tratamiento-de-senos.webp" alt="Tratamiento de senos - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento de senos</h2>

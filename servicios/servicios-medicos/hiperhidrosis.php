@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/nutricion.jpg" alt="Nutrición - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/servicios-medicos/hiperhidrosis.webp" alt="Hiperhidrosis - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento contra la hiperhidrosis Rosma Belleza</h2>

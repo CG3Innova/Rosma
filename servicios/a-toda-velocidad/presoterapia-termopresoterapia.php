@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/presoterapia.jpg" alt="Presoterapia / Termopresoterapia - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/a-toda-velocidad/presoterapia.webp" alt="Presoterapia / Termopresoterapia - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Presoterapia / Termopresoterapia: Activación del Sistema Linfático para una Salud Integral</h2>

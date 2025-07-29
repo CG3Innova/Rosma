@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/tinte-pestanas-y-cejas.jpg" alt="Tinte de pestañas y cejas - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/para-que-estes-mas-guapa/tinte-pestanas-y-cejas.webp" alt="Tinte de pestañas y cejas - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Tinte de pestañas y cejas: Color y cuidado para resaltar tu mirada</h2>

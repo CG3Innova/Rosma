@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/maquillaje.jpg" alt="Maquillaje - Rosma belleza"></figure>
+                            <figure><img src="../../images/servicios/para-que-estes-mas-guapa/maquillaje.webp" alt="Maquillaje - Rosma belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Exprésate con tu maquillaje</h2>

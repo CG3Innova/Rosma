@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/con-buena-cara/pieles-sensibles.png" alt="Pieles Sensibles - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/con-buena-cara/pieles-sensibles.webp" alt="Pieles Sensibles - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento para pieles sensibles</h2>

@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicio/tratamiento-de-cuello.jpg" alt="Tratamiento cuello, doble mentón y escote - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicio/escote-provocador/tratamiento-de-cuello.webp" alt="Tratamiento cuello, doble mentón y escote - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento cuello, doble mentón y escote</h2>

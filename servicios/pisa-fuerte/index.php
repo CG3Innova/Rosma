@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/pisa-fuerte.jpg" alt="Pisa fuerte - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/pisa-fuerte/pisa-fuerte.webp" alt="Pisa fuerte - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Pisa fuerte</h2>

@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/lifting-de-pestanas.jpg" alt="Lifting de pestañas - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/para-que-estes-mas-guapa/lifting-de-pestanas.webp" alt="Lifting de pestañas - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Lifting de pestañas: eleva y curva las pestañas</h2>

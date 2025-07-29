@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/oxigenoterapia.jpg" alt="Oxigenoterapia - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/a-toda-velocidad/oxigenoterapia.webp" alt="Oxigenoterapia - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Oxigenoterapia: Un soplo de vitalidad para tu piel</h2>
