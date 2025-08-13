@@ -122,23 +122,29 @@
             <div class="inner-container">
                 <div class="gallery-detail">
                     <div class="single-item-carousel owl-carousel owl-theme">
-                        <div class="imaeg-box">
-                            <a href="images/gallery/image-1.jpg" class="lightbox-image" data-fancybox="Gallery"><img src="images/gallery/image-1.jpg" alt=""></a>
+                        <div class="image-box">
+                            <a href="images/galeria/rosma-belleza-1.webp" class="lightbox-image" data-fancybox="Gallery"><img src="images/galeria/rosma-belleza-1-mini.webp" alt="Centro Rosma Belleza en Vitoria-Gasteiz"></a>
                         </div>
-                        <div class="imaeg-box">
-                            <a href="images/gallery/image-2.jpg" class="lightbox-image" data-fancybox="Gallery"><img src="images/gallery/image-2.jpg" alt=""></a>
+                        <div class="image-box">
+                            <a href="images/galeria/rosma-belleza-2.webp" class="lightbox-image" data-fancybox="Gallery"><img src="images/galeria/rosma-belleza-2-mini.webp" alt="Centro Rosma Belleza en Vitoria-Gasteiz"></a>
                         </div>
-                        <div class="imaeg-box">
-                            <a href="images/gallery/image-3.jpg" class="lightbox-image" data-fancybox="Gallery"><img src="images/gallery/image-3.jpg" alt=""></a>
+                        <div class="image-box">
+                            <a href="images/galeria/rosma-belleza-3.webp" class="lightbox-image" data-fancybox="Gallery"><img src="images/galeria/rosma-belleza-3-mini.webp" alt="Centro Rosma Belleza en Vitoria-Gasteiz"></a>
                         </div>
-                        <div class="imaeg-box">
-                            <a href="images/gallery/image-1.jpg" class="lightbox-image" data-fancybox="Gallery"><img src="images/gallery/image-1.jpg" alt=""></a>
+                        <div class="image-box">
+                            <a href="images/galeria/rosma-belleza-4.webp" class="lightbox-image" data-fancybox="Gallery"><img src="images/galeria/rosma-belleza-4-mini.webp" alt="Centro Rosma Belleza en Vitoria-Gasteiz"></a>
                         </div>
-                        <div class="imaeg-box">
-                            <a href="images/gallery/image-2.jpg" class="lightbox-image" data-fancybox="Gallery"><img src="images/gallery/image-2.jpg" alt=""></a>
+                        <div class="image-box">
+                            <a href="images/galeria/rosma-belleza-5.webp" class="lightbox-image" data-fancybox="Gallery"><img src="images/galeria/rosma-belleza-5-mini.webp" alt="Centro Rosma Belleza en Vitoria-Gasteiz"></a>
                         </div>
-                        <div class="imaeg-box">
-                            <a href="images/gallery/image-3.jpg" class="lightbox-image" data-fancybox="Gallery"><img src="images/gallery/image-3.jpg" alt=""></a>
+                        <div class="image-box">
+                            <a href="images/galeria/rosma-belleza-6.webp" class="lightbox-image" data-fancybox="Gallery"><img src="images/galeria/rosma-belleza-6-mini.webp" alt="Centro Rosma Belleza en Vitoria-Gasteiz"></a>
+                        </div>
+                        <div class="image-box">
+                            <a href="images/galeria/rosma-belleza-7.webp" class="lightbox-image" data-fancybox="Gallery"><img src="images/galeria/rosma-belleza-7-mini.webp" alt="Centro Rosma Belleza en Vitoria-Gasteiz"></a>
+                        </div>
+                        <div class="image-box">
+                            <a href="images/galeria/rosma-belleza-8.webp" class="lightbox-image" data-fancybox="Gallery"><img src="images/galeria/rosma-belleza-8-mini.webp" alt="Centro Rosma Belleza en Vitoria-Gasteiz"></a>
                         </div>
                     </div>
                 </div>
@@ -154,7 +160,7 @@
 
                 <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <div class="image"><img src="images/resource/image-1.png" alt=""></div>
+                        <div class="image"><img src="images/equipo/amalia.webp" alt="Amalia Muñoz - Fundadora y directora Rosma Belleza"></div>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-12 col-xs-12">
@@ -215,7 +221,7 @@
                 <div class="team-block col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="about.html"><img src="images/resource/team-1.jpg" alt=""></a></div>
+                            <div class="image"><a href="about.html"><img src="images/equipo/maialen.webp" alt="Maialen Torre - Rosma Belleza"></a></div>
                             <ul class="social-links">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -224,7 +230,7 @@
                         </div>
                         <div class="info-box">
                             <h3 class="name">Maialen Torre</h3>
-                            <span class="designatiion">- Massage Expert</span>
+                            <span class="designatiion"><br>"La vida es una hoja en blanco en la que escribimos sin un borrador."</span>
                         </div>
                     </div>
                 </div>
@@ -233,7 +239,7 @@
                 <div class="team-block col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="about.html"><img src="images/resource/team-2.jpg" alt=""></a></div>
+                            <div class="image"><a href="about.html"><img src="images/equipo/arantza.webp" alt="Arantza Martínez - Rosma Belleza"></a></div>
                             <ul class="social-links">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -242,7 +248,7 @@
                         </div>
                         <div class="info-box">
                             <h3 class="name">Arantza Martínez</h3>
-                            <span class="designatiion">- Massage Expert</span>
+                            <span class="designatiion"><br>"Tenemos dos vidas: la segunda comienza cuando nos damos cuenta de que solo tenemos una."</span>
                         </div>
                     </div>
                 </div>
@@ -251,7 +257,7 @@
                 <div class="team-block col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="image-box">
-                            <div class="image"><a href="about.html"><img src="images/resource/team-3.jpg" alt=""></a></div>
+                            <div class="image"><a href="about.html"><img src="images/equipo/sagrario.webp" alt="Dra. Sagrario Juano Vela - Rosma Belleza"></a></div>
                             <ul class="social-links">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -260,7 +266,7 @@
                         </div>
                         <div class="info-box">
                             <h3 class="name">Sagrario Juano Vela</h3>
-                            <span class="designatiion">- Massage Expert</span>
+                            <span class="designatiion">Col. nº6090 <br> "No dejes para mañana lo que te pueda hacer feliz HOY."</span>
                         </div>
                     </div>
                 </div>

@@ -3649,10 +3649,10 @@ img{
 	position: relative;
 	padding: 120px 0 0px;
 }
-
+/* cambiar width de las miniaturas */
 .gallery-detail-section .inner-container{
 	position: relative;
-	max-width: 970px;
+	max-width: 500px;
 	margin: 0 auto;
 }
 

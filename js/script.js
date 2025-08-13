@@ -46,14 +46,14 @@
 		});
 	}
 	
-	// Single Item Carousel
+	// Single Item Carousel cambiar numero elementos galeria
 	if ($('.single-item-carousel').length) {
 		$('.single-item-carousel').owlCarousel({
 			loop:true,
 			margin:30,
 			nav:true,
 			smartSpeed: 700,
-			autoplay: false,
+			autoplay: true,
 			navText: [ '<span class="fa fa-angle-left"></span>', '<span class="fa fa-angle-right"></span>' ],
 			responsive:{
 				0:{
