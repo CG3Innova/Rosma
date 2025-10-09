@@ -120,7 +120,7 @@
                 <div class="content-side pull-right col-md-9 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="image-box">
-                            <figure><img src="../../images/servicios/piel-de-seda/cera-fria.webp" alt="Depilacion con resina o cera fría - Rosma Belleza"></figure>
+                            <figure><img src="../../images/servicios/piel-de-seda/resina.webp" alt="Depilacion con resina o cera fría - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
                             <h2>Depilación con cera fría: Resina desechable para todo tipo de pieles</h2>
