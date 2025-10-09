@@ -73,7 +73,8 @@
 
             <div class="modal-body">
                 <p><strong>Lunes, Miércoles y Jueves:</strong> de 9.00 a 13.30 y de 15.30 a 20.00</p>
-                <p><strong>Martes y Viernes:</strong> de 9.00 a 20.00</p>
+                <p><strong>Martes:</strong> de 9.00 a 20.00</p>
+                <p><strong>Viernes:</strong> de 9.00 a 15.00</p>
                 <p><strong>Sábados y Domingos:</strong> Cerrado</p>
                 <hr>
                 <p><strong>HORARIO ESPECIAL VERANO</strong></p>
@@ -119,22 +120,22 @@
                 <div class="content-side pull-right col-md-12 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="lower-content">
-                            <p><strong>Denominación Social:</strong> Belleza y estética Rosa-Amalia, S.L.</p>
+                            <p><strong>Denominación Social:</strong> Amalia Muñoz Márquez</p>
                             <p><strong>Nombre Comercial:</strong> Rosma Belleza</p>
-                            <p><strong>Domicilio Social:</strong> Av. Gasteiz, 21, 1ºizq Vitoria, Álava</p>
-                            <p><strong>CIF / NIF:</strong> B01031681</p>
+                            <p><strong>Domicilio Social:</strong> C/ Madre Vedruna 12 bajo. 01008 Vitoria-Gasteiz</p>
+                            <p><strong>CIF / NIF:</strong> 16256884R</p>
                             <p><strong>Teléfono:</strong> 945 23 04 47</p>
                             <p><strong>e-Mail:</strong> <a href="mailto:rosma@rosmabelleza.com">rosma@rosmabelleza.com</a></p>
                             <p><strong>Nombre de dominio:</strong> <a href="https://www.rosmabelleza.com" target="_blank">www.rosmabelleza.com</a></p>
 
                             <p><strong>Autorización administrativa:</strong></p>
-                            <p>Belleza y estética Rosa-Amalia, S.L., provisto con NIF/CIF B01031681, dirección Av. Gasteiz, 21, 1ºizq Vitoria, Álava, no puede asumir ninguna responsabilidad derivada del uso incorrecto, inapropiado o ilícito de la información aparecida en las páginas de Internet de <a href="https://www.rosmabelleza.com" target="_blank">www.rosmabelleza.com</a></p>
+                            <p>Amalia Muñoz Márquez, provisto con NIF/CIF 16256884R, dirección C/ Madre Vedruna 12 bajo. 01008 Vitoria-Gasteiz, no puede asumir ninguna responsabilidad derivada del uso incorrecto, inapropiado o ilícito de la información aparecida en las páginas de Internet de <a href="https://www.rosmabelleza.com" target="_blank">www.rosmabelleza.com</a></p>
                             <p>Con los límites establecidos en la ley, <a href="https://www.rosmabelleza.com" target="_blank">www.rosmabelleza.com</a> no asume ninguna responsabilidad derivada de la falta de veracidad, integridad, actualización y precisión de los datos o informaciones que se contienen en sus páginas de Internet.</p>
                             <p>Los contenidos e información no vinculan a <a href="https://www.rosmabelleza.com" target="_blank">www.rosmabelleza.com</a> ni constituyen opiniones, consejos o asesoramiento legal de ningún tipo pues se trata meramente de un servicio ofrecido con carácter informativo y divulgativo.</p>
                             <p>Las páginas de Internet de <a href="https://www.rosmabelleza.com" target="_blank">www.rosmabelleza.com</a> pueden contener enlaces (links) a otras páginas de terceras partes que <a href="https://www.rosmabelleza.com" target="_blank">www.rosmabelleza.com</a> no puede controlar. Por lo tanto, <a href="https://www.rosmabelleza.com" target="_blank">www.rosmabelleza.com</a> no puede asumir responsabilidades por el contenido que pueda aparecer en páginas de terceros.</p>
                             <p>Los textos, imágenes, sonidos, animaciones, software y el resto de contenidos incluidos en este website son propiedad exclusiva de <a href="https://www.rosmabelleza.com" target="_blank">www.rosmabelleza.com</a> o sus licenciantes. Cualquier acto de transmisión, distribución, cesión, reproducción, almacenamiento o comunicación pública total o parcial, debe contar con el consentimiento expreso de <a href="https://www.rosmabelleza.com" target="_blank">www.rosmabelleza.com</a>.</p>
                             <p>Asimismo, para acceder a algunos de los servicios que <a href="https://www.rosmabelleza.com" target="_blank">www.rosmabelleza.com</a> ofrece a través del website deberá proporcionar algunos datos de carácter personal. En cumplimiento de lo establecido en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos le informamos que, mediante la cumplimentación de los presentes formularios, sus datos personales quedarán incorporados y serán tratados en los ficheros de Belleza y estética Rosa-Amalia, S.L. con el fin de poderle prestar y ofrecer nuestros servicios así como para informarle de las mejoras del sitio Web.</p>
-                            <p>Asimismo, le informamos de la posibilidad de que ejerza los derechos de acceso, rectificación, cancelación y oposición de sus datos de carácter personal, de manera gratuita mediante email a <a href="mailto:rosma@rosmabelleza.com">rosma@rosmabelleza.com</a> o en la dirección Av. Gasteiz, 21, 1ºizq Vitoria, Álava.</p>
+                            <p>Asimismo, le informamos de la posibilidad de que ejerza los derechos de acceso, rectificación, cancelación y oposición de sus datos de carácter personal, de manera gratuita mediante email a <a href="mailto:rosma@rosmabelleza.com">rosma@rosmabelleza.com</a> o en la dirección C/ Madre Vedruna 12 bajo. 01008 Vitoria-Gasteiz.</p>
                         </div>
 
                     </div><!-- Service Detail -->

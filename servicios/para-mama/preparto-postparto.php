@@ -74,7 +74,8 @@
 
             <div class="modal-body">
                 <p><strong>Lunes, Miércoles y Jueves:</strong> de 9.00 a 13.30 y de 15.30 a 20.00</p>
-                <p><strong>Martes y Viernes:</strong> de 9.00 a 20.00</p>
+                <p><strong>Martes:</strong> de 9.00 a 20.00</p>
+                <p><strong>Viernes:</strong> de 9.00 a 15.00</p>
                 <p><strong>Sábados y Domingos:</strong> Cerrado</p>
                 <hr>
                 <p><strong>HORARIO ESPECIAL VERANO</strong></p>
