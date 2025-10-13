@@ -9382,3 +9382,6 @@ li.slide-item {
 .whatsapp-icon {
   margin-top:15px;
 }
+.modal-header .close{
+	display:none;
+}
