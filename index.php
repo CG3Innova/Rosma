@@ -455,7 +455,7 @@
 
                 <div class="btn-column col-md-3 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <a href="#" class="theme-btn btn-style-two">Contactar <i class="fa fa-whatsapp"></i></a>
+                        <a href="https://wa.me/609902193" target="_blank" class="theme-btn btn-style-two">Contactar <i class="fa fa-whatsapp"></i></a>
                     </div>
                 </div>
             </div>

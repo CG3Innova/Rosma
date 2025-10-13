@@ -1,6 +1,7 @@
 <?php if ($page == "servicios") { ?>
 
 <!-- Main Header-->
+    <a href="https://wa.me/609902193" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
     <header class="main-header">
     	
         <!--Header Top-->
@@ -11,7 +12,7 @@
                         <ul class="clearfix">
                             <li><a href="tel:+34945230447"><i class="fa fa-volume-control-phone"></i> 945 23 04 47</a></li>
                             <li><a href="tel:+34609902193"><i class="fa fa-volume-control-phone"></i> 609 90 21 93</a></li>
-                            <li><a href="mailto:rosma@rosmabelleza.com"><i class="fa fa-envelope-o"></i> rosma@rosmabelleza.com</a></li>
+                            <li><a href="mailto:info@rosmabelleza.com"><i class="fa fa-envelope-o"></i> info@rosmabelleza.com</a></li>
                         </ul>
                     </div>
                     <div class="top-right">
@@ -72,6 +73,7 @@
                                     </li>
                                     <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="servicios-medicos/index.php">Servicios Médicos</a>
                                     </li>
+                                    <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="../regala-rosma.php">Regala Rosma</a></li>
                                     <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../contacto.php">Contacto</a></li>
                                 </ul>
                             </div>
@@ -128,6 +130,7 @@
                                 </li>
                                 <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="servicios-medicos/index.php">Servicios Médicos</a>
                                 </li>
+                                <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="../regala-rosma.php">Regala Rosma</a></li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../contacto.php">Contacto</a></li>
                             </ul>
                         </div>
@@ -143,6 +146,7 @@
 <?php } elseif ($page == "servicios-2" || $page == "servicios-medicos") { ?>
 
 <!-- Main Header-->
+    <a href="https://wa.me/609902193" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
     <header class="main-header">
     	
         <!--Header Top-->
@@ -153,7 +157,7 @@
                         <ul class="clearfix">
                             <li><a href="tel:945230447"><i class="fa fa-volume-control-phone"></i> 945 23 04 47</a></li>
                             <li><a href="tel:+34609902193"><i class="fa fa-volume-control-phone"></i> 609 90 21 93</a></li>
-                            <li><a href="mailto:rosma@rosmabelleza.com"><i class="fa fa-envelope-o"></i> rosma@rosmabelleza.com</a></li>
+                            <li><a href="mailto:info@rosmabelleza.com"><i class="fa fa-envelope-o"></i> info@rosmabelleza.com</a></li>
                         </ul>
                     </div>
                     <div class="top-right">
@@ -219,7 +223,8 @@
                                     </li>
                                     <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="../servicios-medicos/index.php">Servicios Médicos</a>
                                     </li>
-                                    <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../contacto.php">Contacto</a></li>
+                                    <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="../../regala-rosma.php">Regala Rosma</a></li>
+                                    <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../../contacto.php">Contacto</a></li>
                                 </ul>
                             </div>
 
@@ -275,6 +280,7 @@
                                 </li>
                                 <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="../servicios-medicos/index.php">Servicios Médicos</a>
                                 </li>
+                                <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="../../regala-rosma.php">Regala Rosma</a></li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="../../contacto.php">Contacto</a></li>
                             </ul>
                         </div>
@@ -290,6 +296,7 @@
 <?php } else { ?>
 
 <!-- Main Header-->
+    <a href="https://wa.me/609902193" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
     <header class="main-header">
     	
         <!--Header Top-->
@@ -300,7 +307,7 @@
                         <ul class="clearfix">
                             <li><a href="tel:945230447"><i class="fa fa-volume-control-phone"></i> 945 23 04 47</a></li>
                             <li><a href="tel:+34609902193"><i class="fa fa-volume-control-phone"></i> 609 90 21 93</a></li>
-                            <li><a href="mailto:rosma@rosmabelleza.com"><i class="fa fa-envelope-o"></i> rosma@rosmabelleza.com</a></li>
+                            <li><a href="mailto:info@rosmabelleza.com"><i class="fa fa-envelope-o"></i> info@rosmabelleza.com</a></li>
                         </ul>
                     </div>
                     <div class="top-right">
@@ -365,7 +372,8 @@
                                         </ul>
                                     </li>
                                     <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="servicios/servicios-medicos/index.php">Servicios Médicos</a>
-                                </li>
+                                    </li>
+                                    <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="regala-rosma.php">Regala Rosma</a></li>
                                     <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
                                 </ul>
                             </div>
@@ -422,6 +430,7 @@
                                 </li>
                                 <li class="<?php if ($page == "servicios-medicos") { echo 'current'; }?>"><a href="servicios/servicios-medicos/index.php">Servicios Médicos</a>
                                 </li>
+                                <li class="<?php if ($page == "regala-rosma") { echo 'current'; }?>"><a href="regala-rosma.php">Regala Rosma</a></li>
                                 <li class="<?php if ($page == "contacto") { echo 'current'; }?>"><a href="contacto.php">Contacto</a></li>
                             </ul>
                         </div>

@@ -212,7 +212,7 @@
                                 <li>
                                     <span class="icon fa fa-envelope-o"></span> 
                                     <strong>Email:</strong>
-                                    <p>rosma@rosmabelleza.com</p>
+                                    <p>info@rosmabelleza.com</p>
                                 </li>
 
                                 <li>
