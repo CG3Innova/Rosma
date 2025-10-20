@@ -166,7 +166,7 @@
                             <li><a href="https://twitter.com/rosmabelleza" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
                             <li>
-                                <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#horariosModal" style="background-color: #88af0c; border-color: #88af0c; font-size: 13px;">
+                                <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#horariosModal" style="background-color: #84905e; border-color: #84905e; font-size: 13px;">
                                     <i class="fa fa-clock-o"></i> Horario
                                 </button>
                             </li>
@@ -316,7 +316,7 @@
                             <li><a href="https://twitter.com/rosmabelleza" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
                             <li>
-                                <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#horariosModal" style="background-color: #88af0c; border-color: #88af0c; font-size: 13px;">
+                                <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#horariosModal" style="background-color: #84905e; border-color: #84905e; font-size: 13px;">
                                     <i class="fa fa-clock-o"></i> Horario
                                 </button>
                             </li>

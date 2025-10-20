@@ -336,11 +336,11 @@
 		display:inline-block;
 		z-index:7;
 		top: 0;
-		border:1px solid #88af0c;
+		border:1px solid #84905e;
 		float:none;
 		margin:0px 0px 0px 0px;
 		border-radius:0px;
-		background:#88af0c;
+		background:#84905e;
 	}
 	
 	.main-menu .navbar-header .navbar-toggle .icon-bar{
@@ -351,7 +351,7 @@
 		float:none !important;
 		margin:0px !important;
 		width:100% !important;
-		background:#88af0c;
+		background:#84905e;
 		border:1px solid #ffffff;
 		border-top:none;
 	}
@@ -398,7 +398,7 @@
 		right:auto !important;
 		top:auto !important;
 		width:100%;
-		background:#88af0c;
+		background:#84905e;
 		-webkit-border-radius:0px;
 		-ms-border-radius:0px;
 		-o-border-radius:0px;
@@ -441,7 +441,7 @@
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a{
 		padding:12px 15px;
 		line-height:22px;
-		color:#88af0c;
+		color:#84905e;
 		background:#fff;
 		text-align:left;
 		min-height:0px;
@@ -452,7 +452,7 @@
 	.main-menu .navbar-collapse > .navigation > li > a:hover,
 	.main-menu .navbar-collapse > .navigation > li > a:active,
 	.main-menu .navbar-collapse > .navigation > li > a:focus{
-		background:#88af0c;
+		background:#84905e;
 	}
 	
 	.main-menu .navbar-collapse > .navigation > li:hover > a,
@@ -460,7 +460,7 @@
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
-		background:#88af0c;
+		background:#84905e;
 		color:#ffffff !important;
 	}
 	

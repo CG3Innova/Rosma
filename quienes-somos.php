@@ -188,12 +188,11 @@
     <!-- End About Us -->
 
     <!-- Call To Action -->
-    <section class="call-to-action" style="background-image: url(images/background/4.jpg);">
+    <section class="call-to-action" style="background-image: url(images/background/banner_inicio.webp);">
         <div class="auto-container">
             <div class="row clearfix">
                 <div class="title-column col-md-9 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <figure><img src="images/resource/stones.png" alt=""></figure>
                         <h3>¡Ahora puedes contactarnos por WhatsApp!</h3>
                     </div>
                 </div>
