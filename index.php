@@ -233,31 +233,6 @@
     </section>
     <!--End Procedure Section -->
 
-    <!-- About Us --
-    <section class="about-us">
-        <div class="left-image"><img src="images/resource/side-img-1.png" alt=""></div>
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="content-column col-md-7 col-sm-12 col-xs-12">
-                    <div class="inner-column">
-                        <h3 class="title">Experience the Art of Caring</h3>
-                        <h2>About Our Spaland</h2>
-                        <p>Sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam Demo Label. At vero eos et accusam et justo duodo- lores et ea rebum. Lorem ipsum dolor sit amet consectuere colorado. Secrets Resorts & Spas offer adults an escape to romance and sen- suality in spectacular oceanfront settings.</p>
-                        <p>Hover over me! Stet clita kasd gubergren. At vero eos et accusam et justo duo dolores et earebum. Stet clita kasd gubergren, no sea taki- mata. At vero eos et accusam et justo duo dolores et earebum. At vero eos et accusam et justo duo dolores et earebum.</p>
-                        <a href="services.html" class="theme-btn btn-style-two">More Feature <i class="fa fa-angle-double-right"></i></a>
-                    </div>
-                </div>
-
-                <div class="image-column col-md-5 col-sm-12 col-xs-12">
-                    <div class="inner-column">
-                        <div class="image"><img src="images/resource/image-1.png" alt=""></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End About Us -->
-
     <!-- Services Section -->
     <section class="services-section">
         <div class="auto-container">
