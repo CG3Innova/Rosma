@@ -119,7 +119,7 @@
                 <div class="content-side pull-right col-md-12 col-sm-12 col-xs-12">
                     <div class="service-detail">
                         <div class="lower-content">
-                            <p>Belleza y estética Rosa-Amalia, S.L. informa acerca del uso de las cookies en su página web: <a href="https://www.rosmabelleza.com">www.rosmabelleza.com</a></p>
+                            <p>Amalia Muñoz Márquez con NIF:16256884R, informa acerca del uso de las cookies en su página web: <a href="https://www.rosmabelleza.com">www.rosmabelleza.com</a></p>
 
                             <h2>¿Qué son las cookies?</h2>
                             <p>Las cookies son archivos que se pueden descargar en su equipo a través de las páginas web. Son herramientas que tienen un papel esencial para la prestación de numerosos servicios de la sociedad de la información. Entre otros, permiten a una página web almacenar y recuperar información sobre los hábitos de navegación de un usuario o de su equipo y, dependiendo de la información obtenida, se pueden utilizar para reconocer al usuario y mejorar el servicio ofrecido.</p>
