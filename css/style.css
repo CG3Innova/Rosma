@@ -3652,7 +3652,7 @@ img{
 /* cambiar width de las miniaturas */
 .gallery-detail-section .inner-container{
 	position: relative;
-	max-width: 500px;
+	max-width: 100%;
 	margin: 0 auto;
 }
 
@@ -9237,7 +9237,7 @@ img{
     width: 100%;
     height: 100%;
     object-fit: cover; /* Hace que el video cubra todo el contenedor */
-	object-position: top;
+	object-position: center;
     transform: translate(-50%, -50%);
 }
 .listas{

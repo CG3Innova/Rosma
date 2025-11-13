@@ -181,7 +181,6 @@
                     </div>
                 </div>
 
-                
             </div>
         </div>
     </section>
@@ -217,7 +216,20 @@
             </div>
 
             <div class="row clearfix">
-                <!-- Team Block -->
+                <div class="col-md-2"></div>
+                <div class="col-md-8 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <div class="image"><img src="images/equipo/equipo.webp" alt="Equipo Rosma Belleza - Maialen, Amalia y Arantza"></div>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+                <div class="col-md-12 col-sm-12 col-xs-12 text-center">
+                    <div class="inner-column">
+                        <p><i>Maialen Torre, Amalia Muñoz y Arantza Martínez</i></p>
+                    </div>
+                </div>
+
+                <!-- Team Block 
                 <div class="team-block col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="image-box">
@@ -235,7 +247,6 @@
                     </div>
                 </div>
 
-                <!-- Team Block -->
                 <div class="team-block col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="image-box">
@@ -253,7 +264,6 @@
                     </div>
                 </div>
 
-                <!-- Team Block -->
                 <div class="team-block col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="image-box">
@@ -270,6 +280,8 @@
                         </div>
                     </div>
                 </div>
+                -->
+
             </div>
         </div>
     </section>
