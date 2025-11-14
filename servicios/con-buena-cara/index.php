@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Con buena cara</h2>
-                            <p>En Rosma Belleza estamos en constante formación para ofrecerte tratamientos innovadores y efectivos, dándote un servicio de calidad y totalmente personalizado. Ponemos a tu disposición  una gran variedad de cosmética, aparatología y tratamientos de vanguardia.</p>
-                            <p>No importa cuál sea tu tipo de piel o tu edad; en Rosma Belleza nos comprometemos a brindarte una atención amable y cercana. ¡Visítanos y descubre todo lo que podemos hacer por ti!</p>
+                            <p>En Rosma Belleza estamos en <strong>constante formación</strong> para ofrecerte <strong>tratamientos innovadores</strong> y efectivos, dándote un servicio de calidad y totalmente personalizado. Ponemos a tu disposición  una gran variedad de cosmética, aparatología y tratamientos de vanguardia.</p>
+                            <p>No importa cuál sea tu tipo de piel o tu edad; en Rosma Belleza nos comprometemos a brindarte una <strong>atención amable y cercana</strong>. ¡Visítanos y descubre todo lo que podemos hacer por ti!</p>
                         </div>
 
                     </div>

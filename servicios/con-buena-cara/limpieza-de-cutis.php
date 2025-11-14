@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Limpieza de cutis</h2>
-                            <p>Este tratamiento es 100% manual y utiliza cosmética natural, adaptándose completamente a las necesidades de tu piel. Es una experiencia única que no solo limpia en profundidad, sino que también nutre e hidrata, proporcionando una base sólida para cualquier tratamiento de belleza posterior.</p>
-                            <p>La limpieza de cutis es un paso imprescindible para mantener la piel sana, suave y luminosa, libre de impurezas y contaminantes del día a día. Antes de la sesión, se realiza un diagnóstico personalizado que nos permite seleccionar los productos y técnicas más adecuados para ti, asegurando así resultados óptimos y recomendado para todo tipo de pieles y todas las edades</p>
+                            <p>Este tratamiento es <strong>100% manual</strong> y utiliza <strong>cosmética natural</strong>, adaptándose completamente a las necesidades de tu piel. Es una experiencia única que no solo limpia en profundidad, sino que también <strong>nutre e hidrata</strong>, proporcionando una base sólida para cualquier tratamiento de belleza posterior.</p>
+                            <p>La limpieza de cutis es un paso imprescindible para mantener la <strong>piel sana, suave y luminosa</strong>, libre de impurezas y contaminantes del día a día. Antes de la sesión, se realiza un <strong>diagnóstico personalizado</strong> que nos permite seleccionar los productos y técnicas más adecuados para ti, asegurando así resultados óptimos y recomendado para <strong>todo tipo de pieles y todas las edades</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->

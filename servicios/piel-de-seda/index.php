@@ -124,10 +124,10 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Piel de seda</h2>
-                            <p>En Rosma Belleza te ofrecemos diferentes posibilidades para la eliminación del vello respetando en todo momento tu piel.</p>
-                            <p>Trabajamos tanto la depilación tradicional de cera caliente y fría, eléctrica y distintos láseres de fotodepilación.</p>
-                            <p>Para nosotras es prioritario garantizar un servicio seguro proporcionando una higiene total utilizando productos y materiales desechables.</p>
-                            <p>Nuestro equipo te asesorará sobre cuál es el método de depilación más adecuado para ti asegurando un resultado efectivo y respetuoso con tu piel.</p>
+                            <p>En Rosma Belleza te ofrecemos diferentes posibilidades para la <strong>eliminación</strong> del <strong>vello</strong> respetando en todo momento tu piel.</p>
+                            <p>Trabajamos tanto la depilación tradicional de <strong>cera caliente y fría</strong>, <strong>eléctrica</strong> y distintos <strong>láseres</strong> de <strong>fotodepilación</strong>.</p>
+                            <p>Para nosotras es prioritario garantizar un <strong>servicio seguro</strong> proporcionando una higiene total utilizando <strong>productos</strong> y materiales <strong>desechables</strong>.</p>
+                            <p>Nuestro equipo te asesorará sobre cuál es el método de <strong>depilación</strong> más adecuado para ti asegurando un <strong>resultado efectivo</strong> y respetuoso con tu piel.</p>
                         </div>
 
                     </div><!-- Service Detail -->

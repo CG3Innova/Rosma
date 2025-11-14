@@ -125,14 +125,14 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Fotodepilación: Eliminación eficaz del vello mediante luz</h2>
-                            <p>La fotodepilación es un tratamiento avanzado que utiliza la luz para eliminar el vello de manera efectiva y duradera, basado en el principio de fototermólisis selectiva. Durante el proceso, la luz se convierte en calor y destruye las células germinativas del folículo piloso de forma selectiva, sin dañar la piel circundante. La melanina absorbe la luz, la transporta al folículo piloso y, al transformarse en calor, quema las células germinativas, impidiendo el crecimiento del vello.</p>
-                            <p>Este tratamiento es apto para trabajar sobre distintos tipos de vello, incluidos aquellos con poca melanina, como el vello amelánico, rubio o pelirrojo, y se lleva a cabo bajo la supervisión de especialistas para garantizar su seguridad y efectividad.</p>
+                            <p>La <strong>fotodepilación</strong> es un tratamiento avanzado que utiliza la luz para <strong>eliminar</strong> el <strong>vello</strong> de manera efectiva y duradera, basado en el principio de fototermólisis selectiva. Durante el proceso, la luz se convierte en calor y <strong>destruye</strong> las células germinativas del <strong>folículo piloso</strong> de forma selectiva, sin dañar la piel circundante. La melanina absorbe la luz, la transporta al folículo piloso y, al transformarse en calor, quema las células germinativas, impidiendo el crecimiento del vello.</p>
+                            <p>Este tratamiento es apto para trabajar sobre <strong>distintos</strong> tipos de <strong>vello</strong>, incluidos aquellos con poca melanina, como el vello amelánico, rubio o pelirrojo, y se lleva a cabo bajo la supervisión de especialistas para garantizar su seguridad y efectividad.</p>
                             <ul style="margin-bottom: 30px;">
-                                <li style="list-style: inside;">Láser Nd (YAG) (1064 nm): Ideal para pieles más oscuras y vello grueso.</li>
+                                <li style="list-style: inside;"><strong>Láser Nd-Yag</strong> (1064 nm): Ideal para <strong>pieles más oscuras</strong> y <strong>vello grueso</strong>.</li>
                                 <li style="list-style: inside;">Luz Intensa Pulsada (IPL) (625-1200 nm): Versátil para diferentes tipos de piel y vello.</li>
-                                <li style="list-style: inside;">Láser Diodo (800-810 nm): Proporciona una depilación rápida y eficaz en modo barrido.</li>
+                                <li style="list-style: inside;"><strong>Láser Diodo</strong> (800-810 nm): Proporciona una depilación <strong>rápida</strong> y <strong>eficaz</strong> en modo barrido.</li>
                             </ul>
-                            <p>Este tratamiento ofrece resultados duraderos, cuidando la salud de tu piel mientras elimina el vello no deseado.</p>
+                            <p>Este tratamiento ofrece <strong>resultados duraderos</strong>, cuidando la salud de tu piel mientras elimina el vello no deseado.</p>
                         </div>
 
                     </div><!-- Service Detail -->

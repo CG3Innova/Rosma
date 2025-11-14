@@ -125,10 +125,10 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamientos despigmentantes</h2>
-                            <p>Las manchas son alteraciones de la pigmentación que se originan por la acumulación excesiva de melanina, pigmento que da color a la piel, cabello y ojos. Existen diferentes causas por las que se originan las manchas: la exposición solar, el envejecimiento, el embarazo, lesiones dérmicas y algunos medicamentos desencadenan una anomalía en el melanocito, célula que fabrica la melanina, provocando un tono irregular, mate y apagado.</p>
-                            <p>Dependiendo del tipo de mancha y profundidad de la misma existe un tratamiento específico para tratarla. </p>
-                            <p>El peeling químico y la micro-punción son alternativas eficaces para tratar las manchas.</p>
-                            <p>Lo que hace único a cada uno de nuestros peelings son sus principios activos específicos, el porcentaje de concentración de estos ingredientes y el pH de las soluciones. Para asegurar un resultado óptimo, es fundamental realizar un diagnóstico preciso que nos permita elegir el tratamiento más adecuado, maximizando así los beneficios y garantizando una piel más uniforme y luminosa.</p>
+                            <p>Las manchas son <strong>alteraciones de la pigmentación</strong> que se originan por la acumulación excesiva de melanina, pigmento que da color a la piel, cabello y ojos. Existen diferentes causas por las que se originan las manchas: la exposición solar, el envejecimiento, el embarazo, lesiones dérmicas y algunos medicamentos desencadenan una anomalía en el melanocito, célula que fabrica la melanina, provocando un tono irregular, mate y apagado.</p>
+                            <p>Dependiendo del tipo de mancha y profundidad de la misma existe un <strong>tratamiento específico</strong> para tratarla.</p>
+                            <p>El <strong>peeling químico</strong> y la <strong>micro-punción</strong> son alternativas eficaces para tratar las manchas.</p>
+                            <p>Lo que hace único a cada uno de nuestros peelings son sus principios activos específicos, el porcentaje de concentración de estos ingredientes y el pH de las soluciones. Para asegurar un resultado óptimo, es fundamental realizar un <strong>diagnóstico preciso</strong> que nos permita elegir el <strong>tratamiento más adecuado</strong>, maximizando así los beneficios y garantizando una piel más uniforme y luminosa.</p>
                             <p>Tan importante como el tratamiento profesional son los productos que utilices en casa.”</p>
                         </div>
 

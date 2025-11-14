@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamientos antiedad</h2>
-                            <p>Este tratamiento se enfoca a darle a tu piel el cuidado que se merece para conseguir una piel más joven, jugosa y radiante. Mejora la apariencia de las arrugas, aporta vitalidad y luminosidad mejorando la textura de la piel, protege del estrés oxidativo causado por los radicales libres y la exposición a factores ambientales. </p>
-                            <p>Gracias al diagnóstico previamente realizado y una cuidada selección de activos en combinación con radiofrecuencia, dermapen, On-Face, foto-rejuvenecimiento… nos garantiza la máxima eficacia y ofrece resultados duraderos.</p>
+                            <p>Este tratamiento se enfoca a darle a tu piel el cuidado que se merece para conseguir una <strong>piel más joven, jugosa y radiante</strong>. Mejora la apariencia de las arrugas, aporta vitalidad y luminosidad mejorando la textura de la piel, protege del <strong>estrés oxidativo</strong> causado por los <strong>radicales libres</strong> y la <strong>exposición a factores ambientales</strong>.</p>
+                            <p>Gracias al diagnóstico previamente realizado y una cuidada selección de activos en combinación con <strong>radiofrecuencia, dermapen, On-Face, foto-rejuvenecimiento</strong>… nos garantiza la máxima eficacia y ofrece resultados duraderos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

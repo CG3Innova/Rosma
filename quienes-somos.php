@@ -190,13 +190,13 @@
     <section class="call-to-action" style="background-image: url(images/background/banner_inicio.webp);">
         <div class="auto-container">
             <div class="row clearfix">
-                <div class="title-column col-md-9 col-sm-12 col-xs-12">
+                <div class="title-column col-md-8 col-sm-12 col-xs-12">
                     <div class="inner-column">
                         <h3>¡Ahora puedes contactarnos por WhatsApp!</h3>
                     </div>
                 </div>
 
-                <div class="btn-column col-md-3 col-sm-12 col-xs-12">
+                <div class="btn-column col-md-4 col-sm-12 col-xs-12">
                     <div class="inner-column">
                         <a href="https://wa.me/609902193" target="_blank" class="theme-btn btn-style-two">Contactar <i class="fa fa-whatsapp"></i></a>
                     </div>

@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Pedicura Semipermanente: Esmaltado Shellac para una Belleza Duradera</h2>
-                            <p>Nuestro servicio de Pedicura Semipermanente con esmaltado Shellac está diseñado para quienes buscan una solución duradera y de alta calidad para el esmaltado de las uñas de tus pies. Este tratamiento garantiza un acabado impecable que combina belleza y resistencia, con un brillo y una fijación perfecta durante más tiempo.</p>
-                            <p>El esmalte Shellac es vegano y Cruelty Free. Ofrece una amplia gama de colores para que puedas elegir el tono que mejor refleje tu estilo, desde opciones discretas hasta colores vibrantes. Este sistema no solo aporta un acabado duradero, sino que también protege las uñas, proporcionando un acabado profesional que resiste el desgaste diario. Perfecto para quienes valoran la durabilidad sin renunciar a la elegancia.</p>
+                            <p>Nuestro servicio de <strong>Pedicura Semipermanente</strong> con esmaltado Shellac está diseñado para quienes buscan una <strong>solución duradera</strong> y de <strong>alta calidad</strong> para el esmaltado de las uñas de tus pies. Este tratamiento garantiza un <strong>acabado impecable</strong> que combina belleza y resistencia, con un brillo y una fijación perfecta durante más tiempo.</p>
+                            <p>El esmalte <strong>Shellac</strong> es <strong>vegano y Cruelty Free</strong>. Ofrece una amplia gama de colores para que puedas elegir el tono que mejor refleje tu <strong>estilo</strong>, desde opciones discretas hasta colores vibrantes. Este sistema no solo aporta un acabado duradero, sino que también <strong>protege las uñas</strong>, proporcionando un <strong>acabado profesional</strong> que resiste el desgaste diario. Perfecto para quienes valoran la durabilidad sin renunciar a la <strong>elegancia</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->

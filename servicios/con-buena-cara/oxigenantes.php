@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamientos oxigenantes</h2>
-                            <p>El tratamiento de oxigenación facial es ideal para revitalizar tu piel, mejorando su aspecto y salud desde las capas más profundas. Favorece la microcirculación sanguínea, mejorando la respiración y oxigenación celular, lo que contribuye a una piel más saludable.</p>
-                            <p>Antes de comenzar, realizamos un diagnóstico personalizado para adaptar el 	       tratamiento a las necesidades específicas de tu piel. La combinación  de los principios activos y la oxigenoterapia proporciona una revitalización profunda. Especialmente recomendado para acné, acné rosácea, pieles reactivas, cuperosis...</p>
+                            <p>El tratamiento de <strong>oxigenación facial</strong> es ideal para revitalizar tu piel, mejorando su aspecto y salud desde las capas más profundas. Favorece la microcirculación sanguínea, mejorando la respiración y oxigenación celular, lo que contribuye a una <strong>piel más saludable</strong>.</p>
+                            <p>Antes de comenzar, realizamos un <strong>diagnóstico personalizado</strong> para adaptar el tratamiento a las necesidades específicas de tu piel. La combinación  de los principios activos y la oxigenoterapia proporciona una <strong>revitalización profunda</strong>. Especialmente recomendado para <strong>acné, acné rosácea, pieles reactivas, cuperosis...</strong></p>
                             <p>Una piel bien oxigenada no solo está más saludable, sino que también se muestra más luminosa, radiante y con un aspecto rejuvenecido.</p>
                         </div>
 

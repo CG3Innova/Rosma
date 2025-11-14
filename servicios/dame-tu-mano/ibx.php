@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento IBX: Fortalece y repara tus uñas</h2>
-                            <p>Es el mejor tratamiento reparador que fortalece y recupera la salud de la uña natural. IBX Repair actúa directamente en las áreas dañadas que impiden el crecimiento y mejora la salud de la uña. Se puede trabajar incluso antes de un servicio de esmaltado semipermanente.</p>
-                            <p>Con su agente endurecedor, este tratamiento no solo repara las uñas, sino que también las prepara para seguir creciendo de manera fuerte y resistente. Si tus uñas sufren de fragilidad, IBX es el tratamiento específico que necesitas para devolverles vitalidad y permitir un crecimiento saludable. Recupera la belleza y fuerza de tus uñas con este sistema avanzado de cuidado profundo.</p>
+                            <p>Es el mejor tratamiento reparador que <strong>fortalece y recupera</strong> la salud de la uña natural. <strong>IBX Repair</strong> actúa directamente en las áreas dañadas que impiden el crecimiento y mejora la salud de la uña. Se puede trabajar incluso antes de un servicio de esmaltado semipermanente.</p>
+                            <p>Con su agente <strong>endurecedor</strong>, este tratamiento no solo repara las uñas, sino que también las prepara para seguir creciendo de manera fuerte y resistente. Si tus uñas sufren de <strong>fragilidad</strong>, <strong>IBX</strong> es el tratamiento específico que necesitas para devolverles vitalidad y permitir un <strong>crecimiento saludable</strong>. Recupera la belleza y fuerza de tus uñas con este sistema avanzado de cuidado profundo.</p>
                         </div>
 
                     </div><!-- Service Detail -->

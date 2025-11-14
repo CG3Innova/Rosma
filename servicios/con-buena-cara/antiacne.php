@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento antiacné</h2>
-                            <p>El tratamiento antiacné que ofrecemos en Rosma Belleza se basa en un análisis detallado de los distintos tipos de acné y las causas subyacentes que lo provocan. Comprender estas variables es fundamental para lograr resultados óptimos y personalizados.</p>
-                            <p>Nuestro enfoque integral no solo se centra en eliminar las imperfecciones que ya existen en tu piel, sino que va más allá, mejorando la salud general de la misma. Prestamos especial atención a la prevención, asegurándonos de que el acné no vuelva a aparecer. Con un tratamiento a medida, buscamos equilibrar tu piel y darle un aspecto sano y renovado, para que te sientas seguro y cómodo con tu imagen.</p>
+                            <p>El tratamiento <strong>antiacné</strong> que ofrecemos en Rosma Belleza se basa en un <strong>análisis detallado</strong> de los distintos tipos de acné y las <strong>causas subyacentes</strong> que lo provocan. Comprender estas variables es fundamental para lograr <strong>resultados óptimos y personalizados</strong>.</p>
+                            <p>Nuestro <strong>enfoque integral</strong> no solo se centra en eliminar las imperfecciones que ya existen en tu piel, sino que va más allá, mejorando la salud general de la misma. Prestamos especial atención a la <strong>prevención</strong>, asegurándonos de que el acné no vuelva a aparecer. Con un <strong>tratamiento a medida</strong>, buscamos equilibrar tu piel y darle un aspecto sano y renovado, para que te sientas seguro y cómodo con tu imagen.</p>
                         </div>
 
                     </div><!-- Service Detail -->

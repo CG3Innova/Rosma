@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Depilación con cera fría: Resina desechable para todo tipo de pieles</h2>
-                            <p>La depilación con cera fría, utilizando resina 100 %natural, es una opción ideal para quienes buscan un método suave y eficaz para la eliminación del vello. Este tratamiento es apto para todo tipo de pieles, incluyendo las más sensibles.</p>
-                            <p>La cera fría se aplica fácilmente y, al ser totalmente desechable, garantiza una higiene impecable en cada sesión dejando la piel suave y libre de vello durante más tiempo, sin causar irritaciones ni molestias excesivas. Este sistema de depilación es perfecto para quienes prefieren un método práctico, rápido y limpio, asegurando resultados profesionales con un acabado duradero. Disfruta de una piel perfectamente depilada, con la tranquilidad de saber que tu piel está en buenas manos.</p>
+                            <p>La <strong>depilación con cera fría</strong>, utilizando <strong>resina 100 %natural</strong>, es una opción ideal para quienes buscan un método <strong>suave y eficaz</strong> para la eliminación del vello. Este tratamiento es apto para <strong>todo tipo de pieles</strong>, incluyendo las más sensibles.</p>
+                            <p>La cera fría se aplica fácilmente y, al ser <strong>totalmente desechable</strong>, garantiza una higiene impecable en cada sesión dejando la <strong>piel suave y libre de vello durante más tiempo</strong>, sin causar irritaciones ni molestias excesivas. Este sistema de depilación es perfecto para quienes prefieren un <strong>método práctico, rápido y limpio</strong>, asegurando resultados profesionales con un acabado duradero. Disfruta de una piel perfectamente depilada, con la tranquilidad de saber que tu piel está en buenas manos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

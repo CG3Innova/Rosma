@@ -125,9 +125,9 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Depilación con cera caliente: Natural y totalmente desechable</h2>
-                            <p>Nuestro servicio de depilación con cera caliente ofrece una solución eficaz para la eliminación del vello, utilizando cera 100% natural  e hipoalergénica y totalmente desechable.</p>
-                            <p>Este método garantiza una experiencia higiénica y segura, ya que cada aplicación se realiza con materiales que se descartan tras su uso, asegurando la máxima limpieza y cuidado para tu piel.</p>
-                            <p>La cera caliente permite abrir los poros y extraer el vello desde la raíz, logrando una piel suave y libre de vello durante más tiempo. Ideal para todo tipo de pieles, este tratamiento reduce la sensación de dolor y es perfecto para obtener resultados profesionales con un acabado impecable.</p>
+                            <p>Nuestro servicio de <strong>depilación</strong> con <strong>cera caliente</strong> ofrece una solución eficaz para la <strong>eliminación del vello</strong>, utilizando <strong>cera 100% natural</strong>  e <strong>hipoalergénica</strong> y totalmente <strong>desechable</strong>.</p>
+                            <p>Este método garantiza una experiencia <strong>higiénica y segura</strong>, ya que cada aplicación se realiza con materiales que se descartan tras su uso, asegurando la <strong>máxima limpieza y cuidado para tu piel</strong>.</p>
+                            <p>La cera caliente permite abrir los poros y <strong>extraer el vello desde la raíz</strong>, logrando una <strong>piel suave</strong> y libre de vello durante más tiempo. Ideal para todo tipo de pieles, este tratamiento reduce la sensación de dolor y es perfecto para obtener <strong>resultados profesionales</strong> con un acabado impecable.</p>
                         </div>
 
                     </div>

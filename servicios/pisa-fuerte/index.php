@@ -125,9 +125,9 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Pisa fuerte</h2>
-                            <p>Somos muchas las personas que olvidamos prestar atención a nuestros pies. Ellos soportan el peso de nuestro cuerpo durante toda la vida y es por ello que necesitan un cuidado especial. Cuando tus pies están cansados, te duelen, o sufren, repercute a todo nuestro cuerpo.</p>
+                            <p>Somos muchas las personas que olvidamos prestar atención a nuestros pies. Ellos soportan el peso de nuestro cuerpo durante toda la vida y es por ello que necesitan un <strong>cuidado especial</strong>. Cuando tus pies están cansados, te duelen, o sufren, repercute a todo nuestro cuerpo.</p>
 
-                            <p>En Rosma Belleza sabemos que los pies merecen el mejor cuidado. Te ofrecemos un servicio completo de pedicura en el que mimamos y cuidamos la estética y el bienestar del pie. Dedicarles la atención que se merecen.</p>
+                            <p>En Rosma Belleza sabemos que los pies merecen el mejor cuidado. Te ofrecemos un servicio completo de <strong>pedicura</strong> en el que mimamos y cuidamos la <strong>estética</strong> y el <strong>bienestar</strong> del pie. Dedicarles la atención que se merecen.</p>
 
                         </div>
 

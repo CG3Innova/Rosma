@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Depilación eléctrica: Eliminación permanente del vello con corriente eléctrica</h2>
-                            <p>La depilación eléctrica es un método de eficacia demostrada para la eliminación permanente del vello no deseado. Mediante el uso de corriente eléctrica, este tratamiento destruye de manera efectiva los folículos pilosos impidiendo que el vello vuelva a crecer.</p>
-                            <p>A lo largo de varias sesiones, la depilación eléctrica ofrece resultados visibles y duraderos, siendo una de sus recomendaciones el pelo amelánico (canas).</p>
+                            <p>La <strong>depilación eléctrica</strong> es un método de eficacia demostrada para la <strong>eliminación permanente del vello no deseado</strong>. Mediante el uso de corriente eléctrica, este tratamiento <strong>destruye</strong> de manera efectiva los <strong>folículos pilosos</strong> impidiendo que el vello vuelva a crecer.</p>
+                            <p>A lo largo de <strong>varias sesiones</strong> depilación eléctrica ofrece <strong>resultados visibles y duraderos</strong>, siendo una de sus recomendaciones el pelo amelánico (canas).</p>
                             <p>Déjate aconsejar por nuestras profesionales para elegir el método más adecuado para ti.</p>
                         </div>
 

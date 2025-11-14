@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamientos reafirmantes</h2>
-                            <p>Con el paso del tiempo, es inevitable que la piel pierda parte de su flexibilidad, firmeza y elasticidad. La musculatura facial tiende a relajarse, lo que da lugar a la aparición de la flacidez, un signo común del envejecimiento que afecta tanto a la apariencia como a la textura de la piel.</p>
-                            <p>Combinando la eficacia de la Myo estimulación (On-Face) y la Radiofrecuencia conseguimos restaurar y elevar el soporte de los tejidos faciales al contraer los músculos y estimularla síntesis de colágeno y elastina para devolver la elasticidad y densidad a la piel.</p>
+                            <p>Con el paso del tiempo, es inevitable que la piel pierda parte de su <strong>flexibilidad, firmeza y elasticidad</strong>. La musculatura facial tiende a relajarse, lo que da lugar a la aparición de la flacidez, un signo común del envejecimiento que afecta tanto a la apariencia como a la textura de la piel.</p>
+                            <p>Combinando la eficacia de la <strong>Myo estimulación (On-Face)</strong> y la <strong>Radiofrecuencia</strong> conseguimos restaurar y elevar el soporte de los tejidos faciales al contraer los músculos y estimularla <strong>síntesis de colágeno y elastina para devolver la elasticidad y densidad a la piel</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->

@@ -123,8 +123,8 @@
                         <div class="lower-content">
 
                             <h2>Tratamientos hidratantes</h2>
-                            <p>Nuestros tratamientos hidratantes están diseñados para proporcionar una nutrición profunda e intensa, enfocada en las zonas clave del rostro, el cuello y el escote. Este tratamiento actúa regulando los niveles de hidratación en la epidermis, logrando que tu piel alcance su máxima capacidad de retención de agua.</p>
-                            <p>Gracias a su fórmula avanzada, aporta hidratación duradera, dejando tu piel suave, flexible y revitalizada. Es ideal para todo tipo de pieles ya que contribuye a restaurar y mantener el equilibrio hídrico natural. Una piel bien hidratada no solo se siente más saludable, sino que también luce visiblemente más luminosa y radiante.</p>
+                            <p>Nuestros tratamientos hidratantes están diseñados para proporcionar una <strong>nutrición profunda</strong> e intensa, enfocada en las zonas clave del <strong>rostro, el cuello y el escote</strong>. Este tratamiento actúa regulando los niveles de hidratación en la epidermis, logrando que tu piel alcance su máxima capacidad de retención de agua.</p>
+                            <p>Gracias a su fórmula avanzada, aporta hidratación duradera, dejando tu <strong>piel suave, flexible y revitalizada</strong>. Es ideal para <strong>todo tipo de pieles</strong> ya que contribuye a restaurar y mantener el equilibrio hídrico natural. Una piel bien hidratada no solo se siente más saludable, sino que también luce visiblemente más <strong>luminosa y radiante</strong>.</p>
                             
                         </div>
                     </div>
