@@ -125,9 +125,9 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Balneoterapia</h2>
-                            <p>En Rosma Belleza te ofrecemos un tratamiento de balneoterapia que consiste en la inmersión en agua caliente que puede realizarse con o sin masaje.</p>
-                            <p>El efecto térmico del agua mejora la circulación sanguínea, reduce la inflamación y relaja los músculos.</p>
-                            <p>Esta agua enriquecida con minerales son absorbidos a través de la piel, proporcionando un efecto terapéutico detoxinante, equilibrante y energetizante, potenciando los resultados en nuestros tratamientos reductores.</p>
+                            <p>En <strong>Rosma Belleza</strong> te ofrecemos un tratamiento de <strong>balneoterapia</strong> que consiste en la <strong>inmersión</strong> en <strong>agua</strong> caliente que puede realizarse con o sin <strong>masaje</strong>.</p>
+                            <p>El efecto térmico del agua <strong>mejora</strong> la <strong>circulación</strong> sanguínea, <strong>reduce la inflamación</strong> y relaja los músculos.</p>
+                            <p>Esta agua enriquecida con minerales son absorbidos a través de la piel, proporcionando un <strong>efecto</strong> terapéutico <strong>detoxinante, equilibrante y energetizante</strong>, potenciando los resultados en nuestros <strong>tratamientos reductores</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->

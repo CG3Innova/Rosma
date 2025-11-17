@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tinte de pestañas y cejas: Color y cuidado para resaltar tu mirada</h2>
-                            <p>Nuestro servicio de tinte de pestañas y cejas está diseñado para aportar color y definición, realzando la intensidad de tu mirada de manera natural. Utilizamos una formulación cuidada y rica en principios activos que nutren y protegen el vello, asegurando un resultado duradero y saludable.</p>
-                            <p>Los tonos están adaptados a tus necesidades, permitiendo encontrar el color perfecto para complementar tu estilo y rasgos faciales. Ya sea que busques intensificar tus pestañas o definir tus cejas, nuestro tinte proporciona un acabado impecable que destaca tu belleza sin necesidad de maquillaje diario. Confía en nuestro tratamiento para lograr pestañas y cejas con color vibrante y natural, manteniendo la salud del vello gracias a su formulación nutritiva.</p>
+                            <p>Nuestro servicio de <strong>tinte de pestañas y cejas</strong> está diseñado para aportar <strong>color</strong> y <strong>definición</strong>, realzando la <strong>intensidad</strong> de tu mirada de manera <strong>natural</strong>. Utilizamos una formulación cuidada y rica en principios activos que <strong>nutren</strong> y <strong>protegen el vello</strong>, asegurando un <strong>resultado duradero</strong> y saludable.</p>
+                            <p>Los <strong>tonos</strong> están adaptados a tus necesidades, permitiendo encontrar el color <strong>perfecto</strong> para complementar tu estilo y <strong>rasgos faciales</strong>. Ya sea que busques <strong>intensificar</strong> tus pestañas o <strong>definir</strong> tus cejas, nuestro tinte proporciona un <strong>acabado impecable</strong> que destaca tu belleza sin necesidad de maquillaje diario. Confía en nuestro tratamiento para lograr pestañas y cejas con color vibrante y natural, manteniendo la salud del vello gracias a su formulación nutritiva.</p>
                         </div>
 
                     </div><!-- Service Detail -->

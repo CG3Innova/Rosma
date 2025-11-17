@@ -122,12 +122,12 @@
                     <div class="service-detail">
                         <div class="image-box">
                             <figure><img src="../../images/servicios/formando-curvas/formando-curvas.webp" alt="Formando Curvas - Rosma Belleza"></figure>
-                        </div> 
+                        </div>
                         <div class="lower-content">
                             <h2>Formando curvas</h2>
-                            <p>En Rosma Belleza, te ofrecemos una amplia gama de tratamientos unisex corporales diseñados para ayudarte a hacer realidad tus objetivos de bienestar y estética. Nos especializamos en el uso de tecnología no invasiva, combinada con terapias manuales y cosmética de vanguardia, para garantizar resultados efectivos y satisfactorios.</p>
-                            <p>Además, adoptamos un enfoque integral en nuestros servicios, proporcionando recomendaciones nutricionales personalizadas que no solo mejorarán tu dieta, sino también tu estilo de vida, asegurando que los resultados obtenidos sean duraderos en el tiempo. Nuestro equipo de expertos está comprometido a guiarte en cada paso del proceso, brindándote el mejor cuidado y atención.</p>
-                            <p>Todos nuestros tratamientos se realizan previa cita de forma personalizada.</p>
+                            <p>En Rosma Belleza, te ofrecemos una amplia gama de <strong>tratamientos unisex</strong> corporales diseñados para ayudarte a hacer realidad tus objetivos de <strong>bienestar y estética</strong>. Nos especializamos en el uso de <strong>tecnología no invasiva</strong>, combinada con <strong>terapias manuales</strong> y <strong>cosmética de vanguardia</strong>, para garantizar <strong>resultados efectivos</strong> y satisfactorios.</p>
+                            <p>Además, adoptamos un <strong>enfoque integral</strong> en nuestros servicios, proporcionando <strong>recomendaciones nutricionales</strong> personalizadas que no solo <strong>mejorarán tu dieta</strong>, sino también tu <strong>estilo de vida</strong>, asegurando que los <strong>resultados</strong> obtenidos sean <strong>duraderos</strong> en el tiempo. Nuestro equipo de expertos está comprometido a guiarte en cada paso del proceso, brindándote el mejor cuidado y atención.</p>
+                            <p>Todos nuestros <strong>tratamientos</strong> se realizan <strong>previa cita</strong> de forma personalizada.</p>
                         </div>
 
                     </div><!-- Service Detail -->

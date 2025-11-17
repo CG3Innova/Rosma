@@ -125,9 +125,9 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Exprésate con tu maquillaje</h2>
-                            <p>En Rosma Belleza hemos seleccionado la línea de maquillaje profesional Jorge de la Garza.</p>
-                            <p>Productos prácticos, versátiles, de larga duración y acabado impecable. Juega con ellos, transfórmate. Verte bien debe ser un objetivo diario.</p>
-                            <p>Los productos están formulados sin crueldad animal y son 100% veganos.</p>
+                            <p>En Rosma Belleza hemos seleccionado la línea de <strong>maquillaje profesional Jorge de la Garza</strong>.</p>
+                            <p><strong>Productos</strong> prácticos, <strong>versátiles</strong>, de <strong>larga duración</strong> y <strong>acabado impecable</strong>. Juega con ellos, transfórmate. Verte bien debe ser un objetivo diario.</p>
+                            <p>Los productos están formulados <strong>sin crueldad animal</strong> y son <strong>100% veganos</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->

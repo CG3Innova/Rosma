@@ -125,12 +125,11 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Para que estés más guapa</h2>
-                            <p>En Rosma Belleza, realzamos tu belleza natural con nuestros tratamientos de maquillaje y cuidado facial diseñados para que te sientas más guapa que nunca. Desde un maquillaje profesional hasta técnicas especializadas como el visagismo de cejas, lifting de pestañas o el tinte para cejas y pestañas, te ofrecemos soluciones personalizadas que destacan lo mejor de ti.</p>
-                            <p>Nuestras expertas en belleza trabajan con precisión y productos de alta calidad para lograr resultados que realcen tus facciones y potencien tu mirada. Ya sea que busques un cambio sutil o un toque más sofisticado, en Rosma Belleza adaptamos cada tratamiento a tus gustos y necesidades, asegurando un acabado perfecto y duradero.</p>
+                            <p>En Rosma Belleza, realzamos tu <strong>belleza natural</strong> con nuestros tratamientos de <strong>maquillaje</strong> y <strong>cuidado facial</strong> diseñados para que te sientas más guapa que nunca. Desde un maquillaje profesional hasta técnicas especializadas como el <strong>visagismo de cejas</strong>, <strong>lifting de pestañas</strong> o el <strong>tinte para cejas y pestañas</strong>, te ofrecemos <strong>soluciones personalizadas</strong> que destacan lo mejor de ti.</p>
+                            <p>Nuestras expertas en belleza trabajan con precisión y productos de alta calidad para lograr resultados que realcen tus facciones y <strong>potencien tu mirada</strong>. Ya sea que busques un cambio sutil o un toque más sofisticado, en Rosma Belleza adaptamos cada tratamiento a tus gustos y necesidades, asegurando un acabado perfecto y duradero.</p>
                             <p>Descubre cómo pequeños detalles pueden marcar una gran diferencia. Ven a Rosma Belleza y déjanos ayudarte a reflejar tu mejor versión. ¡Estamos aquí para que te sientas segura, radiante y espectacular en cada ocasión!</p>
                         </div>
-
-                    </div><!-- Service Detail -->
+                    </div>
                 </div>
 
                 <?php 

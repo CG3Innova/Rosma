@@ -125,10 +125,10 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Laminado de cejas: Tratamiento para moldear y definir hasta las cejas más rebeldes</h2>
-                            <p>El laminado de cejas es el tratamiento ideal para aquellas personas que desean cejas perfectamente moldeadas y definidas. Este procedimiento no solo ayuda a alinear y fijar los vellos en la dirección deseada, sino que también consigue un aspecto más denso y estructurado.</p>
+                            <p>El <strong>laminado de cejas</strong> es el tratamiento ideal para aquellas personas que desean <strong>cejas</strong> perfectamente <strong>moldeadas</strong> y <strong>definidas</strong>. Este procedimiento no solo ayuda a alinear y fijar los vellos en la dirección deseada, sino que también consigue un <strong>aspecto</strong> más <strong>denso</strong> y <strong>estructurado</strong>.</p>
                         </div>
 
-                    </div><!-- Service Detail -->
+                    </div>
                 </div>
 
                 <?php 

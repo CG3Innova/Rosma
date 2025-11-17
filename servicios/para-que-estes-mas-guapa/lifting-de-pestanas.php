@@ -125,10 +125,10 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Lifting de pestañas: eleva y curva las pestañas</h2>
-                            <p>El lifting de pestañas es un tratamiento diseñado para elevar y curvar tus pestañas desde la raíz, creando un efecto natural y sofisticado que realza tu mirada al instante. El resultado es una mirada más abierta y expresiva, con pestañas que se ven más largas y voluminosas, manteniendo un aspecto natural. Ideal para quienes buscan realzar su mirada de forma sutil y elegante, el lifting de pestañas ofrece un acabado duradero y libre de mantenimiento.</p>
+                            <p>El <strong>lifting de pestañas</strong> es un tratamiento diseñado para <strong>elevar</strong> y <strong>curvar</strong> tus pestañas desde la raíz, creando un <strong>efecto natural</strong> y <strong>sofisticado</strong> que realza tu mirada al instante. El resultado es una <strong>mirada</strong> más <strong>abierta</strong> y <strong>expresiva</strong>, con <strong>pestañas</strong> que se ven más <strong>largas y voluminosas</strong>, manteniendo un <strong>aspecto natural</strong>. Ideal para quienes buscan <strong>realzar</strong> su <strong>mirada</strong> de forma sutil y elegante, el lifting de pestañas ofrece un <strong>acabado duradero</strong> y libre de mantenimiento.</p>
                         </div>
 
-                    </div><!-- Service Detail -->
+                    </div>
                 </div>
 
                 <?php 

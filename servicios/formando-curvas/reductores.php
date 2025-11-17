@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Reductores</h2>
-                            <p>Tratamiento integral diseñado para abordar la pérdida de volumen y combatir la celulitis, siendo adecuado tanto para hombres como para mujeres que buscan mejorar su figura y salud. El enfoque del tratamiento va más allá de la simple aplicación de técnicas estéticas.</p>
-                            <p>Nuestro objetivo no es solo ayudar a reducir la grasa y la celulitis, sino también fomentar un estilo de vida más saludable y equilibrado. Con este tratamiento, cada cliente podrá disfrutar de una transformación visible y sostenible en el tiempo, mejorando su autoestima y su calidad de vida.</p>
+                            <p><strong>Tratamiento integral</strong> diseñado para abordar la <strong>pérdida de volumen</strong> y combatir la <strong>celulitis</strong>, siendo adecuado tanto para <strong>hombres</strong> como para <strong>mujeres</strong> que buscan <strong>mejorar</strong> su <strong>figura y salud</strong>. El enfoque del tratamiento va más allá de la simple aplicación de técnicas estéticas.</p>
+                            <p>Nuestro objetivo no es solo ayudar a reducir la grasa y la celulitis, sino también fomentar un <strong>estilo de vida más saludable</strong> y equilibrado. Con este tratamiento, cada cliente podrá disfrutar de una <strong>transformación visible</strong> y sostenible en el tiempo, <strong>mejorando su autoestima</strong> y su <strong>calidad</strong> de <strong>vida</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->

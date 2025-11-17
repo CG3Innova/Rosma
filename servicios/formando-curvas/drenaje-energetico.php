@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Drenaje energético</h2>
-                            <p>Esta técnica, inspirada en los principios de la medicina tradicional china, se centra en favorecer la circulación energética del cuerpo mediante el trabajo en los meridianos. Estos canales son esenciales para el flujo de la fuerza vital, que abarca no solo la sangre y la linfa, sino también el sistema nervioso. Al realizar un masaje específico en estas áreas, se busca armonizar y equilibrar estas energías, promoviendo una sensación de bienestar general.</p>
-                            <p>Este drenaje energético no solo mejora la circulación, sino que también puede contribuir a la liberación de tensiones acumuladas, aumentando la energía vital. A través de esta práctica, se potencia la conexión entre cuerpo y mente, facilitando un estado de equilibrio y paz interior.</p>
+                            <p>Esta técnica, inspirada en los principios de la medicina tradicional china, se centra en <strong>favorecer la circulación</strong> energética del cuerpo mediante el trabajo en los <strong>meridianos</strong>. Estos canales son esenciales para el flujo de la fuerza vital, que abarca no solo la sangre y la linfa, sino también el <strong>sistema nervioso</strong>. Al realizar un <strong>masaje</strong> específico en estas áreas, se busca <strong>armonizar</strong> y equilibrar estas <strong>energías</strong>, promoviendo una sensación de <strong>bienestar general</strong>.</p>
+                            <p>Este <strong>drenaje energético</strong> no solo mejora la <strong>circulación</strong>, sino que también puede contribuir a la liberación de tensiones acumuladas, aumentando la energía vital. A través de esta práctica, se potencia la <strong>conexión</strong> entre <strong>cuerpo</strong> y <strong>mente</strong>, facilitando un estado de equilibrio y paz interior.</p>
                         </div>
 
                     </div><!-- Service Detail -->

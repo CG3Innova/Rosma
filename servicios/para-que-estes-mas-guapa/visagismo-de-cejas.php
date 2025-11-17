@@ -125,7 +125,7 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Visagismo de cejas</h2>
-                            <p>El visagismo de cejas es el arte de diseñar la forma ideal de tus cejas, adaptándolas a las características de tu rostro para realzar tu belleza natural. En nuestro servicio, estudiamos cuidadosamente tus facciones para crear un diseño personalizado que equilibre y armonice tus cejas con el resto de tus rasgos.</p>
+                            <p>El <strong>visagismo de cejas</strong> es el arte de <strong>diseñar</strong> la forma ideal de tus <strong>cejas</strong>, adaptándolas a las <strong>características</strong> de tu <strong>rostro</strong> para realzar tu belleza natural. En nuestro servicio, estudiamos cuidadosamente tus facciones para crear un <strong>diseño personalizado</strong> que equilibre y armonice tus cejas con el resto de tus rasgos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

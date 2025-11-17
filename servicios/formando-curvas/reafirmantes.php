@@ -125,7 +125,7 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Reafirmantes</h2>
-                            <p>Empleamos una variedad de tecnologías de vanguardia diseñadas para elevar, tensar y reafirmar aquellas áreas del cuerpo que han perdido su forma y elasticidad natural debido a factores como: embarazo, pérdidas de peso bruscas, falta de ejercicio y el paso del tiempo. Este enfoque avanzado se centra en restaurar la apariencia de los tejidos y el tono muscular, proporcionando resultados visibles y duraderos.</p>
+                            <p>Empleamos una variedad de <strong>tecnologías de vanguardia</strong> diseñadas para <strong>elevar</strong>, <strong>tensar</strong> y <strong>reafirmar</strong> aquellas áreas del cuerpo que han perdido su forma y elasticidad natural debido a factores como: <strong>embarazo</strong>, <strong>pérdidas de peso</strong> bruscas, <strong>falta de ejercicio</strong> y el paso del tiempo. Este enfoque avanzado se centra en <strong>restaurar</strong> la apariencia de los <strong>tejidos</strong> y el <strong>tono muscular</strong>, proporcionando <strong>resultados visibles y duraderos</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->
