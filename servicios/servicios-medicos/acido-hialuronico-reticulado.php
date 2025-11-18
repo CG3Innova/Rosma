@@ -124,10 +124,10 @@
                             <figure><img src="../../images/servicios/servicios-medicos/acido-hialuronico-reticulado.webp" alt="Ácido hialurónico reticulado - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Ácido hialurónico reticulado Rosma Belleza</h2>
-                            <p>El ácido hialurónico reticulado es una sustancia ampliamente utilizada en medicina estética por su capacidad para restaurar volumen, mejorar contornos y suavizar arrugas de forma natural. A diferencia del ácido hialurónico simple, el reticulado ha sido modificado mediante un proceso que enlaza sus moléculas, dándole una consistencia más densa y duradera. Esta característica lo hace ideal como relleno dérmico en zonas como labios, pómulos, mentón, ojeras y surcos faciales profundos. Además de aportar volumen, hidrata profundamente la piel desde el interior, mejorando su firmeza y elasticidad.</p>
+                            <h2>Ácido hialurónico reticulado</h2>
+                            <p>El <strong>ácido hialurónico reticulado</strong> es una sustancia ampliamente utilizada en medicina estética por su capacidad para restaurar <strong>volumen</strong>, mejorar contornos y <strong>suavizar</strong> arrugas de forma natural. A diferencia del ácido hialurónico simple, el reticulado ha sido modificado mediante un proceso que enlaza sus moléculas, dándole una consistencia más densa y <strong>duradera</strong>. Esta característica lo hace ideal como relleno dérmico en zonas como <strong>labios</strong>, <strong>pómulos</strong>, <strong>mentón</strong>, <strong>ojeras</strong> y <strong>surcos</strong> faciales profundos. Además de aportar volumen, <strong>hidrata</strong> profundamente la piel desde el interior, mejorando su <strong>firmeza</strong> y <strong>elasticidad</strong>.</p>
                             <p>Es un tratamiento mínimamente invasivo, con resultados visibles de forma inmediata y una duración que puede variar entre 6 y 12 meses, dependiendo del área tratada y las características de cada paciente. </p>
-                            <p>Al ser una sustancia biocompatible y reabsorbible, el ácido hialurónico reticulado ofrece una solución segura y eficaz para quienes buscan un rejuvenecimiento facial sin cirugía.</p>
+                            <p>Al ser una sustancia <strong>biocompatible</strong> y <strong>reabsorbible</strong>, el ácido hialurónico reticulado ofrece una solución segura y eficaz para quienes buscan un <strong>rejuvenecimiento</strong> facial sin cirugía.</p>
 
                         </div>
 

@@ -125,10 +125,10 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamientos de cuperosis y telangiectasias</h2>
-                            <p>La cuperosis y las telangiectasias (pequeños capilares dilatados visibles en la superficie de la piel) son alteraciones vasculares que afectan principalmente al rostro, generando enrojecimiento persistente y un aspecto irregular de la piel.</p>
-                            <p>En medicina estética, estos problemas se tratan eficazmente mediante tecnologías como el láser vascular o la luz pulsada intensa (IPL), que actúan cerrando selectivamente los vasos dilatados sin dañar la piel circundante.</p>
-                            <p>El procedimiento es seguro, poco invasivo y mejora notablemente la apariencia del enrojecimiento facial, unificando el tono de la piel y devolviéndole su luminosidad.</p>
-                            <p>Es ideal para personas con piel sensible o con tendencia a la rosácea que desean recuperar un rostro más uniforme y saludable.</p>
+                            <p>La <strong>cuperosis</strong> y las <strong>telangiectasias</strong> (pequeños capilares dilatados visibles en la superficie de la piel) son <strong>alteraciones vasculares</strong> que afectan principalmente al rostro, generando enrojecimiento persistente y un aspecto irregular de la piel.</p>
+                            <p>En medicina estética, estos problemas se tratan eficazmente mediante tecnologías como el <strong>láser vascular</strong> o la <strong>luz pulsada intensa (IPL)</strong>, que actúan cerrando selectivamente los vasos dilatados sin dañar la piel circundante.</p>
+                            <p>El procedimiento es <strong>seguro</strong>, poco invasivo y mejora notablemente la apariencia del enrojecimiento facial, unificando el tono de la piel y devolviéndole su <strong>luminosidad</strong>.</p>
+                            <p>Es ideal para personas con <strong>piel sensible</strong> o con tendencia a la rosácea que desean recuperar un rostro más uniforme y saludable.</p>
                         </div>
 
                     </div><!-- Service Detail -->

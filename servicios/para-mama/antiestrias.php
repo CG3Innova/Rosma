@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Antiestrías</h2>
-                            <p>Gracias a los avances cosmetológicos y técnicos, hoy en día es posible tratar y mitigar visiblemente las estrías de manera eficaz. Estas marcas en la piel, que suelen aparecer debido a cambios rápidos en el cuerpo, como el embarazo, el aumento de peso o el crecimiento, pueden ser motivo de preocupación para muchas personas. En este campo, es fundamental prestar atención tanto al tratamiento preventivo como al correctivo, especialmente en las manifestaciones más incipientes.</p>
-                            <p>Al abordar las estrías en sus primeras etapas, se pueden obtener mejores resultados y evitar que se tornen más profundas y notorias. Los tratamientos actuales incluyen terapias tópicas, tratamientos de cosmetología reforzados con aparatología, todas diseñadas para mejorar la textura de la piel y reducir la visibilidad de estas marcas</p>
+                            <p>Gracias a los avances cosmetológicos y técnicos, hoy en día es posible tratar y mitigar visiblemente las estrías de manera eficaz. Estas marcas en la piel, que suelen aparecer debido a cambios rápidos en el cuerpo, como el <strong>embarazo</strong>, el <strong>aumento de peso</strong> o el <strong>crecimiento</strong>, pueden ser motivo de preocupación para muchas personas. En este campo, es fundamental prestar atención tanto al <strong>tratamiento preventivo</strong> como al <strong>correctivo</strong>, especialmente en las manifestaciones más incipientes.</p>
+                            <p>Al abordar las estrías en sus primeras etapas, se pueden obtener mejores resultados y evitar que se tornen más profundas y notorias. Los tratamientos actuales incluyen terapias tópicas, tratamientos de <strong>cosmetología</strong> reforzados con <strong>aparatología</strong>, todas diseñadas para mejorar la textura de la piel y reducir la visibilidad de estas marcas</p>
                         </div>
 
                     </div><!-- Service Detail -->

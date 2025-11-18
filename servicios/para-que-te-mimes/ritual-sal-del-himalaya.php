@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Ritual sal del Himalaya</h2>
-                            <p>Descubre un ritual exclusivo que aprovecha las propiedades de la sal natural e integral del Himalaya, reconocida como una poderosa terapia natural. Esta sal se distingue por su singular composición y estructura, lo que le confiere notables beneficios detoxificantes, reequilibrantes y energizantes. Al integrar este ritual en tu bienestar, experimentarás una profunda purificación y fortalecimiento de tu cuerpo.</p>
-                            <p>La sal del Himalaya es conocida por su capacidad para aliviar dolores musculares, así como por estimular el metabolismo, facilitando así un proceso de revitalización integral. En el ámbito emocional, actúa como un bálsamo, aliviando bloqueos, confusiones y estados de ansiedad, promoviendo un estado de calma y bienestar. Sumérgete en esta experiencia transformadora y redescubre la armonía en tu cuerpo y mente.</p>
+                            <p>Descubre un <strong>ritual exclusivo</strong> que aprovecha las propiedades de la sal natural e integral del Himalaya, reconocida como una poderosa <strong>terapia natural</strong>. Esta sal se distingue por su singular composición y estructura, lo que le confiere notables beneficios <strong>detoxificantes</strong>, <strong>reequilibrantes</strong> y <strong>energizantes</strong>. Al integrar este ritual en tu bienestar, experimentarás una profunda purificación y fortalecimiento de tu cuerpo.</p>
+                            <p>La <strong>sal del Himalaya</strong> es conocida por su capacidad para aliviar dolores musculares, así como por estimular el metabolismo, facilitando así un proceso de revitalización integral. En el ámbito emocional, actúa como un bálsamo, aliviando bloqueos, confusiones y estados de ansiedad, promoviendo un estado de <strong>calma</strong> y <strong>bienestar</strong>. Sumérgete en esta experiencia transformadora y redescubre la armonía en tu cuerpo y mente.</p>
                         </div>
 
                     </div><!-- Service Detail -->

@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Preparto / Postparto</h2>
-                            <p>Te ayudamos a preparar tu cuerpo para uno de los momentos más importantes de tu vida: el parto. Nuestro enfoque integral se centra en ofrecerte un tratamiento personalizado que te ayude a sentirte en forma y en equilibrio durante esta etapa tan especial. Con técnicas no invasivas, trabajamos para que tu cuerpo esté listo para el gran día, minimizando el estrés y promoviendo una experiencia más positiva.</p>
-                            <p>Además, después del nacimiento de tu bebé, te ofrecemos un tratamiento integral que apoya tu recuperación. Nuestro objetivo es ayudarte a restablecer tu figura y bienestar de manera natural y efectiva, permitiéndote disfrutar plenamente de la maternidad. Nuestro equipo de expertos está a tu disposición para brindarte el acompañamiento que necesitas.</p>
+                            <p>Te ayudamos a preparar tu cuerpo para uno de los momentos más importantes de tu vida: el parto. Nuestro enfoque <strong>integral</strong> se centra en ofrecerte un <strong>tratamiento personalizado</strong> que te ayude a sentirte en <strong>forma</strong> y en <strong>equilibrio</strong> durante esta etapa tan especial. Con técnicas no invasivas, trabajamos para que tu cuerpo esté listo para el gran día, minimizando el estrés y promoviendo una experiencia más positiva.</p>
+                            <p>Además, después del nacimiento de tu bebé, te ofrecemos un tratamiento integral que apoya tu <strong>recuperación</strong>. Nuestro objetivo es ayudarte a restablecer tu figura y bienestar de manera <strong>natural</strong> y <strong>efectiva</strong>, permitiéndote disfrutar plenamente de la <strong>maternidad</strong>. Nuestro equipo de expertos está a tu disposición para brindarte el acompañamiento que necesitas.</p>
                         </div>
 
                     </div><!-- Service Detail -->

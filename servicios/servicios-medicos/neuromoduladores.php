@@ -124,10 +124,10 @@
                             <figure><img src="../../images/servicios/servicios-medicos/neuromoduladores.webp" alt="Neuromoduladores - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Neuromoduladores Rosma Belleza</h2>
-                            <p>Los neuromoduladores son un tratamiento que se aplica mediante pequeñas infiltraciones actuando sobre los músculos faciales implicados en la formación de arrugas, especialmente en el tercio superior. El más conocido es la toxina botulínica tipo A, comúnmente utilizada en medicina estética para suavizar arrugas de expresión como las líneas en la frente, entrecejo y patas de gallo.</p>
-                            <p>Los neuromoduladores ayudan a lograr un aspecto más relajado, rejuvenecido y natural, sin perder la expresividad del rostro en una sola sesión de pocos minutos permitiéndote seguir con tu día día, con una duración aproximada de 4 a 6 meses.</p>
-                            <p>Este tratamiento se realiza previa evaluación personalizada en consulta.</p>
+                            <h2>Neuromoduladores</h2>
+                            <p>Los <strong>neuromoduladores</strong> son un tratamiento que se aplica mediante pequeñas <strong>infiltraciones</strong> actuando sobre los músculos faciales implicados en la formación de <strong>arrugas</strong>, especialmente en el tercio superior. El más conocido es la <strong>toxina botulínica</strong> tipo A, comúnmente utilizada en medicina estética para suavizar arrugas de expresión como las líneas en la <strong>frente</strong>, <strong>entrecejo</strong> y <strong>patas de gallo</strong>.</p>
+                            <p>Los <strong>neuromoduladores</strong> ayudan a lograr un aspecto más relajado, rejuvenecido y <strong>natural</strong>, sin perder la expresividad del rostro en una sola sesión de pocos minutos permitiéndote seguir con tu día día, con una duración aproximada de 4 a 6 meses.</p>
+                            <p>Este tratamiento se realiza previa <strong>evaluación personalizada</strong> en consulta.</p>
 
                         </div>
 

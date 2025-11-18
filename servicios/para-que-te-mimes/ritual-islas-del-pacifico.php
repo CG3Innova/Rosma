@@ -125,14 +125,14 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Ritual islas del Pacífico</h2>
-                            <p>Escápate, durante un tiempo de ritual, a las paradisíacas islas del Pacífico y descubre, de escala en escala, las inestimables riquezas de la Polinesia. Te esperan atolones salvajes con paisajes idílicos, rituales ancestrales y fauna marina protegida. Una sensación de relajación y evasión te invade, invitándote a desconectar de la rutina diaria.</p>
+                            <p>Escápate, durante un tiempo de ritual, a las paradisíacas islas del Pacífico y descubre, de escala en escala, las inestimables riquezas de la Polinesia. Te esperan atolones salvajes con paisajes idílicos, rituales ancestrales y fauna marina protegida. Una sensación de <strong>relajación</strong> y <strong>evasión</strong> te invade, invitándote a desconectar de la rutina diaria.</p>
                             <p>Este ritual completo consta de tres etapas diseñadas para rejuvenecer cuerpo y mente:</p>
                             <ul style="margin-bottom: 30px;">
                                 <li style="list-style: inside;">Bain Eau des Lagons: Parada en Manihi, la encantadora isla de las lagunas, donde te sumergirás en aguas cristalinas.</li>
-                                <li style="list-style: inside;">Delicioso exfoliante: Escala en Taha’a, conocida como la Isla de la Vainilla, donde un exfoliante natural revitaliza tu piel.</li>
-                                <li style="list-style: inside;">Masaje Mahana: Escala en Bora Bora, la Isla de Arena Blanca, donde disfrutarás de un masaje que te transportará a la calma total.</li>
+                                <li style="list-style: inside;">Delicioso <strong>exfoliante</strong>: Escala en Taha’a, conocida como la Isla de la Vainilla, donde un exfoliante natural revitaliza tu piel.</li>
+                                <li style="list-style: inside;"><strong>Masaje</strong> Mahana: Escala en Bora Bora, la Isla de Arena Blanca, donde disfrutarás de un masaje que te transportará a la <strong>calma</strong> total.</li>
                             </ul>
-                            <p>Este ritual está destinado a todas las personas estresadas que anhelan un merecido descanso de la vida cotidiana.</p>
+                            <p>Este ritual está destinado a todas las personas <strong>estresadas</strong> que anhelan un merecido <strong>descanso</strong> de la vida cotidiana.</p>
                         </div>
 
                     </div><!-- Service Detail -->

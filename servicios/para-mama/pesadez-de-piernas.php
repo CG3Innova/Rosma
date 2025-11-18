@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Pesadez de piernas</h2>
-                            <p>La calidad de nuestro sistema circulatorio está influenciado por diversos factores tanto endógenos (genéticos, hormonales…) como exógenos (hábitos de vida, medicación…). Para prevenir las consecuencias molestas y antiestéticas que pueden surgir, es fundamental adoptar buenos hábitos de salud. Esto incluye la práctica regular de ejercicio, una alimentación equilibrada y la incorporación de técnicas de drenaje linfático, que en conjunto ayudan a mantener las piernas ligeras y saludables.</p>
-                            <p>Este tratamiento, tanto puntual como preventivo, está diseñado para aliviar la sensación de pesadez en las piernas. Su acción es antiinflamatoria, drenante y vascularizante, lo que contribuye a mejorar la circulación sanguínea y reducir la inflamación.</p>
+                            <p>La calidad de nuestro sistema circulatorio está influenciado por diversos factores tanto <strong>endógenos</strong> (genéticos, hormonales…) como <strong>exógenos</strong> (hábitos de vida, medicación…). Para <strong>prevenir</strong> las consecuencias molestas y antiestéticas que pueden surgir, es fundamental adoptar buenos <strong>hábitos de salud</strong>. Esto incluye la práctica regular de ejercicio, una alimentación equilibrada y la incorporación de técnicas de <strong>drenaje linfático</strong>, que en conjunto ayudan a mantener las piernas <strong>ligeras</strong> y <strong>saludables</strong>.</p>
+                            <p>Este tratamiento, tanto puntual como preventivo, está diseñado para aliviar la sensación de pesadez en las piernas. Su acción es <strong>antiinflamatoria</strong>, <strong>drenante</strong> y <strong>vascularizante</strong>, lo que contribuye a mejorar la circulación sanguínea y reducir la inflamación.</p>
                         </div>
 
                     </div><!-- Service Detail -->

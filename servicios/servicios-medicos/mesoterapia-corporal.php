@@ -124,9 +124,9 @@
                             <figure><img src="../../images/servicios/servicios-medicos/mesoterapia-corporal.webp" alt="Mesoterapia Corporal - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Mesoterapia corporal Rosma Belleza</h2>
-                            <p>La mesoterapia corporal es un tratamiento médico-estético mínimamente invasivo que consiste en la aplicación de microinyecciones superficiales con una combinación de vitaminas, aminoácidos, minerales y sustancias lipolíticas directamente en las zonas a tratar.</p>
-                            <p>Su objetivo es mejorar la circulación, reducir la grasa localizada, combatir la celulitis y reafirmar la piel, ayudando a lograr una silueta más definida y una piel visiblemente más lisa y tonificada. Se aplica comúnmente en áreas como abdomen, muslos, glúteos, brazos y flancos, y suele formar parte de un enfoque integral personalizado.</p>
+                            <h2>Mesoterapia corporal</h2>
+                            <p>La <strong>mesoterapia</strong> corporal es un tratamiento médico-estético mínimamente invasivo que consiste en la aplicación de <strong>microinyecciones</strong> superficiales con una combinación de vitaminas, aminoácidos, minerales y sustancias <strong>lipolíticas</strong> directamente en las zonas a tratar.</p>
+                            <p>Su objetivo es mejorar la circulación, reducir la <strong>grasa localizada</strong>, combatir la <strong>celulitis</strong> y reafirmar la piel, ayudando a lograr una silueta más definida y una piel visiblemente más lisa y tonificada. Se aplica comúnmente en áreas como abd<strong></strong>omen, <strong>muslos</strong>, <strong>glúteos</strong>, <strong>brazos</strong> y <strong>flancos</strong>, y suele formar parte de un enfoque integral personalizado.</p>
                             <p>Es un procedimiento seguro, con mínima molestia y sin tiempo de inactividad, ideal para quienes buscan mejorar su figura sin recurrir a cirugías.</p>
                         </div>
 

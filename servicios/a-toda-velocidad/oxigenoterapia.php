@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Oxigenoterapia: Un soplo de vitalidad para tu piel</h2>
-                            <p>La oxigenoterapia es un tratamiento no invasivo que utiliza el oxígeno, el elemento esencial para la vida y la salud de nuestras células, para revitalizar y mejorar su funcionamiento. Este tratamiento proporciona una activación celular natural, permitiendo que las células trabajen en condiciones óptimas y favoreciendo su regeneración.</p>
-                            <p>La oxigenoterapia es un tratamiento no invasivo que utiliza el oxígeno, el elemento esencial para la vida y la salud de nuestras células, para revitalizar y mejorar su funcionamiento. Este tratamiento proporciona una activación celular natural, permitiendo que las células trabajen en condiciones óptimas y favoreciendo su regeneración.</p>
+                            <p>La <strong>oxigenoterapia</strong> es un tratamiento no invasivo que utiliza el <strong>oxígeno</strong>, el elemento esencial para la vida y la salud de nuestras <strong>células</strong>, para <strong>revitalizar</strong> y mejorar su funcionamiento. Este tratamiento proporciona una <strong>activación celular</strong> natural, permitiendo que las células trabajen en condiciones óptimas y favoreciendo su <strong>regeneración</strong>.</p>
+                            <p>La oxigenoterapia es un tratamiento no invasivo que utiliza el oxígeno, el elemento esencial para la vida y la salud de nuestras células, para <strong>revitalizar</strong> y mejorar su funcionamiento. Este <strong>tratamiento</strong> proporciona una <strong>activación celular</strong> natural, permitiendo que las células trabajen en condiciones óptimas y favoreciendo su <strong>regeneración</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->

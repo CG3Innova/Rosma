@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento de contorno de ojos</h2>
-                            <p>Descubre los diversos tratamientos diseñados para ayudarte a lucir tu mejor mirada. En nuestro centro, combinamos lo último en cosmética con tecnología especializada para ofrecerte soluciones efectivas y personalizadas.</p>
-                            <p>Desde la reducción de bolsas y ojeras hasta el tratamiento de arrugas y líneas de expresión, cada opción está orientada a revitalizar la piel alrededor de tus ojos. Además, un diagnóstico exhaustivo realizado por nuestros expertos asegura que recibas el tratamiento más adecuado para tus necesidades específicas.</p>
+                            <p>Descubre los diversos tratamientos diseñados para ayudarte a lucir <strong>tu mejor mirada</strong>. En nuestro centro, combinamos lo último en cosmética con tecnología especializada para ofrecerte soluciones <strong>efectivas</strong> y <strong>personalizadas</strong>.</p>
+                            <p>Desde la <strong>reducción</strong> de <strong>bolsas</strong> y <strong>ojeras</strong> hasta el tratamiento de <strong>arrugas</strong> y <strong>líneas de expresión</strong>, cada opción está orientada a <strong>revitalizar</strong> la piel alrededor de tus ojos. Además, un diagnóstico exhaustivo realizado por nuestros expertos asegura que recibas el tratamiento más adecuado para tus <strong>necesidades específicas</strong>.</p>
                         </div>
 
                     </div><!-- Serviceßß Detail -->

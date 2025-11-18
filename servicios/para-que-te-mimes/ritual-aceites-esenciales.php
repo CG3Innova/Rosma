@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Ritual aceites esenciales</h2>
-                            <p>Regálate un momento de tranquilidad y conexión contigo mismo a través de un masaje que te brindará un profundo placer y bienestar. Los aceites esenciales, extraídos de las plantas más puras, poseen extraordinarias propiedades nutritivas y calmantes que los hacen ideales para todo tipo de pieles, incluidas las más sensibles.</p>
-                            <p>Disfruta de su efecto antiestrés y energizante, permitiendo que cada gota trabaje en armonía con tu cuerpo y mente. Para intensificar esta experiencia, potencia tus sentidos eligiendo el aroma que más te atraiga; ya sea la suavidad de la lavanda, la frescura del eucalipto o la calidez de la naranja, cada esencia te transportará a un estado de serenidad. Deja que el poder de los aceites esenciales transforme tu rutina de cuidado personal en un ritual revitalizante.</p>
+                            <p>Regálate un momento de tranquilidad y conexión contigo mismo a través de un <strong>masaje</strong> que te brindará un profundo <strong>placer</strong> y <strong>bienestar</strong>. Los aceites esenciales, extraídos de las plantas más puras, poseen extraordinarias propiedades <strong>nutritivas</strong> y <strong>calmantes</strong> que los hacen ideales para todo tipo de pieles, incluidas las más sensibles.</p>
+                            <p>Disfruta de su efecto <strong>antiestrés</strong> y <strong>energizante</strong>, permitiendo que cada gota trabaje en armonía con tu cuerpo y mente. Para intensificar esta experiencia, potencia tus sentidos eligiendo el aroma que más te atraiga; ya sea la suavidad de la lavanda, la frescura del eucalipto o la calidez de la naranja, cada esencia te transportará a un estado de serenidad. Deja que el poder de los aceites esenciales transforme tu rutina de cuidado personal en un ritual revitalizante.</p>
                         </div>
 
                     </div><!-- Service Detail -->

@@ -125,13 +125,13 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Ritual mar de las indias</h2>
-                            <p>Descubre una verdadera experiencia sensorial inspirada en tradiciones indias con nuestro exclusivo ritual reequilibrante. Este nuevo tratamiento invita tanto al cuerpo como a la mente a desconectarse del ajetreo diario, permitiéndote dejarte llevar y reequilibrar tus energías. Utilizamos aceite tibio y una combinación de maniobras suaves y envolventes, junto con técnicas tónicas y estiramientos, para alcanzar una armonía física y psicológica integral.</p>
+                            <p>Descubre una verdadera experiencia sensorial inspirada en tradiciones indias con nuestro exclusivo ritual <strong>reequilibrante</strong>. Este nuevo tratamiento invita tanto al cuerpo como a la mente a <strong>desconectarse</strong> del ajetreo diario, permitiéndote dejarte llevar y reequilibrar tus energías. Utilizamos aceite tibio y una combinación de <strong>maniobras suaves</strong> y envolventes, junto con técnicas tónicas y <strong>estiramientos</strong>, para alcanzar una armonía física y psicológica integral.</p>
                             <p>Este ritual completo incluye:</p>
                             <ul style="margin-bottom: 30px;">
-                                <li style="list-style: inside;">Exfoliante de Jengibre: Enriquecido con notas de sándalo y ámbar, deja la piel aterciopelada y radiante, mientras la mente se libera del estrés cotidiano.</li>
-                                <li style="list-style: inside;">Masaje en Bañera: Disfruta de un masaje equilibrante en un baño lácteo, perfumado con un delicado aroma que prepara tanto el cuerpo como la mente para una profunda relajación y escapada del estrés.</li>
+                                <li style="list-style: inside;"><strong>Exfoliante</strong> de Jengibre: Enriquecido con notas de sándalo y ámbar, deja la piel aterciopelada y radiante, mientras la mente se libera del estrés cotidiano.</li>
+                                <li style="list-style: inside;"><strong>Masaje</strong> en Bañera: Disfruta de un masaje equilibrante en un baño lácteo, perfumado con un delicado aroma que prepara tanto el cuerpo como la mente para una profunda <strong>relajación</strong> y escapada del estrés.</li>
                             </ul>
-                            <p>Este ritual está diseñado para todas las personas que buscan serenidad y un estado de armonía en su vida.</p>
+                            <p>Este ritual está diseñado para todas las personas que buscan serenidad y un estado de <strong>armonía</strong> en su vida.</p>
                         </div>
 
                     </div><!-- Service Detail -->

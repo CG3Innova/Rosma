@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento de senos</h2>
-                            <p>El tratamiento re-equilibrante de aporte nutricional está diseñado específicamente para abordar las necesidades de la piel del busto, contribuyendo a su reafirmación y modelación muscular. Este enfoque integral no solo busca realzar la belleza natural, sino también tonificar la zona, permitiendo a las mujeres lucir un pecho bonito y bien cuidado.</p>
-                            <p>Mantener y cuidar el busto debe ser un punto de atención prioritario, ya que esta parte del cuerpo no solo tiene un significado estético, sino que también representa un símbolo de feminidad y confianza. Con este tratamiento, podrás disfrutar de una piel más firme y radiante, y experimentar la satisfacción de realzar tu belleza de manera natural y efectiva.</p>
+                            <p>El tratamiento re-equilibrante de aporte nutricional está diseñado específicamente para abordar las necesidades de la piel del busto, contribuyendo a su <strong>reafirmación</strong> y <strong>modelación muscular</strong>. Este enfoque <strong>integral</strong> no solo busca realzar la <strong>belleza natural</strong>, sino también tonificar la zona, permitiendo a las mujeres lucir un pecho bonito y bien cuidado.</p>
+                            <p>Mantener y cuidar el busto debe ser un punto de atención prioritario, ya que esta parte del cuerpo no solo tiene un significado estético, sino que también representa un símbolo de <strong>feminidad</strong> y <strong>confianza</strong>. Con este tratamiento, podrás disfrutar de una piel más firme y radiante, y experimentar la satisfacción de realzar tu belleza de manera <strong>natural</strong> y <strong>efectiva</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->

@@ -125,10 +125,10 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Tratamiento contra la hiperhidrosis Rosma Belleza</h2>
-                            <p>El tratamiento con neuromoduladores, como la toxina botulínica tipo A, es una solución altamente efectiva y segura para controlar la hiperhidrosis, una condición que provoca sudoración excesiva en zonas como las axilas, manos, pies o rostro.</p>
+                            <p>El tratamiento con <strong>neuromoduladores</strong>, como la <strong>toxina botulínica</strong> tipo A, es una solución altamente <strong>efectiva</strong> y <strong>segura</strong> para controlar la <strong>hiperhidrosis</strong>, una condición que provoca <strong>sudoración excesiva</strong> en zonas como las <strong>axilas, manos, pies o rostro</strong>.</p>
                             <p>Este procedimiento consiste en la aplicación de microinyecciones en la zona afectada, bloqueando temporalmente las señales nerviosas que estimulan las glándulas sudoríparas.</p>
-                            <p>Como resultado, se reduce significativamente la producción de sudor, mejorando la calidad de vida y la confianza del paciente.</p>
-                            <p>Es un tratamiento ambulatorio, mínimamente invasivo y con resultados visibles a los pocos días, que pueden durar entre 4 y 8 meses.</p>
+                            <p>Como resultado, se <strong>reduce</strong> significativamente la producción de <strong>sudor</strong>, mejorando la calidad de vida y la <strong>confianza del paciente</strong>.</p>
+                            <p>Es un tratamiento ambulatorio, <strong>mínimamente invasivo</strong> y con resultados visibles a los pocos días, que pueden durar entre 4 y 8 meses.</p>
 
                         </div>
 

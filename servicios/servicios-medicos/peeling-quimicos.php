@@ -125,9 +125,9 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Peeling químicos (TCA, AHA, SALICILICOS)</h2>
-                            <p>Los peelings químicos médicos son tratamientos estéticos no invasivos que consisten en la aplicación controlada de soluciones químicas sobre la piel, con el objetivo de renovar sus capas superficiales, mejorar su textura y estimular la regeneración celular.</p>
-                            <p>Dependiendo de su profundidad (superficial, media o profunda), los peelings pueden tratar eficazmente problemas como manchas solares, acné, poros dilatados, arrugas finas, piel opaca o envejecida. Al eliminar células muertas y promover una piel nueva y más uniforme, se consigue un rostro visiblemente más luminoso, suave y rejuvenecido. </p>
-                            <p>Estos tratamientos deben ser realizados por profesionales capacitados y con productos médicos específicos, adaptados al tipo de piel y necesidades de cada paciente realizando antes del peeling una consulta previa.</p>
+                            <p>Los <strong>peelings químicos</strong> médicos son tratamientos estéticos <strong>no invasivos</strong> que consisten en la aplicación controlada de soluciones químicas sobre la piel, con el objetivo de <strong>renovar</strong> sus capas superficiales, mejorar su textura y estimular la <strong>regeneración celular</strong>.</p>
+                            <p>Dependiendo de su profundidad (superficial, media o profunda), los peelings pueden tratar eficazmente problemas como <strong>manchas</strong> solares, <strong>acné</strong>, poros dilatados, <strong>arrugas</strong> finas, piel opaca o envejecida. Al eliminar células muertas y promover una piel nueva y más uniforme, se consigue un <strong>rostro</strong> visiblemente más <strong>luminoso</strong>, <strong>suave</strong> y <strong>rejuvenecido</strong>. </p>
+                            <p>Estos tratamientos deben ser realizados por profesionales capacitados y con productos médicos específicos, adaptados al tipo de piel y necesidades de cada paciente realizando antes del peeling una <strong>consulta previa</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->

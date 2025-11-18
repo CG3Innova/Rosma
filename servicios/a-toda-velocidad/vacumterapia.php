@@ -125,9 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Vacumterapia: mejora tu circulación y reduce volumen</h2>
-                            <p>La circulación linfática y sus disfunciones son la causa de muchas alteraciones estéticas (piel de naranja, celulitis, retención de líquidos…). La Vacumterapia es una terapia subdérmica no invasiva que mejora el drenaje linfático, moviliza la grasa, estimula la irrigación sanguínea, oxigena y mejora la calidad de los tejidos favoreciendo la pérdida de volumen. La combinación de las ventosas y nuestras técnicas en bioenergética optimizan sus resultados, consiguiendo de esta manera aumentar sus beneficios y trabajar de manera integral.</p>
+                            <p>La <strong>circulación linfática</strong> y sus disfunciones son la <strong>causa</strong> de muchas <strong>alteraciones estéticas</strong> (piel de naranja, celulitis, retención de líquidos…). La <strong>Vacumterapia</strong> es una terapia subdérmica no invasiva que <strong>mejora</strong> el <strong>drenaje linfático</strong>, <strong>moviliza la grasa</strong>, <strong>estimula</strong> la irrigación sanguínea, oxigena y mejora la calidad de los tejidos favoreciendo la pérdida de volumen. La combinación de las ventosas y nuestras técnicas en bioenergética optimizan sus <strong>resultados</strong>, consiguiendo de esta manera <strong>aumentar</strong> sus <strong>beneficios</strong> y trabajar de manera <strong>integral</strong>.</p>
                         </div>
-
                     </div><!-- Service Detail -->
                 </div>
 

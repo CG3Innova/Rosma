@@ -125,9 +125,9 @@
                         </div> 
                         <div class="lower-content">
                             <h2>On Face: Estimula, tonifica y drena</h2>
-                            <p>On Face Myolifting Facial es el primer dispositivo no invasivo de lifting muscular desarrollado en España, que combina tres tecnologías avanzadas: neuroestimulación, radiofrecuencia y microcorrientes. Este innovador tratamiento trabaja de manera simultánea para lograr resultados visibles en poco tiempo, tonificando y rejuveneciendo la piel del rostro de forma natural.</p>
-                            <p>El tratamiento ON-FACE trabaja como sistema preventivo, mantenimiento o correctivo.</p>
-                            <p>Ejercita todos los músculos faciales mediante myo-estimulación, restaurando el soporte de los tejidos y elevando la estructura muscular. Al contraer los músculos, se aumenta la densidad y calidad de la musculatura del rostro, proporcionando un efecto lifting visible y duradero. Es hasta 100 veces más efectivo que cualquier ejercicio manual, lo que lo convierte en un tratamiento revolucionario para mejorar la firmeza y el contorno del rostro. </p>
+                            <p><strong>On Face Myolifting Facial</strong> es el primer dispositivo <strong>no invasivo</strong> de <strong>lifting muscular</strong> desarrollado en España, que combina tres tecnologías avanzadas: <strong>neuroestimulación</strong>, <strong>radiofrecuencia</strong> y <strong>microcorrientes</strong>. Este innovador tratamiento trabaja de manera simultánea para lograr resultados visibles en poco tiempo, tonificando y rejuveneciendo la piel del rostro de forma natural.</p>
+                            <p>El tratamiento <strong>ON-FACE</strong> trabaja como sistema <strong>preventivo</strong>, <strong>mantenimiento</strong> o <strong>correctivo</strong>.</p>
+                            <p>Ejercita todos los músculos faciales mediante <strong>myo-estimulación</strong>, restaurando el soporte de los tejidos y elevando la estructura muscular. Al contraer los músculos, se aumenta la <strong>densidad</strong> y <strong>calidad</strong> de la musculatura del rostro, proporcionando un efecto <strong>lifting visible</strong> y <strong>duradero</strong>. Es hasta 100 veces más efectivo que cualquier ejercicio manual, lo que lo convierte en un tratamiento revolucionario para mejorar la <strong>firmeza</strong> y el <strong>contorno del rostro</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->

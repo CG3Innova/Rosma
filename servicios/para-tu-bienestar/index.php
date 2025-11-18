@@ -128,9 +128,9 @@
                                 <p>Una alimentación adecuada, con un aporte equilibrado de macro y micronutrientes, es esencial no solo para mantener la salud física, sino también para optimizar el bienestar emocional y mental.</p>
 
                                 <p>La especialista en Nutrición Holística, <strong>Amalia Muñoz Márquez</strong>, realiza una evaluación integral que contempla:<br>
-                                    <li class="listas">Patrones y conductas alimentarias</li>
-                                    <li class="listas">Condiciones laborales y nivel de actividad física (sedentarismo, ritmos circadianos, carga de estrés)</li>
-                                    <li class="listas">Parámetros fisiológicos y antropométricos (peso, talla, composición corporal, entre otros)</li>
+                                    <li class="listas"><strong>Patrones y conductas alimentarias</strong></li>
+                                    <li class="listas"><strong>Condiciones laborales y nivel de actividad física (sedentarismo, ritmos circadianos, carga de estrés)</strong></li>
+                                    <li class="listas"><strong>Parámetros fisiológicos y antropométricos</strong> (peso, talla, composición corporal, entre otros)</li>
                                 </p>
 
                                 <p>A partir de este análisis se elabora un plan nutricional individualizado, con enfoque educativo y terapéutico, diseñado para corregir hábitos perjudiciales que afectan la salud, la estética y el equilibrio emocional.</p>
@@ -138,12 +138,12 @@
                                 <p>Nuestra premisa fundamental es la personalización, garantizando que cada plan sea realista, factible y sostenible en el tiempo, adaptado al contexto y necesidades reales de cada persona.</p>
 
                                 <p>Mediante estrategias de dietoterapia funcional, buscamos:<br>
-                                    <li class="listas">Restablecer la homeostasis metabólica</li>
-                                    <li class="listas">Aumentar la energía vital</li>
-                                    <li class="listas">Mejorar la calidad del sueño</li>
-                                    <li class="listas">Estabilizar el estado de ánimo</li>
-                                    <li class="listas">Reducir la ansiedad y el estrés</li>
-                                    <li class="listas">Favorecer la concentración y claridad mental</li>
+                                    <li class="listas"><strong>Restablecer la homeostasis metabólica</strong></li>
+                                    <li class="listas"><strong>Aumentar la energía vital</strong></li>
+                                    <li class="listas"><strong>Mejorar la calidad del sueño</strong></li>
+                                    <li class="listas"><strong>Estabilizar el estado de ánimo</strong></li>
+                                    <li class="listas"><strong>Reducir la ansiedad y el estrés</strong></li>
+                                    <li class="listas"><strong>Favorecer la concentración y claridad mental</strong></li>
                                 </p>
                                 <p>Este enfoque integral promueve una relación consciente con la alimentación y un estado óptimo de salud física, mental y estética.</p>
 

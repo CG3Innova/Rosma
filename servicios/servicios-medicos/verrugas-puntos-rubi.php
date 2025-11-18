@@ -124,10 +124,10 @@
                             <figure><img src="../../images/servicios/servicios-medicos/verrugas-puntos-rubi.webp" alt="Verrugas y Puntos Rubí - Rosma Belleza"></figure>
                         </div> 
                         <div class="lower-content">
-                            <h2>Tratamiento contra verrugas y puntos rubí Rosma Belleza</h2>
-                            <p>El láser Neodimio-YAG es una tecnología avanzada utilizada en medicina estética para eliminar de forma precisa y segura lesiones cutáneas benignas como verrugas y puntos rubí (angiomas).</p>
+                            <h2>Tratamiento contra verrugas y puntos rubí</h2>
+                            <p>El <strong>láser Neodimio-YAG</strong> es una tecnología avanzada utilizada en medicina estética para eliminar de forma precisa y segura lesiones cutáneas benignas como <strong>verrugas</strong> y <strong>puntos rubí</strong> (angiomas).</p>
                             <p>Este láser actúa mediante una luz altamente concentrada que penetra en la piel y coagula selectivamente los vasos sanguíneos o tejidos afectados, sin dañar la piel circundante.</p>
-                            <p>El tratamiento es rápido, prácticamente indoloro y con un tiempo de recuperación mínimo, permitiendo al paciente retomar sus actividades habituales casi de inmediato.</p>
+                            <p>El tratamiento es <strong>rápido</strong>, prácticamente <strong>indoloro</strong> y con un tiempo de recuperación mínimo, permitiendo al paciente retomar sus actividades habituales casi de inmediato.</p>
                             <p>Los resultados son visibles desde la primera sesión.</p>
                         </div>
 

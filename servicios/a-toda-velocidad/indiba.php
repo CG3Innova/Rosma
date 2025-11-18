@@ -125,14 +125,14 @@
                         </div> 
                         <div class="lower-content">
                             <h2>INDIBA Deep Beauty: Rejuvenece y revitaliza tu piel</h2>
-                            <p>El exclusivo método INDIBA Deep Beauty es una solución innovadora y no invasiva que reequilibra el intercambio celular de iones, ayudando a las células a recuperar su función natural. Gracias a este proceso, la piel recupera su elasticidad, la grasa localizada se reduce, y el flujo de oxígeno entre las células mejora, logrando un rejuvenecimiento visible y duradero desde la primera sesión.</p>
-                            <p>Este tratamiento indoloro se adapta a tus necesidades estéticas, proporcionando resultados sorprendentes de manera natural. Con el Sistema Proionic®, INDIBA ofrece tres niveles de tratamiento con múltiples beneficios:</p>
+                            <p>El exclusivo método <strong>INDIBA Deep Beauty</strong> es una solución innovadora y no invasiva que <strong>reequilibra</strong> el intercambio celular de iones, ayudando a las <strong>células</strong> a recuperar su función natural. Gracias a este proceso, la <strong>piel</strong> recupera su <strong>elasticidad</strong>, la <strong>grasa</strong> localizada se <strong>reduce</strong>, y el flujo de oxígeno entre las células mejora, logrando un <strong>rejuvenecimiento visible</strong> y <strong>duradero</strong> desde la primera sesión.</p>
+                            <p>Este tratamiento <strong>indoloro</strong> se adapta a tus <strong>necesidades</strong> estéticas, proporcionando <strong>resultados</strong> sorprendentes de manera <strong>natural</strong>. Con el Sistema Proionic®, INDIBA ofrece tres niveles de tratamiento con múltiples beneficios:</p>
                             <ul style="margin-bottom: 30px;">
-                                <li style="list-style: inside;">Subtérmico: Estimula el metabolismo celular, mejorando la nutrición y la circulación.</li>
-                                <li style="list-style: inside;">Térmico: Aumenta la microcirculación y la oxigenación de los tejidos, favoreciendo una piel más saludable.</li>
-                                <li style="list-style: inside;">Hipertérmico: Facilita la eliminación de grasas y la recuperación del tejido, depurando y reafirmando la piel.</li>
+                                <li style="list-style: inside;">Subtérmico: <strong>Estimula el metabolismo</strong> celular, mejorando la nutrición y la circulación.</li>
+                                <li style="list-style: inside;">Térmico: <strong>Aumenta</strong> la <strong>microcirculación</strong> y la <strong>oxigenación</strong> de los tejidos, favoreciendo una piel más saludable.</li>
+                                <li style="list-style: inside;">Hipertérmico: Facilita la <strong>eliminación de grasas</strong> y la recuperación del tejido, depurando y <strong>reafirmando la piel</strong>.</li>
                             </ul>
-                            <p>INDIBA Deep Beauty es el tratamiento ideal para quienes desean una piel rejuvenecida, revitalizada y libre de imperfecciones, sin dolor ni procedimientos invasivos.</p>
+                            <p><strong>INDIBA Deep Beauty</strong> es el <strong>tratamiento</strong> ideal para quienes desean una <strong>piel rejuvenecida</strong>, revitalizada y libre de imperfecciones, sin dolor ni procedimientos invasivos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Para que te mimes</h2>
-                            <p>Te ofrecemos un refugio de belleza y bienestar. Nuestro objetivo es ofrecerte una experiencia única.</p>
-                            <p>Te ayudamos a encontrar el equilibrio. Nos preocupamos por tu bienestar integral.</p>
+                            <p>Te ofrecemos un refugio de <strong>belleza</strong> y <strong>bienestar</strong>. Nuestro objetivo es ofrecerte una experiencia única.</p>
+                            <p>Te ayudamos a encontrar el <strong>equilibrio</strong>. Nos preocupamos por tu <strong>bienestar integral</strong>.</p>
                         </div>
 
                     </div><!-- Service Detail -->

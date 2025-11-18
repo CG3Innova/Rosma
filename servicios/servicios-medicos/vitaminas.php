@@ -125,9 +125,9 @@
                         </div>
                         <div class="lower-content">
                             <h2>Vitaminas</h2>
-                            <p>Las infiltraciones de vitaminas, también conocidas como mesoterapia facial, son un tratamiento estético que consiste en la aplicación de microinyecciones superficiales con una combinación de vitaminas, minerales, aminoácidos y ácido hialurónico no reticulado.</p>
-                            <p>Su objetivo es nutrir, hidratar y revitalizar la piel desde el interior, mejorando visiblemente su textura, luminosidad y firmeza.</p>
-                            <p>Están especialmente indicadas para prevenir el envejecimiento cutáneo, combatir la piel apagada, deshidratada o con signos de fatiga, y estimular la producción natural de colágeno y elastina.</p>
+                            <p>Las infiltraciones de <strong>vitaminas</strong>, también conocidas como <strong>mesoterapia facial</strong>, son un tratamiento estético que consiste en la aplicación de <strong>microinyecciones</strong> superficiales con una combinación de vitaminas, minerales, aminoácidos y ácido hialurónico no reticulado.</p>
+                            <p>Su objetivo es <strong>nutrir, hidratar y revitalizar</strong> la piel desde el interior, mejorando visiblemente su textura, <strong>luminosidad y firmeza</strong>.</p>
+                            <p>Están especialmente indicadas para <strong>prevenir el envejecimiento</strong> cutáneo, combatir la piel apagada, deshidratada o con signos de fatiga, y estimular la producción natural de colágeno y elastina.</p>
                             <p>Es un procedimiento seguro, poco invasivo y con resultados progresivos y naturales.</p>
                         </div>
 

@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Escote provocador</h2>
-                            <p>Te ofrecemos tratamientos especializados para el rejuvenecimiento de la zona del escote, cuello, senos y mentón, diseñados para minimizar los efectos del paso del tiempo en estas zonas.</p>
-                            <p>Nuestros servicios combinan técnicas avanzadas y productos de alta calidad para tratar estas áreas delicadas, ayudando a prevenir los signos de envejecimiento y devolviéndole a tu piel el esplendor que se merece. Ya sea que busques reafirmar, hidratar o simplemente revitalizar estas zonas, nuestras expertas en belleza personalizan cada tratamiento para lograr resultados visibles y duraderos.</p>
+                            <p>Te ofrecemos tratamientos <strong>especializados</strong> para el rejuvenecimiento de la zona del <strong>escote</strong>, <strong>cuello</strong>, <strong>senos</strong> y <strong>mentón</strong>, diseñados para minimizar los efectos del paso del tiempo en estas zonas.</p>
+                            <p>Nuestros servicios combinan técnicas avanzadas y productos de alta calidad para tratar estas áreas delicadas, ayudando a <strong>prevenir</strong> los signos de envejecimiento y devolviéndole a tu piel el esplendor que se merece. Ya sea que busques <strong>reafirmar</strong>, <strong>hidratar</strong> o simplemente <strong>revitalizar</strong> estas zonas, nuestras expertas en belleza personalizan cada tratamiento para lograr resultados visibles y duraderos.</p>
                         </div>
 
                     </div><!-- Service Detail -->

@@ -125,9 +125,9 @@
                         </div> 
                         <div class="lower-content">
                             <h2>A toda velocidad</h2>
-                            <p>En Rosma Belleza contamos con aparatología innovadora para ofrecerte los mejores resultados en los tratamientos faciales y corporales. Nuestros tratamientos están enfocados para mejorar la firmeza de la piel, reducir volumen y estimular la circulación… siempre adaptados a tus necesidades específicas.</p>
-                            <p>Gracias a estas tecnologías, logramos un cuidado profundo que rejuvenece y redefine las líneas de tu rostro y cuerpo, devolviéndote la confianza en tu imagen.</p>
-                            <p>Déjate cuidar por nuestras profesionales en un entorno dedicado a tu bienestar. En Rosma Belleza, transformamos tecnología en resultados que se ven y se sienten. ¡Visítanos y descubre cómo la ciencia y la belleza se unen para que luzcas espectacular!</p>
+                            <p>En <strong>Rosma Belleza</strong> contamos con <strong>aparatología innovadora</strong> para ofrecerte los mejores <strong>resultados</strong> en los tratamientos <strong>faciales y corporales</strong>. Nuestros tratamientos están enfocados para mejorar la <strong>firmeza</strong> de la piel, <strong>reducir</strong> volumen y <strong>estimular</strong> la circulación… siempre adaptados a tus necesidades específicas.</p>
+                            <p>Gracias a estas tecnologías, logramos un cuidado profundo que <strong>rejuvenece</strong> y <strong>redefine</strong> las líneas de tu <strong>rostro</strong> y <strong>cuerpo</strong>, devolviéndote la confianza en tu imagen.</p>
+                            <p>Déjate cuidar por nuestras profesionales en un entorno dedicado a tu bienestar. En Rosma Belleza, transformamos <strong>tecnología</strong> en <strong>resultados</strong> que se ven y se sienten. ¡Visítanos y descubre cómo la ciencia y la belleza se unen para que luzcas espectacular!</p>
                         </div>
 
                     </div><!-- Service Detail -->

@@ -125,10 +125,9 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Para mamá</h2>
-                            <p>En Rosma Belleza, sabemos que ser mamá es una experiencia maravillosa, pero también entendemos los cambios que tu cuerpo puede experimentar durante el embarazo y después de él. Por eso, hemos diseñado tratamientos especiales para que las mamás se sientan cómodas, cuidadas y radiantes en cada etapa de esta hermosa aventura.</p>
-                            <p>Nuestros servicios incluyen tratamientos antiestrías que ayudan a mejorar la elasticidad de la piel, terapias para aliviar la pesadez de piernas y un cuidado especial preparto y postparto, adaptado a tus necesidades y pensado para brindarte relajación y bienestar.</p>
-                            <!--<p>Déjate mimar por nuestras expertas, que te acompañarán con soluciones seguras y efectivas diseñadas exclusivamente para ti. En Rosma Belleza, cuidamos de ti mientras tú cuidas de lo más importante. ¡Visítanos y disfruta de un momento único dedicado a tu belleza y bienestar!</p>-->
-                            <p>Te ofrecemos soluciones seguras y efectivas diseñadas exclusivamente para ti.</p>
+                            <p>En Rosma Belleza, sabemos que ser <strong>mamá</strong> es una experiencia maravillosa, pero también entendemos los cambios que tu cuerpo puede experimentar durante el embarazo y después de él. Por eso, hemos diseñado <strong>tratamientos especiales</strong> para que las mamás se sientan <strong>cómodas</strong>, <strong>cuidadas</strong> y <strong>radiantes</strong> en cada etapa de esta hermosa aventura.</p>
+                            <p>Nuestros servicios incluyen tratamientos <strong>antiestrías</strong> que ayudan a mejorar la elasticidad de la piel, terapias para aliviar la <strong>pesadez de piernas</strong> y un cuidado especial <strong>preparto</strong> y <strong>postparto</strong>, adaptado a tus necesidades y pensado para brindarte <strong>relajación</strong> y <strong>bienestar</strong>.</p>
+                            <p>Te ofrecemos <strong>soluciones seguras</strong> y <strong>efectivas</strong> diseñadas exclusivamente para ti.</p>
                         </div>
 
                     </div><!-- Service Detail -->

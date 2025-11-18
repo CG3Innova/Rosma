@@ -125,8 +125,8 @@
                         </div> 
                         <div class="lower-content">
                             <h2>Piedras calientes</h2>
-                            <p>Disfruta de un masaje completo con piedras de lava volcánica y aceites esenciales, una experiencia única que va más allá del simple masaje. Las piedras, al estar calientes, transmiten energía al organismo, favoreciendo la relajación y ayudando a eliminar tensiones acumuladas. Este tratamiento no solo oxigena la piel, sino que también mejora la circulación y revitaliza tu cuerpo.</p>
-                            <p>La calidez de las piedras penetra profundamente en los músculos, proporcionando una sensación de calma y bienestar que perdura. Este ritual es ideal para aquellos que buscan escapar del estrés diario, permitiendo que tu mente y cuerpo se reconecten en un ambiente de tranquilidad. ¡No hay mejor manera de desconectar y dedicarte un tiempo de calidad para cuidar de ti mismo! Regálate esta experiencia revitalizante y siente cómo renace tu energía.</p>
+                            <p>Disfruta de un masaje completo con piedras de <strong>lava volcánica</strong> y <strong>aceites esenciales</strong>, una experiencia única que va más allá del simple masaje. Las piedras, al estar calientes, transmiten <strong>energía</strong> al organismo, favoreciendo la <strong>relajación</strong> y ayudando a eliminar tensiones acumuladas. Este tratamiento no solo <strong>oxigena</strong> la piel, sino que también mejora la circulación y <strong>revitaliza</strong> tu cuerpo.</p>
+                            <p>La calidez de las piedras penetra profundamente en los músculos, proporcionando una sensación de <strong>calma</strong> y <strong>bienestar</strong> que perdura. Este ritual es ideal para aquellos que buscan escapar del estrés diario, permitiendo que tu mente y cuerpo se reconecten en un ambiente de tranquilidad. ¡No hay mejor manera de desconectar y dedicarte un tiempo de calidad para cuidar de ti mismo! Regálate esta experiencia revitalizante y siente cómo renace tu energía.</p>
                         </div>
 
                     </div><!-- Service Detail -->
