@@ -76,12 +76,7 @@
                 <p><strong>Martes:</strong> de 9.00 a 19.00</p>
                 <p><strong>Viernes:</strong> de 9.00 a 15.00</p>
                 <p><strong>Sábados y Domingos:</strong> Cerrado</p>
-                <hr>
-                <p><strong>HORARIO ESPECIAL VERANO</strong></p>
-                <p><strong>Lunes, Miércoles y Jueves:</strong> de 9.00 a 13.30 y de 15.30 a 20.00</p>
-                <p><strong>Martes:</strong> de 9.00 a 20.00</p>
-                <p><strong>Viernes:</strong> de 9.00 a 17.00</p>
-                <p><strong>Sábados y Domingos:</strong> Cerrado</p>
+                
             </div>
 
             <div class="modal-footer">
@@ -212,7 +207,7 @@
                                 <li>
                                     <span class="icon fa fa-envelope-o"></span> 
                                     <strong>Email:</strong>
-                                    <p>info@rosmabelleza.com</p>
+                                    <p>rosma@rosmabelleza.com</p>
                                 </li>
 
                                 <li>
@@ -224,11 +219,13 @@
                                 <li>
                                     <span class="icon fa fa-clock-o"></span> 
                                     <strong>Horario:</strong>
-                                    <p> Lunes, Miércoles y Jueves:<br> 9:00 a 13:30 y 15:30 a 20:00<br>
+                                    <p><b>Lunes, Miércoles y Jueves:</b><br> 9:00 a 13:30 y 15:30 a 19:00<br>
 
-                                        Martes y Viernes:<br> 9:00 a 20:00<br>
+                                        <b>Martes:</b> 9:00 a 19:00<br>
 
-                                        Sábados y Domingos:<br> Cerrado
+                                        <b>Viernes:</b> 9:00 a 15:00<br>
+
+                                        <b>Sábados y Domingos:</b><br> Cerrado
                                     </p>
                                 </li>
                             </ul>
@@ -236,7 +233,6 @@
                                 <h5>Síguenos:</h5>
                                 <ul class="social-icon-one">
                                     <li><a href="https://www.facebook.com/rosmabelleza" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://twitter.com/rosmabelleza" target="_blank"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                 </ul>
                             </div>

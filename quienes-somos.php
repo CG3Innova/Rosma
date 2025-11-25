@@ -75,12 +75,7 @@
                 <p><strong>Martes:</strong> de 9.00 a 19.00</p>
                 <p><strong>Viernes:</strong> de 9.00 a 15.00</p>
                 <p><strong>Sábados y Domingos:</strong> Cerrado</p>
-                <hr>
-                <p><strong>HORARIO ESPECIAL VERANO</strong></p>
-                <p><strong>Lunes, Miércoles y Jueves:</strong> de 9.00 a 13.30 y de 15.30 a 20.00</p>
-                <p><strong>Martes:</strong> de 9.00 a 20.00</p>
-                <p><strong>Viernes:</strong> de 9.00 a 17.00</p>
-                <p><strong>Sábados y Domingos:</strong> Cerrado</p>
+                
             </div>
 
             <div class="modal-footer">
@@ -116,7 +111,7 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title">Rosma Belleza</span>
-                <h2>"La belleza comienza en el instante que decides ser tu mism@."</h2>
+                <h2>"La belleza comienza en el instante que decides ser tu misma."</h2>
                 <h3>- Coco Chanel</h3>
                 <div class="separator"><span class="flaticon-flower"></span></div>
             </div>
@@ -171,12 +166,13 @@
                         <p>¡Hola! Soy <strong>Amalia Muñoz</strong> y llevo <strong>más de 44 años</strong> dedicada con entusiasmo y mucho cariño al mundo de la <strong>estética profesional</strong>. Esta profesión es, para mí, una verdadera vocación: me apasiona ayudar a las personas a <strong>sentirse bien</strong>, <strong>verse bien</strong> y <strong>reconectar con su bienestar</strong>.</p>
 
                         <p>A lo largo de estos años, he apostado por una formación continua y por mantenerme siempre actualizada en las últimas técnicas y avances del sector. Pero si hay algo que me hace sentir realmente orgullosa, es el <strong>equipo humano</strong> que me acompaña. Algunas de las personas que trabajan hoy a mi lado llevan <strong>más de 20 años compartiendo este camino conmigo</strong>. Juntas hemos formado un equipo sólido, con experiencia, sensibilidad y una visión común: cuidar de cada persona de manera personalizada y honesta, ofreciendo soluciones reales y efectivas.</p>
+
+                        <p>En nuestro centro creemos que cada persona es única, por eso <strong>diseñamos tratamientos adaptados a cada necesidad</strong>, siempre desde el respeto, la escucha y la profesionalidad. Más que un servicio, buscamos crear una experiencia en la que cada cliente <strong>se sienta cómodo, valorado y en buenas manos</strong>.</p>
+
                     </div>
                 </div>
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <p>En nuestro centro creemos que cada persona es única, por eso <strong>diseñamos tratamientos adaptados a cada necesidad</strong>, siempre desde el respeto, la escucha y la profesionalidad. Más que un servicio, buscamos crear una experiencia en la que cada cliente <strong>se sienta cómodo, valorado y en buenas manos</strong>.</p>
-
                         <p>Nuestra filosofía se basa en tres pilares: <strong>bienestar, honestidad y profesionalismo</strong>. Eso es lo que nos guía, y lo que queremos que sientas desde el primer momento que entras por nuestra puerta.</p>
                     </div>
                 </div>

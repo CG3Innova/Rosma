@@ -20,7 +20,7 @@
                                     <span>Síguenos:</span>
                                     <ul class="social-icon-one">
                                         <li><a href="https://www.facebook.com/rosmabelleza" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="https://twitter.com/rosmabelleza" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        
                                         <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
@@ -50,7 +50,7 @@
                                 <ul class="contact-list">
                                     <li><strong>Llámanos: </strong><a href="tel:+34945230447">945 23 04 47</a></li>
                                     <li><strong>Llámanos: </strong><a href="tel:+34609902193">609 90 21 93</a></li>
-                                    <li><strong>Email: </strong><a href="mailto:info@rosmabelleza.com">info@rosmabelleza.com</a></li>
+                                    <li><strong>Email: </strong><a href="mailto:rosma@rosmabelleza.com">rosma@rosmabelleza.com</a></li>
                                     <li><strong>Dirección: </strong>C/Madre Vedruna, 12. Vitoria-Gasteiz</li>
                                 </ul>
                             </div> 
@@ -109,7 +109,7 @@
                                     <span>Síguenos:</span>
                                     <ul class="social-icon-one">
                                         <li><a href="https://www.facebook.com/rosmabelleza" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="https://x.com/rosmabelleza" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        
                                         <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
@@ -139,7 +139,7 @@
                                 <ul class="contact-list">
                                     <li><strong>Llámanos: </strong><a href="tel:+34945230447">945 23 04 47</a></li>
                                     <li><strong>Llámanos: </strong><a href="tel:+34609902193">609 90 21 93</a></li>
-                                    <li><strong>Email: </strong><a href="mailto:info@rosmabelleza.com">info@rosmabelleza.com</a></li>
+                                    <li><strong>Email: </strong><a href="mailto:rosma@rosmabelleza.com">rosma@rosmabelleza.com</a></li>
                                     <li><strong>Dirección: </strong>C/Madre Vedruna, 12. Vitoria-Gasteiz</li>
                                 </ul>
                             </div> 
@@ -198,7 +198,7 @@
                                     <span>Síguenos:</span>
                                     <ul class="social-icon-one">
                                         <li><a href="https://www.facebook.com/rosmabelleza" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="https://twitter.com/rosmabelleza" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        
                                         <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
@@ -228,7 +228,7 @@
                                 <ul class="contact-list">
                                     <li><strong>Llámanos: </strong><a href="tel:+34945230447">945 23 04 47</a></li>
                                     <li><strong>Llámanos: </strong><a href="tel:+34609902193">609 90 21 93</a></li>
-                                    <li><strong>Email: </strong><a href="mailto:info@rosmabelleza.com">info@rosmabelleza.com</a></li>
+                                    <li><strong>Email: </strong><a href="mailto:rosma@rosmabelleza.com">rosma@rosmabelleza.com</a></li>
                                     <li><strong>Dirección: </strong>C/Madre Vedruna, 12. Vitoria-Gasteiz</li>
                                 </ul>
                             </div> 

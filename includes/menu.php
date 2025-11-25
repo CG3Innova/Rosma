@@ -12,13 +12,13 @@
                         <ul class="clearfix">
                             <li><a href="tel:+34945230447"><i class="fa fa-volume-control-phone"></i> 945 23 04 47</a></li>
                             <li><a href="tel:+34609902193"><i class="fa fa-volume-control-phone"></i> 609 90 21 93</a></li>
-                            <li><a href="mailto:info@rosmabelleza.com"><i class="fa fa-envelope-o"></i> info@rosmabelleza.com</a></li>
+                            <li><a href="mailto:rosma@rosmabelleza.com"><i class="fa fa-envelope-o"></i> rosma@rosmabelleza.com</a></li>
                         </ul>
                     </div>
                     <div class="top-right">
                         <ul class="social-icon-one">
                             <li><a href="https://www.facebook.com/rosmabelleza" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="https://twitter.com/rosmabelleza" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            
                             <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
                         </ul>
                     </div>
@@ -157,13 +157,13 @@
                         <ul class="clearfix">
                             <li><a href="tel:945230447"><i class="fa fa-volume-control-phone"></i> 945 23 04 47</a></li>
                             <li><a href="tel:+34609902193"><i class="fa fa-volume-control-phone"></i> 609 90 21 93</a></li>
-                            <li><a href="mailto:info@rosmabelleza.com"><i class="fa fa-envelope-o"></i> info@rosmabelleza.com</a></li>
+                            <li><a href="mailto:rosma@rosmabelleza.com"><i class="fa fa-envelope-o"></i> rosma@rosmabelleza.com</a></li>
                         </ul>
                     </div>
                     <div class="top-right">
                         <ul class="social-icon-one">
                             <li><a href="https://www.facebook.com/rosmabelleza" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="https://twitter.com/rosmabelleza" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            
                             <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
                             <li>
                                 <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#horariosModal" style="background-color: #84905e; border-color: #84905e; font-size: 13px;">
@@ -307,13 +307,13 @@
                         <ul class="clearfix">
                             <li><a href="tel:945230447"><i class="fa fa-volume-control-phone"></i> 945 23 04 47</a></li>
                             <li><a href="tel:+34609902193"><i class="fa fa-volume-control-phone"></i> 609 90 21 93</a></li>
-                            <li><a href="mailto:info@rosmabelleza.com"><i class="fa fa-envelope-o"></i> info@rosmabelleza.com</a></li>
+                            <li><a href="mailto:rosma@rosmabelleza.com"><i class="fa fa-envelope-o"></i> rosma@rosmabelleza.com</a></li>
                         </ul>
                     </div>
                     <div class="top-right">
                         <ul class="social-icon-one">
                             <li><a href="https://www.facebook.com/rosmabelleza" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="https://twitter.com/rosmabelleza" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            
                             <li><a href="https://www.instagram.com/rosmabelleza" target="_blank"><i class="fa fa-instagram"></i></a></li>
                             <li>
                                 <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#horariosModal" style="background-color: #84905e; border-color: #84905e; font-size: 13px;">
