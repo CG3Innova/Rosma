@@ -117,89 +117,249 @@
                             <span class="title">Rosma Belleza</span>
                             <h3>Contacta con nosotros</h3>
                             <div class="text">Si necesitas más información acerca de nuestros servicios o productos, ponte en contacto con nosotros:</div>
-                            <form method="post" action="/form/form.php" id="contact-form" class="contact-form-contact" enctype="multipart/form-data">
+                                <form method="post" action="/form/form.php" id="contact-form" class="contact-form-contact" enctype="multipart/form-data">
 
-                                <div class="contact-form-success alert alert-success d-none">
-                                    <strong>¡Perfecto!</strong> Hemos recibido tu mensaje. Te avisaremos cuando tengas tu regalo preparado.
-                                </div>
-
-                                <div class="contact-form-error alert alert-danger d-none">
-                                    <strong>Error!</strong> Se ha producido un error al enviar tu mensaje.
-                                    <span class="mail-error-message text-1 d-block">
-                                    </span>
-                                </div>
-
-                                <input name="form_type" type="hidden" value="Formulario de Regala Rosma"/>
-
-                                <input id="website" name="website" style="display:none" type="text">
-
-                                <input name="form_time" type="hidden" value="&lt;?php echo time(); ?&gt;"/>
-
-                                <input id="recaptcha_token" name="g-recaptcha-response" type="hidden"/>
-
-                                <div class="row clearfix">
-                                    <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                        <input data-required="true" name="nombre" placeholder="Nombre y apellidos *" type="text" class="form-control" required/>
-                                    </div>
-                                    
-                                    <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                        <input data-required="true" name="email" placeholder="Email *" type="email" class="form-control" required/>
+                                    <div class="contact-form-success alert alert-success d-none">
+                                        <strong>¡Perfecto!</strong> Hemos recibido tu mensaje. Te avisaremos cuando tengas tu regalo preparado.
                                     </div>
 
-                                    <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                       <input data-required="true" name="phone" placeholder="Teléfono *" type="text" class="form-control" required/>
+                                    <div class="contact-form-error alert alert-danger d-none">
+                                        <strong>Error!</strong> Se ha producido un error al enviar tu mensaje.
+                                        <span class="mail-error-message text-1 d-block"></span>
                                     </div>
 
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group">
-                                        <input data-required="true" name="nombre-regalo" placeholder="¿Para quién es el regalo? Dinos su nombre *" type="text" class="form-control" required/>
-                                    </div>
+                                    <input name="form_type" type="hidden" value="Formulario de Regala Rosma"/>
+                                    <input id="website" name="website" style="display:none" type="text">
+                                    <input name="form_time" type="hidden" value="&lt;?php echo time(); ?&gt;"/>
+                                    <input id="recaptcha_token" name="g-recaptcha-response" type="hidden"/>
 
-                                    <div class="col-md-12" style="margin-bottom: 25px;">
-                                        <div class="checkbox-wrapper-4 ">
-                                            <input class="inp-cbx" data-required="true" id="morning" type="checkbox" required>
-                                            <label class="cbx" for="morning">
-                                            <span>
-                                            <svg height="10px" width="12px">
-                                            <use xlink:href="#check-4">
-                                            </use>
-                                            </svg>
-                                            </span>
-                                            <span>
-                                            He leído y acepto los
-                                            <a href="/politica-privacidad.php" target="_blank">
-                                            términos y condiciones
-                                            </a>
-                                            de este sitio web
-                                            </span>
-                                            </label>
-                                            <svg class="inline-svg" style="display: none;">
-                                            <symbol id="check-4" viewbox="0 0 12 10">
-                                            <polyline points="1.5 6 4.5 9 10.5 1">
-                                            </polyline>
-                                            </symbol>
-                                            </svg>
-                                            </input>
+                                    <div class="row clearfix">
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group">
+                                            <input data-required="true" name="nombre" placeholder="Nombre y apellidos *" type="text" class="form-control" required/>
                                         </div>
-                                    </div>
+                                        
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group">
+                                            <input data-required="true" name="email" placeholder="Email *" type="email" class="form-control" required/>
+                                        </div>
 
-                                    <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <button type="submit" class="theme-btn btn-style-five">
-                                            <i class="fa fa-angle-double-right"></i>
-                                            <span> Enviar mensaje </span>
-                                        </button>
-                                    </div>
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group">
+                                            <input data-required="true" name="phone" placeholder="Teléfono *" type="text" class="form-control" required/>
+                                        </div>
 
-                                </div>
-                            </form>
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group">
+                                            <input data-required="true" name="nombre-regalo" placeholder="¿Para quién es el regalo? Dinos su nombre *" type="text" class="form-control" required/>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de categoría -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group">
+                                            <select name="categoria" id="categoria-servicio" class="form-control" required>
+                                                <option value="">Selecciona una categoría *</option>
+                                                <option value="con-buena-cara">Con buena cara</option>
+                                                <option value="dame-tu-mano">Dame tu mano</option>
+                                                <option value="pisa-fuerte">Pisa fuerte</option>
+                                                <option value="piel-de-seda">Piel de seda</option>
+                                                <option value="fotodepilacion">Fotodepilación</option>
+                                                <option value="para-que-estes-mas-guapa">Para que estes más guapa</option>
+                                                <option value="formando-curvas">Formando curvas</option>
+                                                <option value="a-toda-velocidad">A toda velocidad</option>
+                                                <option value="para-tu-mirada">Para tu mirada</option>
+                                                <option value="escote-provocador">Escote provocador</option>
+                                                <option value="para-mama">Para mamá</option>
+                                                <option value="para-que-te-mimes">Para que te mimes</option>
+                                                <option value="para-tu-bienestar">Para tu bienestar</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Con buena cara" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="con-buena-cara">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="limpieza-de-cutis">Limpieza de cutis</option>
+                                                <option value="hidratantes">Hidratantes</option>
+                                                <option value="oxigenantes">Oxigenantes</option>
+                                                <option value="cicatrizantes">Cicatrizantes</option>
+                                                <option value="renovadores">Renovadores</option>
+                                                <option value="antiedad">Antiedad</option>
+                                                <option value="reafirmantes">Reafirmantes</option>
+                                                <option value="antiacne">Antiacné</option>
+                                                <option value="pieles-sensibles">Pieles sensibles</option>
+                                                <option value="despigmentantes">Despigmentantes</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Dame tu mano" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="dame-tu-mano">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="manicura">Manicura</option>
+                                                <option value="manicura-spa">Manicura SPA</option>
+                                                <option value="manicura-semipermanente">Manicura Semipermanente</option>
+                                                <option value="ibx-manicura">IBX</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Pisa fuerte" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="pisa-fuerte">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="pedicura">Pedicura</option>
+                                                <option value="pedicura-spa">Pedicura SPA</option>
+                                                <option value="pedicura-semipermanente">Pedicura semipermanente</option>
+                                                <option value="ibx-pedicura">IBX</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Piel de seda" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="piel-de-seda">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="cera-caliente">Cera caliente</option>
+                                                <option value="cera-fria">Cera fria</option>
+                                                <option value="electrica">Eléctrica</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Fotodepilacion" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="fotodepilacion">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="fotodepilacion-servicio">Fotodepilación</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Para que estés más guapa" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para-que-estes-mas-guapa">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="maquillaje">Maquillaje</option>
+                                                <option value="automaquillaje">Automaquillaje</option>
+                                                <option value="visagismo-de-cejas">Visagismo de cejas</option>
+                                                <option value="laminado-de-cejas">Laminado de cejas</option>
+                                                <option value="lifting-de-pestanas">Lifting de pestañas</option>
+                                                <option value="tinte-de-pestanas-y-cejas">Tinte de pestañas y cejas</option>
+                                                <option value="henna-para-cejas">Henna para cejas</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Formando Curvas" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="formando-curvas">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="anticelulitico">Anticelulítico</option>
+                                                <option value="reafirmantes">Reafirmantes</option>
+                                                <option value="reductores">Reductores</option>
+                                                <option value="drenaje-linfatico">Drenaje linfático</option>
+                                                <option value="drenaje-energetico">Drenaje energético</option>
+                                                <option value="balneoterapia">Balneoterapia</option>
+                                                <option value="envoltura">Envoltura</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "A toda velocidad" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="a-toda-velocidad">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="cavitacion">Cavitación</option>
+                                                <option value="indiba">INDIBA</option>
+                                                <option value="vacumterapia">Vacumterapia</option>
+                                                <option value="oxigenoterapia">Oxigenoterapia</option>
+                                                <option value="on-body-estetic">On body Estetic</option>
+                                                <option value="on-face-myolifting-facial">On face myolifting facial</option>
+                                                <option value="presoterapia-termopresoterapia">Presoterapia / Termopresoterapia</option>
+                                                <option value="la-capsula-del-tiempo">La cápsula del tiempo</option>
+                                                <option value="vibromasaje">Vibromasaje</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Para tu mirada" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para-tu-mirada">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="tratamiento-de-ojos">Tratamiento de ojos</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Escote provocador" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="escote-provocador">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="tratamiento-cuello-doble-menton-escote">Tratamiento cuello, doble mentón y escote</option>
+                                                <option value="tratamiento-senos">Tratamiento de senos</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Para mamá" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para-mama">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="antiestrias">Antiestrías</option>
+                                                <option value="pesadez-de-piernas">Pesadez de piernas</option>
+                                                <option value="preparto-postparto">Preparto / Postparto</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Para que te mimes" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para-que-te-mimes">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="peeling-corporal">Peeling corporal</option>
+                                                <option value="piedras-calientes">Piedras calientes</option>
+                                                <option value="ritual-sal-del-himalaya">Ritual sal del Himalaya</option>
+                                                <option value="ritual-secrets">Ritual secrets</option>
+                                                <option value="ritual-islas-del-pacifico">Ritual islas del Pacífico</option>
+                                                <option value="ritual-maravillas-del-artico">Ritual maravillas del Ártico</option>
+                                                <option value="ritual-mar-de-las-indias">Ritual mar de las indias</option>
+                                                <option value="ritual-aceites-esenciales">Ritual aceites esenciales</option>
+                                            </select>
+                                        </div>
+
+                                        <!-- NUEVO: Selector de servicio para categoría "Para tu bienestar" -->
+                                        <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para-tu-bienestar">
+                                            <select name="servicio" class="form-control" disabled>
+                                                <option value="">Selecciona un servicio *</option>
+                                                <option value="nutricion">Nutrición</option>
+                                            </select>
+                                        </div>
+
+                                        <div class="col-md-12" style="margin-bottom: 25px;">
+                                            <div class="checkbox-wrapper-4 ">
+                                                <input class="inp-cbx" data-required="true" id="morning" type="checkbox" required>
+                                                <label class="cbx" for="morning">
+                                                    <span>
+                                                        <svg height="10px" width="12px">
+                                                            <use xlink:href="#check-4"></use>
+                                                        </svg>
+                                                    </span>
+                                                    <span>
+                                                        He leído y acepto los
+                                                        <a href="/politica-privacidad.php" target="_blank">
+                                                            términos y condiciones
+                                                        </a>
+                                                        de este sitio web
+                                                    </span>
+                                                </label>
+                                                <svg class="inline-svg" style="display: none;">
+                                                    <symbol id="check-4" viewbox="0 0 12 10">
+                                                        <polyline points="1.5 6 4.5 9 10.5 1"></polyline>
+                                                    </symbol>
+                                                </svg>
+                                                </input>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-12 col-sm-12 col-xs-12 form-group">
+                                            <button type="submit" class="theme-btn btn-style-five">
+                                                <i class="fa fa-angle-double-right"></i>
+                                                <span> Enviar mensaje </span>
+                                            </button>
+                                        </div>
+
+                                    </div>
+                                </form>
                         </div>
                     </div>
 
                 </div>
-            </div>
-
-            <!--Map-->
-            <div class="map-section">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1963.5043976621573!2d-2.6812110871420978!3d42.84598987073315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4fc21375974d4d%3A0xe66ffa6aaa671e1e!2s%22Rosma%20Belleza%22!5e0!3m2!1ses!2ses!4v1752084468146!5m2!1ses!2ses" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>            
             </div>
             
         </div>
@@ -219,7 +379,36 @@
 <script defer src="cookies/cookieconsent.js"></script>
 <script defer src="cookies/cookieconsent-init.js"></script>
 <script src="js/jquery.js"></script> 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    var categoriaSelect = document.getElementById('categoria-servicio');
+    var serviceGroups = document.querySelectorAll('.service-group');
 
+    function actualizarServicios() {
+        var categoria = categoriaSelect.value;
+
+        serviceGroups.forEach(function (group) {
+            var select = group.querySelector('select');
+
+            if (group.getAttribute('data-category') === categoria) {
+                group.classList.remove('d-none');  // Mostrar
+                select.disabled = false;          // Habilitar para que se envíe
+                select.required = true;           // Hacerlo obligatorio
+            } else {
+                group.classList.add('d-none');    // Ocultar
+                select.disabled = true;           // Deshabilitar para que NO se envíe
+                select.required = false;          // Quitar required para evitar errores
+                select.selectedIndex = 0;         // Volver a la opción por defecto
+            }
+        });
+    }
+
+    categoriaSelect.addEventListener('change', actualizarServicios);
+
+    // Por si el navegador rellena algo automático
+    actualizarServicios();
+});
+</script>
 <!--End Revolution Slider-->
 <script src="js/jquery-ui.js"></script> 
 <script src="js/jquery.fancybox.js"></script>
