@@ -154,7 +154,7 @@
                                         <textarea data-required="true" name="message" cols="40" rows="5" class="form-control" placeholder="Mensaje" required></textarea>
                                     </div>
 
-                                    <div class="col-md-12" style="margin-bottom: 25px;">
+                                    <div class="col-md-12 form-group" style="display: flex;">
                                         <div class="checkbox-wrapper-4 ">
                                             <input class="inp-cbx" data-required="true" id="morning" type="checkbox" required>
                                             <label class="cbx" for="morning">

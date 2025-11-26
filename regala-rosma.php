@@ -166,28 +166,28 @@
                                     <div class="col-md-6 col-sm-12 col-xs-12 form-group">
                                         <select name="categoria" id="categoria-servicio" class="form-control" required>
                                             <option value="">Selecciona una categoría *</option>
-                                            <option value="con-buena-cara">Con buena cara</option>
-                                            <option value="dame-tu-mano">Dame tu mano</option>
-                                            <option value="pisa-fuerte">Pisa fuerte</option>
-                                            <option value="piel-de-seda">Piel de seda</option>
+                                            <option value="con buena cara">Con buena cara</option>
+                                            <option value="dame tu mano">Dame tu mano</option>
+                                            <option value="pisa fuerte">Pisa fuerte</option>
+                                            <option value="piel de seda">Piel de seda</option>
                                             <option value="fotodepilacion">Fotodepilación</option>
-                                            <option value="para-que-estes-mas-guapa">Para que estes más guapa</option>
-                                            <option value="formando-curvas">Formando curvas</option>
-                                            <option value="a-toda-velocidad">A toda velocidad</option>
-                                            <option value="para-tu-mirada">Para tu mirada</option>
-                                            <option value="escote-provocador">Escote provocador</option>
-                                            <option value="para-mama">Para mamá</option>
-                                            <option value="para-que-te-mimes">Para que te mimes</option>
-                                            <option value="para-tu-bienestar">Para tu bienestar</option>
-                                            <option value="servicios-medicos">Servicios médicos</option>
+                                            <option value="para que estes mas guapa">Para que estes más guapa</option>
+                                            <option value="formando curvas">Formando curvas</option>
+                                            <option value="a toda velocidad">A toda velocidad</option>
+                                            <option value="para tu mirada">Para tu mirada</option>
+                                            <option value="escote provocador">Escote provocador</option>
+                                            <option value="para mama">Para mamá</option>
+                                            <option value="para que te mimes">Para que te mimes</option>
+                                            <option value="para tu bienestar">Para tu bienestar</option>
+                                            <option value="servicios medicos">Servicios médicos</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Con buena cara" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="con-buena-cara">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="con buena cara">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
-                                            <option value="limpieza-de-cutis">Limpieza de cutis</option>
+                                            <option value="limpieza de cutis">Limpieza de cutis</option>
                                             <option value="hidratantes">Hidratantes</option>
                                             <option value="oxigenantes">Oxigenantes</option>
                                             <option value="cicatrizantes">Cicatrizantes</option>
@@ -195,39 +195,39 @@
                                             <option value="antiedad">Antiedad</option>
                                             <option value="reafirmantes">Reafirmantes</option>
                                             <option value="antiacne">Antiacné</option>
-                                            <option value="pieles-sensibles">Pieles sensibles</option>
+                                            <option value="pieles sensibles">Pieles sensibles</option>
                                             <option value="despigmentantes">Despigmentantes</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Dame tu mano" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="dame-tu-mano">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="dame tu mano">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
                                             <option value="manicura">Manicura</option>
-                                            <option value="manicura-spa">Manicura SPA</option>
-                                            <option value="manicura-semipermanente">Manicura Semipermanente</option>
-                                            <option value="ibx-manicura">IBX</option>
+                                            <option value="manicura spa">Manicura SPA</option>
+                                            <option value="manicura semipermanente">Manicura Semipermanente</option>
+                                            <option value="ibx manicura">IBX</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Pisa fuerte" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="pisa-fuerte">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="pisa fuerte">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
                                             <option value="pedicura">Pedicura</option>
-                                            <option value="pedicura-spa">Pedicura SPA</option>
-                                            <option value="pedicura-semipermanente">Pedicura semipermanente</option>
-                                            <option value="ibx-pedicura">IBX</option>
+                                            <option value="pedicura spa">Pedicura SPA</option>
+                                            <option value="pedicura semipermanente">Pedicura semipermanente</option>
+                                            <option value="ibx pedicura">IBX</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Piel de seda" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="piel-de-seda">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="piel de seda">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
-                                            <option value="cera-caliente">Cera caliente</option>
-                                            <option value="cera-fria">Cera fria</option>
+                                            <option value="cera caliente">Cera caliente</option>
+                                            <option value="cera fria">Cera fria</option>
                                             <option value="electrica">Eléctrica</option>
                                         </select>
                                     </div>
@@ -236,98 +236,98 @@
                                     <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="fotodepilacion">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
-                                            <option value="fotodepilacion-servicio">Fotodepilación</option>
+                                            <option value="fotodepilacion">Fotodepilación</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Para que estés más guapa" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para-que-estes-mas-guapa">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para que estes mas guapa">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
                                             <option value="maquillaje">Maquillaje</option>
                                             <option value="automaquillaje">Automaquillaje</option>
-                                            <option value="visagismo-de-cejas">Visagismo de cejas</option>
-                                            <option value="laminado-de-cejas">Laminado de cejas</option>
-                                            <option value="lifting-de-pestanas">Lifting de pestañas</option>
-                                            <option value="tinte-de-pestanas-y-cejas">Tinte de pestañas y cejas</option>
-                                            <option value="henna-para-cejas">Henna para cejas</option>
+                                            <option value="visagismo de cejas">Visagismo de cejas</option>
+                                            <option value="laminado de cejas">Laminado de cejas</option>
+                                            <option value="lifting de pestanas">Lifting de pestañas</option>
+                                            <option value="tinte de pestanas y cejas">Tinte de pestañas y cejas</option>
+                                            <option value="henna para cejas">Henna para cejas</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Formando Curvas" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="formando-curvas">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="formando curvas">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
                                             <option value="anticelulitico">Anticelulítico</option>
                                             <option value="reafirmantes">Reafirmantes</option>
                                             <option value="reductores">Reductores</option>
-                                            <option value="drenaje-linfatico">Drenaje linfático</option>
-                                            <option value="drenaje-energetico">Drenaje energético</option>
+                                            <option value="drenaje linfatico">Drenaje linfático</option>
+                                            <option value="drenaje energetico">Drenaje energético</option>
                                             <option value="balneoterapia">Balneoterapia</option>
                                             <option value="envoltura">Envoltura</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "A toda velocidad" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="a-toda-velocidad">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="a toda velocidad">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
                                             <option value="cavitacion">Cavitación</option>
                                             <option value="indiba">INDIBA</option>
                                             <option value="vacumterapia">Vacumterapia</option>
                                             <option value="oxigenoterapia">Oxigenoterapia</option>
-                                            <option value="on-body-estetic">On body Estetic</option>
-                                            <option value="on-face-myolifting-facial">On face myolifting facial</option>
-                                            <option value="presoterapia-termopresoterapia">Presoterapia / Termopresoterapia</option>
-                                            <option value="la-capsula-del-tiempo">La cápsula del tiempo</option>
+                                            <option value="on body estetic">On body Estetic</option>
+                                            <option value="on face myolifting facial">On face myolifting facial</option>
+                                            <option value="presoterapia termopresoterapia">Presoterapia / Termopresoterapia</option>
+                                            <option value="la capsula del tiempo">La cápsula del tiempo</option>
                                             <option value="vibromasaje">Vibromasaje</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Para tu mirada" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para-tu-mirada">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para tu mirada">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
-                                            <option value="tratamiento-de-ojos">Tratamiento de ojos</option>
+                                            <option value="tratamiento de ojos">Tratamiento de ojos</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Escote provocador" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="escote-provocador">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="escote_provocador">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
-                                            <option value="tratamiento-cuello-doble-menton-escote">Tratamiento cuello, doble mentón y escote</option>
-                                            <option value="tratamiento-senos">Tratamiento de senos</option>
+                                            <option value="tratamiento cuello doble menton escote">Tratamiento cuello, doble mentón y escote</option>
+                                            <option value="tratamiento senos">Tratamiento de senos</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Para mamá" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para-mama">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para mama">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
                                             <option value="antiestrias">Antiestrías</option>
-                                            <option value="pesadez-de-piernas">Pesadez de piernas</option>
-                                            <option value="preparto-postparto">Preparto / Postparto</option>
+                                            <option value="pesadez de piernas">Pesadez de piernas</option>
+                                            <option value="preparto postparto">Preparto / Postparto</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Para que te mimes" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para-que-te-mimes">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para que te mimes">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
-                                            <option value="peeling-corporal">Peeling corporal</option>
-                                            <option value="piedras-calientes">Piedras calientes</option>
-                                            <option value="ritual-sal-del-himalaya">Ritual sal del Himalaya</option>
-                                            <option value="ritual-secrets">Ritual secrets</option>
-                                            <option value="ritual-islas-del-pacifico">Ritual islas del Pacífico</option>
-                                            <option value="ritual-maravillas-del-artico">Ritual maravillas del Ártico</option>
-                                            <option value="ritual-mar-de-las-indias">Ritual mar de las indias</option>
-                                            <option value="ritual-aceites-esenciales">Ritual aceites esenciales</option>
+                                            <option value="peeling corporal">Peeling corporal</option>
+                                            <option value="piedras calientes">Piedras calientes</option>
+                                            <option value="ritual sal del himalaya">Ritual sal del Himalaya</option>
+                                            <option value="ritual secrets">Ritual secrets</option>
+                                            <option value="ritual islas del pacifico">Ritual islas del Pacífico</option>
+                                            <option value="ritual maravillas del artico">Ritual maravillas del Ártico</option>
+                                            <option value="ritual mar de las indias">Ritual mar de las indias</option>
+                                            <option value="ritual aceites esenciales">Ritual aceites esenciales</option>
                                         </select>
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Para tu bienestar" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para-tu-bienestar">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="para tu bienestar">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
                                             <option value="nutricion">Nutrición</option>
@@ -335,22 +335,22 @@
                                     </div>
 
                                     <!-- NUEVO: Selector de servicio para categoría "Servicios médicos" -->
-                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="servicios-medicos">
+                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group service-group d-none" data-category="servicios medicos">
                                         <select name="servicio" class="form-control" disabled>
                                             <option value="">Selecciona un servicio *</option>
                                             <option value="neuromoduladores">Neuromoduladores</option>
-                                            <option value="acido-hialuronico-reticulado">Ácido hialurónico reticulado</option>
+                                            <option value="acido hialuronico reticulado">Ácido hialurónico reticulado</option>
                                             <option value="vitaminas">Vitaminas</option>
-                                            <option value="peeling-quimicos">Peeling químicos</option>
-                                            <option value="cuperosis-telangiectasias">Cuperosis telangiectasias</option>
-                                            <option value="verrugas-puntos-rubi">Verrugas puntos rubí</option>
-                                            <option value="mesoterapia-corporal">Mesoterapia corporal</option>
-                                            <option value="esclerosis-vascular">Esclerosis vascular</option>
+                                            <option value="peeling quimicos">Peeling químicos</option>
+                                            <option value="cuperosis telangiectasias">Cuperosis telangiectasias</option>
+                                            <option value="verrugas puntos rubi">Verrugas puntos rubí</option>
+                                            <option value="mesoterapia corporal">Mesoterapia corporal</option>
+                                            <option value="esclerosis vascular">Esclerosis vascular</option>
                                             <option value="hiperhidrosis">Hiperhidrosis</option>
                                         </select>
                                     </div>
 
-                                    <div class="col-md-12" style="margin-bottom: 25px;">
+                                    <div class="col-md-12 form-group" style="display: flex;">
                                         <div class="checkbox-wrapper-4 ">
                                             <input class="inp-cbx" data-required="true" id="morning" type="checkbox" required>
                                                 <label class="cbx" for="morning">
@@ -392,12 +392,12 @@
                 <div class="row clearfix regala-rosma">
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="inner-column">
-                            <div class="image"><img src="images/regala-rosma.webp" alt="Regala Rosma Belleza - Tarjeta regalo Rosma Belleza"></div>
+                            <div class="image"><img style="margin-bottom:30px;" src="images/regala-rosma.webp" alt="Regala Rosma Belleza - Tarjeta regalo Rosma Belleza"></div>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="inner-column">
-                            <div class="image"><img src="images/regala-rosma-2.webp" alt="Regala Rosma Belleza - Tarjeta regalo Rosma Belleza"></div>
+                            <div class="image"><img style="margin-bottom:30px;" src="images/regala-rosma-2.webp" alt="Regala Rosma Belleza - Tarjeta regalo Rosma Belleza"></div>
                         </div>
                     </div>
                 </div>
