@@ -389,6 +389,18 @@
                     </div>
 
                 </div>
+                <div class="row clearfix regala-rosma">
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+                        <div class="inner-column">
+                            <div class="image"><img src="images/regala-rosma.webp" alt="Regala Rosma Belleza - Tarjeta regalo Rosma Belleza"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+                        <div class="inner-column">
+                            <div class="image"><img src="images/regala-rosma-2.webp" alt="Regala Rosma Belleza - Tarjeta regalo Rosma Belleza"></div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
