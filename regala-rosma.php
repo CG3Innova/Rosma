@@ -3,7 +3,7 @@
     
 <head>
     <meta charset="utf-8">
-    <title>Rosma Belleza | Contacto Rosma Belleza en Vitoria-Gasteiz</title>
+    <title>Rosma Belleza | Regala Rosma Belleza</title>
     <meta name="title" content="Rosma Belleza | Contacto Rosma Belleza en Vitoria-Gasteiz">
     <meta name="description" content="Contacta con Rosma Belleza en Vitoria-Gasteiz para más información sobre nuestros tratamientos de belleza y bienestar. ">
     <meta name="author" content="Rosma Belleza">
@@ -159,7 +159,7 @@
                                     </div>
 
                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <textarea style="height: 100px; margin-bottom: 0;" name="message" cols="40" rows="2" class="form-control" placeholder="Dedicatoria (opcional)" required></textarea>
+                                        <textarea style="height: 100px; margin-bottom: 0;" name="message" cols="40" rows="2" class="form-control" placeholder="Dedicatoria (opcional)"></textarea>
                                     </div>
 
                                     <!-- NUEVO: Selector de categoría -->

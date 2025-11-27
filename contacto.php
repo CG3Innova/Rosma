@@ -157,27 +157,24 @@
                                     <div class="col-md-12 form-group" style="display: flex;">
                                         <div class="checkbox-wrapper-4 ">
                                             <input class="inp-cbx" data-required="true" id="morning" type="checkbox" required>
-                                            <label class="cbx" for="morning">
-                                            <span>
-                                            <svg height="10px" width="12px">
-                                            <use xlink:href="#check-4">
-                                            </use>
-                                            </svg>
-                                            </span>
-                                            <span>
-                                            He leído y acepto los
-                                            <a href="/politica-privacidad.php" target="_blank">
-                                            términos y condiciones
-                                            </a>
-                                            de este sitio web
-                                            </span>
-                                            </label>
-                                            <svg class="inline-svg" style="display: none;">
-                                            <symbol id="check-4" viewbox="0 0 12 10">
-                                            <polyline points="1.5 6 4.5 9 10.5 1">
-                                            </polyline>
-                                            </symbol>
-                                            </svg>
+
+                                                <label class="cbx" for="morning">
+                                                    <span>
+                                                        <svg height="10px" width="12px">
+                                                            <use xlink:href="#check-4">
+                                                            </use>
+                                                        </svg>
+                                                    </span>
+                                                    <span>He leído y acepto los <a href="/politica-privacidad.php" target="_blank">términos y condiciones</a> de este sitio web</span>
+                                                </label>
+
+                                                <svg class="inline-svg" style="display: none;">
+                                                    <symbol id="check-4" viewbox="0 0 12 10">
+                                                        <polyline points="1.5 6 4.5 9 10.5 1">
+                                                        </polyline>
+                                                    </symbol>
+                                                </svg>
+                                                
                                             </input>
                                         </div>
                                     </div>
