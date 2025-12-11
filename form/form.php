@@ -34,12 +34,26 @@ const FIELD_NAMES = [
     'quien_lo_encarga' => '¿Quién lo encarga?',
     'fecha_de_recogida' => 'Fecha de recogida',
     'dedicatoria' => 'Dedicatoria',
+    'categoria' => 'Categoría',
+    'servicio' => 'Servicio',
+];
+const CATEGORY_LABELS = [
     'con buena cara' => 'Con buena cara',
     'dame tu mano' => 'Dame tu mano',
     'pisa fuerte' => 'Pisa fuerte',
     'piel de seda' => 'Piel de seda',
     'fotodepilacion' => 'Fotodepilación',
     'para que estes mas guapa' => 'Para que estés más guapa',
+    'formando curvas' => 'Formando curvas',
+    'a toda velocidad' => 'A toda velocidad',
+    'para tu mirada' => 'Para tu mirada',
+    'escote provocador' => 'Escote provocador',
+    'para mama' => 'Para mamá',
+    'para que te mimes' => 'Para que te mimes',
+    'para tu bienestar' => 'Para tu bienestar',
+    'servicios medicos' => 'Servicios médicos',
+];
+const SERVICE_LABELS = 
     'formando curvas' => 'Formando curvas',
     'a toda velocidad' => 'A toda velocidad',
     'para tu mirada' => 'Para tu mirada',
@@ -214,6 +228,13 @@ class FormHandler {
                     $value = implode(', ', array_map([$this, 'sanitizeInput'], $value));
                 } else {
                     $value = $this->sanitizeInput($value);
+                }
+
+                // Traducir valores de los selects
+                if ($key === 'categoria') {
+                    $value = CATEGORY_LABELS[$value] ?? $value;
+                } elseif ($key === 'servicio') {
+                    $value = SERVICE_LABELS[$value] ?? $value;
                 }
 
                 $fieldName = FIELD_NAMES[$key] ?? ucwords(str_replace('_', ' ', $key));
