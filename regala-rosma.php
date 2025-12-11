@@ -155,11 +155,11 @@
 
                                     <div class="col-md-6 col-sm-12 col-xs-12 form-group">
                                         <label for="fecha-recogida" class="form-label">Fecha de recogida en nuestro centro: *</label>
-                                        <input type="date" id="fecha-recogida" name="fecha_de_recogida" placeholder="Dedicatoria (opcional)" class="form-control" required>
+                                        <input type="date" id="fecha-recogida" name="fecha_de_recogida" class="form-control" required>
                                     </div>
 
                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <textarea style="height: 100px; margin-bottom: 0;" name="message" cols="40" rows="2" class="form-control" placeholder="Dedicatoria (opcional)"></textarea>
+                                        <textarea style="height: 100px; margin-bottom: 0;" name="dedicatoria" cols="40" rows="2" class="form-control" placeholder="Dedicatoria (opcional)"></textarea>
                                     </div>
 
                                     <!-- NUEVO: Selector de categoría -->
@@ -206,7 +206,7 @@
                                             <option value="">Selecciona un servicio *</option>
                                             <option value="manicura">Manicura</option>
                                             <option value="manicura spa">Manicura SPA</option>
-                                            <option value="manicura semipermanente">Manicura Semipermanente</option>
+                                            <option value="manicura semipermanente">Manicura semipermanente</option>
                                             <option value="ibx manicura">IBX</option>
                                         </select>
                                     </div>
