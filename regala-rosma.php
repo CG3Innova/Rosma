@@ -120,7 +120,7 @@
                                 Sorprende <strong>con nuestra carta regalo</strong>, es más que un detalle, <strong>es un “PIENSO EN TI”.</strong><br>
                                 Elige el ritual de belleza que más te apetezca y convierte este regalo en una <strong>experiencia única</strong>:
                             </div>
-                            <form method="post" action="/form/form.php" id="contact-form" class="contact-form-contact" enctype="multipart/form-data">
+                            <form method="post" action="form/form.php" id="contact-form" class="contact-form-contact" enctype="multipart/form-data">
 
                                 <div class="contact-form-success alert alert-success d-none">
                                     <strong>¡Perfecto!</strong> Hemos recibido tu mensaje. Te avisaremos cuando tengas tu regalo preparado.
@@ -414,7 +414,17 @@
 <!--End pagewrapper-->
 
 <script src="js/formValidator.js"></script>
-<script src="https://www.google.com/recaptcha/api.js?render=6LcO39cpAAAAALwkp84G3PcFgVa8OqDUN2La-fDN"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LcWRCwsAAAAAAFmnJwlGoxzjdQyMXiLguBhf4KI"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1Z313LDP3X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1Z313LDP3X');
+</script>
 
 <script defer src="cookies/cookieconsent.js"></script>
 <script defer src="cookies/cookieconsent-init.js"></script>

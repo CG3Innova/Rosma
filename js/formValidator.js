@@ -1,6 +1,6 @@
 // Configuración del formulario
 const CONFIG = {
-    recaptchaSiteKey: '6LcO39cpAAAAALwkp84G3PcFgVa8OqDUN2La-fDN',
+    recaptchaSiteKey: '6LcWRCwsAAAAAAFmnJwlGoxzjdQyMXiLguBhf4KI',
     errorMessages: {
         required: 'Este campo es obligatorio',
         email: 'Por favor, escribe una dirección de correo válida',

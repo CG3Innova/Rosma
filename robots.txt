@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://rosmabelleza.com/sitemap.xml
+Disallow: /politica-de-privacidad.php
+Disallow: /politica-de-cookies.php
+Disallow: /aviso-legal.php

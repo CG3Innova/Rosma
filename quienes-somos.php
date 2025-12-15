@@ -539,6 +539,16 @@
 
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1Z313LDP3X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1Z313LDP3X');
+</script>
+
 <script defer src="cookies/cookieconsent.js"></script>
 <script defer src="cookies/cookieconsent-init.js"></script>
 <script src="js/jquery.js"></script> 
