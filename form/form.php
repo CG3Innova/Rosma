@@ -6,7 +6,10 @@ $config = require '../../config_forms.php';
 // Configuración de PHP
 ini_set('display_errors', 0);
 ini_set('allow_url_fopen', true);
+ini_set('log_errors', 1);
+ini_set('error_log', __DIR__ . '/form_errors.log');
 session_cache_limiter('nocache');
+
 header('Expires: ' . gmdate('r', 0));
 header('Content-type: application/json');
 header("X-Content-Type-Options: nosniff");
@@ -37,6 +40,7 @@ const FIELD_NAMES = [
     'categoria' => 'Categoría',
     'servicio' => 'Servicio',
 ];
+
 const CATEGORY_LABELS = [
     'con buena cara' => 'Con buena cara',
     'dame tu mano' => 'Dame tu mano',
@@ -53,7 +57,8 @@ const CATEGORY_LABELS = [
     'para tu bienestar' => 'Para tu bienestar',
     'servicios medicos' => 'Servicios médicos',
 ];
-const SERVICE_LABELS = 
+
+const SERVICE_LABELS = [
     'formando curvas' => 'Formando curvas',
     'a toda velocidad' => 'A toda velocidad',
     'para tu mirada' => 'Para tu mirada',
@@ -93,6 +98,9 @@ class FormHandler {
     private $config;
     private $uploadedFiles = [];
 
+    private $expectedRecaptchaAction = 'submit';
+    private $minRecaptchaScore = 0.5;
+
     public function __construct($config) {
         $this->config = $config;
     }
@@ -100,6 +108,10 @@ class FormHandler {
     public function process() {
         if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
             $this->respondWithError('Método no permitido');
+        }
+
+        if (!is_array($this->config)) {
+            $this->respondWithError('Configuración inválida');
         }
 
         if (!isset($_POST['form_type'])) {
@@ -112,23 +124,45 @@ class FormHandler {
     }
 
     private function validateRequest() {
-        // Validar reCAPTCHA
         $recaptchaResponse = $_POST['g-recaptcha-response'] ?? '';
         if (empty($recaptchaResponse)) {
             $this->respondWithError('Error de reCAPTCHA: No se ha proporcionado respuesta');
         }
 
-        $responseData = $this->validateRecaptcha($this->config['recaptcha_secret_key'], $recaptchaResponse);
-        if (!$responseData->success) {
-            $this->respondWithError('Error de reCAPTCHA: Verificación fallida');
+        $responseData = $this->validateRecaptcha(
+            $this->config['recaptcha_secret_key'] ?? '',
+            $recaptchaResponse
+        );
+
+        // Si falla: devolver diagnóstico útil (sin quedarse en NULL)
+        if (!$responseData || empty($responseData->success)) {
+            $this->respondWithError('reCAPTCHA fail: ' . json_encode([
+                'debug'      => is_object($responseData) ? ($responseData->debug ?? null) : 'NULL',
+                'curl_errno' => is_object($responseData) ? ($responseData->curl_errno ?? null) : null,
+                'curl_error' => is_object($responseData) ? ($responseData->curl_error ?? null) : null,
+                'http_code'  => is_object($responseData) ? ($responseData->http_code ?? null) : null,
+                'error-codes'=> is_object($responseData) ? ($responseData->{'error-codes'} ?? null) : null,
+                'hostname'   => is_object($responseData) ? ($responseData->hostname ?? null) : null,
+                'action'     => is_object($responseData) ? ($responseData->action ?? null) : null,
+                'score'      => is_object($responseData) ? ($responseData->score ?? null) : null,
+            ]));
         }
 
-        // Validar email si existe
+        $score  = $responseData->score ?? 0;
+        $action = $responseData->action ?? '';
+
+        if ($this->expectedRecaptchaAction && $action !== $this->expectedRecaptchaAction) {
+            $this->respondWithError('Error de reCAPTCHA: Acción inválida');
+        }
+
+        if ($score < $this->minRecaptchaScore) {
+            $this->respondWithError('Error de reCAPTCHA: Puntuación insuficiente');
+        }
+
         if (isset($_POST['email']) && !filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
             $this->respondWithError('Email inválido');
         }
 
-        // Verificar spam
         if ($this->isSpam()) {
             $this->respondWithError('Detectado como spam');
         }
@@ -151,7 +185,7 @@ class FormHandler {
         }
 
         $extension = strtolower(pathinfo($file['name'], PATHINFO_EXTENSION));
-        if (!in_array($extension, ALLOWED_EXTENSIONS)) {
+        if (!in_array($extension, ALLOWED_EXTENSIONS, true)) {
             $this->respondWithError('Tipo de archivo no permitido');
         }
 
@@ -160,15 +194,18 @@ class FormHandler {
         }
 
         $tempName = tempnam(sys_get_temp_dir(), 'FORM_');
+        if ($tempName === false) {
+            $this->respondWithError('No se pudo preparar el archivo temporal');
+        }
+
         if (move_uploaded_file($file['tmp_name'], $tempName)) {
             $this->uploadedFiles[] = [
                 'path' => $tempName,
                 'name' => $file['name']
             ];
+        } else {
+            $this->respondWithError('No se pudo subir el archivo adjunto');
         }
-
-        $sanitizedFileName = preg_replace("/[^a-zA-Z0-9._-]/", "_", $file['name']);
-        return ['success' => true, 'sanitizedFileName' => $sanitizedFileName];
     }
 
     private function sendEmail() {
@@ -181,7 +218,7 @@ class FormHandler {
 
             $mail->send();
             $this->cleanup();
-            
+
             echo json_encode(['success' => true]);
             exit;
         } catch (Exception $e) {
@@ -192,20 +229,20 @@ class FormHandler {
 
     private function configureMailer($mail) {
         $mail->isSMTP();
-        $mail->Host = $this->config['smtp_host'];
+        $mail->Host = $this->config['smtp_host'] ?? '';
         $mail->SMTPAuth = true;
-        $mail->Username = $this->config['smtp_user'];
-        $mail->Password = $this->config['smtp_password'];
-        $mail->SMTPSecure = $this->config['smtp_secure'];
-        $mail->Port = $this->config['smtp_port'];
+        $mail->Username = $this->config['smtp_user'] ?? '';
+        $mail->Password = $this->config['smtp_password'] ?? '';
+        $mail->SMTPSecure = $this->config['smtp_secure'] ?? PHPMailer::ENCRYPTION_STARTTLS;
+        $mail->Port = (int)($this->config['smtp_port'] ?? 465);
         $mail->CharSet = 'UTF-8';
         $mail->isHTML(true);
 
-        $mail->setFrom($this->config['smtp_user']);
-        $mail->addAddress($this->config['recipient_email']);
-        $mail->AddBCC('webmaster@cg3innova.es');
-        
-        if (isset($_POST['email'])) {
+        $mail->setFrom($this->config['smtp_user'] ?? '');
+        $mail->addAddress($this->config['recipient_email'] ?? '');
+        $mail->addBCC('webmaster@cg3innova.es');
+
+        if (!empty($_POST['email'])) {
             $mail->addReplyTo($this->sanitizeInput($_POST['email']));
         }
     }
@@ -218,19 +255,17 @@ class FormHandler {
 
     private function buildEmailBody($formType) {
         $fields = "";
-        
-        // Procesar campos normales (excluyendo categorías)
+
         foreach ($_POST as $key => $value) {
-            if (!in_array($key, ['g-recaptcha-response', 'form_time', 'website', 'adjunto', 'form_type', 'terms']) 
-                && !empty($value)) { 
-                
+            if (!in_array($key, ['g-recaptcha-response', 'form_time', 'website', 'adjunto', 'form_type', 'terms'], true)
+                && !empty($value)) {
+
                 if (is_array($value)) {
                     $value = implode(', ', array_map([$this, 'sanitizeInput'], $value));
                 } else {
                     $value = $this->sanitizeInput($value);
                 }
 
-                // Traducir valores de los selects
                 if ($key === 'categoria') {
                     $value = CATEGORY_LABELS[$value] ?? $value;
                 } elseif ($key === 'servicio') {
@@ -242,7 +277,6 @@ class FormHandler {
             }
         }
 
-        // Información de archivos adjuntos
         if (!empty($this->uploadedFiles)) {
             $fields .= "<h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'><strong>Archivos adjuntos:</strong> ";
             $fileNames = array_map(function($file) {
@@ -290,31 +324,66 @@ class FormHandler {
 
     private function cleanup() {
         foreach ($this->uploadedFiles as $file) {
-            if (file_exists($file['path'])) {
+            if (!empty($file['path']) && file_exists($file['path'])) {
                 unlink($file['path']);
             }
         }
     }
 
+    // IMPORTANT: cURL con diagnóstico (evita NULL silencioso)
     private function validateRecaptcha($secret, $response) {
+        if (empty($secret) || empty($response)) {
+            return (object)['success' => false, 'debug' => 'missing-secret-or-response'];
+        }
+
+        if (!function_exists('curl_init')) {
+            return (object)['success' => false, 'debug' => 'curl-extension-not-available'];
+        }
+
         $url = 'https://www.google.com/recaptcha/api/siteverify';
-        $data = [
-            'secret' => $secret,
-            'response' => $response,
-            'remoteip' => $_SERVER['REMOTE_ADDR']
-        ];
+        $postData = http_build_query([
+            'secret'   => $secret,
+            'response' => $response
+        ]);
 
-        $options = [
-            'http' => [
-                'header' => "Content-type: application/x-www-form-urlencoded\r\n",
-                'method' => 'POST',
-                'content' => http_build_query($data)
-            ]
-        ];
+        $ch = curl_init($url);
+        curl_setopt_array($ch, [
+            CURLOPT_POST           => true,
+            CURLOPT_POSTFIELDS     => $postData,
+            CURLOPT_RETURNTRANSFER => true,
+            CURLOPT_TIMEOUT        => 8,
+            CURLOPT_CONNECTTIMEOUT => 5,
+            CURLOPT_SSL_VERIFYPEER => true,
+            CURLOPT_SSL_VERIFYHOST => 2,
+        ]);
 
-        $context = stream_context_create($options);
-        $result = file_get_contents($url, false, $context);
-        return json_decode($result);
+        $result = curl_exec($ch);
+        $errno  = curl_errno($ch);
+        $error  = curl_error($ch);
+        $http   = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        curl_close($ch);
+
+        if ($result === false || $errno) {
+            return (object)[
+                'success' => false,
+                'debug' => 'curl-failed',
+                'curl_errno' => $errno,
+                'curl_error' => $error,
+                'http_code'  => $http
+            ];
+        }
+
+        $decoded = json_decode($result);
+        if (!$decoded) {
+            return (object)[
+                'success' => false,
+                'debug' => 'json-decode-failed',
+                'http_code' => $http,
+                'raw' => substr($result, 0, 300)
+            ];
+        }
+
+        return $decoded;
     }
 
     private function isSpam() {
@@ -322,12 +391,12 @@ class FormHandler {
             return true;
         }
 
-        $formTime = intval($_POST['form_time'] ?? 0);
+        $formTime = (int)($_POST['form_time'] ?? 0);
         return (time() - $formTime < 5);
     }
 
     private function sanitizeInput($data) {
-        return htmlspecialchars(stripslashes(trim($data)), ENT_QUOTES, 'UTF-8');
+        return htmlspecialchars(stripslashes(trim((string)$data)), ENT_QUOTES, 'UTF-8');
     }
 
     private function reorderFiles($files) {
@@ -350,14 +419,14 @@ class FormHandler {
     }
 }
 
-// Iniciar el procesamiento del formulario
 try {
     $handler = new FormHandler($config);
     $handler->process();
-} catch (Exception $e) {
+} catch (\Throwable $e) {
     header('Content-Type: application/json');
     echo json_encode([
         'success' => false,
         'error' => 'Error interno del servidor'
     ]);
 }
+
